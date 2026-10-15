@@ -1,0 +1,1298 @@
+{
+  "songs": [
+    {
+      "id": "s1", "genre": "rock_nacional", "answer": "De música ligera", "artist": "Soda Stereo",
+      "artistAliases": ["Soda", "Cerati", "Gustavo Cerati"], "year": 1990, "decade": "90s",
+      "hint": "Soda Stereo la tocó para cerrar su último recital de 1997, justo antes del «¡Gracias totales!».",
+      "continue": {
+        "previousLine": "Ella durmió al calor de las masas",
+        "line": "y yo desperté queriendo soñarla",
+        "decoys": ["y yo me fui caminando sin rumbo", "y yo bailé hasta que salió el sol", "y yo canté para no olvidarla"]
+      }
+    },
+    {
+      "id": "s2", "genre": "rock_nacional", "answer": "Los dinosaurios", "artist": "Charly García",
+      "artistAliases": ["Charly"], "year": 1983, "decade": "80s",
+      "hint": "Charly García, «Clics modernos» (1983): una canción sobre todo lo que la dictadura hacía desaparecer.",
+      "continue": {
+        "previousLine": "Los amigos del barrio pueden desaparecer",
+        "line": "los cantores de radio pueden desaparecer",
+        "decoys": ["las estrellas del cielo pueden desaparecer", "los domingos de fútbol pueden desaparecer", "las cartas de amor pueden desaparecer"]
+      }
+    },
+    {
+      "id": "s3", "genre": "rock_nacional", "answer": "Flaca", "artist": "Andrés Calamaro",
+      "artistAliases": ["Calamaro"], "year": 1997, "decade": "90s",
+      "hint": "Calamaro, «Alta suciedad» (1997): le canta a una chica usando un apodo cariñoso bien porteño.",
+      "continue": {
+        "previousLine": "Flaca, no me claves tus puñales",
+        "line": "por la espalda tan profundo",
+        "decoys": ["en el medio de la noche", "cuando estoy por olvidarte", "que ya no tengo más perdón"]
+      }
+    },
+    {
+      "id": "s4", "genre": "rock_nacional", "answer": "Mariposa Tecknicolor", "aliases": ["Mariposa Technicolor"],
+      "artist": "Fito Páez", "artistAliases": ["Fito"], "year": 1994, "decade": "90s",
+      "hint": "Fito Páez, «Circo Beat» (1994): un insecto de mil colores que vuela por los recuerdos de Rosario."
+    },
+    {
+      "id": "s5", "genre": "rock_internacional", "answer": "Bohemian Rhapsody", "artist": "Queen",
+      "artistAliases": ["Freddie Mercury"], "year": 1975, "decade": "70s",
+      "hint": "Seis minutos de ópera rock con Galileo, Scaramouche y un «Mamma mia» de Freddie Mercury.",
+      "continue": {
+        "previousLine": "Is this the real life?",
+        "line": "Is this just fantasy?",
+        "decoys": ["Is this the only way?", "Is this what you call love?", "Is this the end of time?"]
+      }
+    },
+    {
+      "id": "s6", "genre": "pop_hits", "answer": "Billie Jean", "artist": "Michael Jackson",
+      "year": 1983, "decade": "80s",
+      "hint": "Michael Jackson jura que ese chico no es su hijo. Con este tema estrenó el moonwalk en la tele.",
+      "continue": {
+        "previousLine": "Billie Jean is not my lover",
+        "line": "She's just a girl who claims that I am the one",
+        "decoys": ["She's just a friend who lives across the street", "She's just a dream I had the other night", "She's just a song that's playing on the radio"]
+      }
+    },
+    {
+      "id": "s7", "genre": "rock_internacional", "answer": "Let It Be", "artist": "The Beatles",
+      "artistAliases": ["Beatles", "Los Beatles", "Paul McCartney"], "year": 1970, "decade": "70s",
+      "hint": "Paul McCartney soñó con su madre, Mary, y escribió esta despedida de los Beatles.",
+      "continue": {
+        "previousLine": "When I find myself in times of trouble",
+        "line": "Mother Mary comes to me",
+        "decoys": ["I just close my eyes and pray", "Someone holds my hand at night", "All the stars begin to shine"]
+      }
+    },
+    {
+      "id": "s8", "genre": "rock_nacional", "answer": "Persiana americana", "artist": "Soda Stereo",
+      "artistAliases": ["Soda", "Cerati"], "year": 1986, "decade": "80s",
+      "hint": "Soda Stereo, «Signos» (1986): espiar a alguien a través de una ventana con tablillas."
+    },
+    {
+      "id": "s9", "genre": "rock_nacional", "answer": "Matador", "artist": "Los Fabulosos Cadillacs",
+      "artistAliases": ["Fabulosos Cadillacs", "Cadillacs", "Vicentico"], "year": 1993, "decade": "90s",
+      "hint": "Los Fabulosos Cadillacs, 1993: un himno latinoamericano sobre un luchador perseguido, con percusión a full."
+    },
+    {
+      "id": "s10", "genre": "rock_nacional", "answer": "Ji ji ji", "aliases": ["Jijiji"],
+      "artist": "Patricio Rey y sus Redonditos de Ricota",
+      "artistAliases": ["Los Redondos", "Redonditos de Ricota", "Los Redonditos", "Patricio Rey", "Indio Solari"],
+      "year": 1986, "decade": "80s",
+      "hint": "El «pogo más grande del mundo»: el Indio Solari y compañía la dejaban para el final de cada show."
+    },
+    {
+      "id": "s11", "genre": "rock_internacional", "answer": "Smells Like Teen Spirit", "artist": "Nirvana",
+      "artistAliases": ["Kurt Cobain"], "year": 1991, "decade": "90s",
+      "hint": "Kurt Cobain, 1991: un desodorante adolescente le dio nombre al himno del grunge."
+    },
+    {
+      "id": "s12", "genre": "rock_nacional", "answer": "Mil horas", "artist": "Los Abuelos de la Nada",
+      "artistAliases": ["Abuelos de la Nada", "Andrés Calamaro", "Calamaro"], "year": 1983, "decade": "80s",
+      "hint": "Los Abuelos de la Nada, 1983, compuesta por un joven Calamaro: una espera que se mide en muchísimo tiempo."
+    },
+    {
+      "id": "s13", "genre": "rock_nacional", "answer": "Lamento boliviano", "artist": "Enanitos Verdes",
+      "artistAliases": ["Los Enanitos Verdes", "Enanitos"], "year": 1994, "decade": "90s",
+      "hint": "Enanitos Verdes, 1994: el que la canta está «borracho y loco» y con el corazón en otro país."
+    },
+    {
+      "id": "s14", "genre": "rock_nacional", "answer": "Crimen", "artist": "Gustavo Cerati",
+      "artistAliases": ["Cerati"], "year": 2006, "decade": "2000s",
+      "hint": "Gustavo Cerati solista, «Ahí vamos» (2006): una ruptura con nombre de delito."
+    },
+    {
+      "id": "s15", "genre": "rock_nacional", "answer": "Muchacha (ojos de papel)", "aliases": ["Muchacha ojos de papel", "Muchacha"],
+      "artist": "Almendra", "artistAliases": ["Luis Alberto Spinetta", "Spinetta"], "year": 1969, "decade": "60s",
+      "hint": "Spinetta con Almendra, 1969: una chica de mirada frágil a la que le pide que no se vaya."
+    },
+    {
+      "id": "s16", "genre": "rock_nacional", "answer": "La balsa", "artist": "Los Gatos",
+      "artistAliases": ["Litto Nebbia", "Tanguito"], "year": 1967, "decade": "60s",
+      "hint": "El primer gran éxito del rock argentino (1967): construir algo para irse a naufragar."
+    },
+    {
+      "id": "s17", "genre": "rock_nacional", "answer": "Canción para mi muerte", "artist": "Sui Generis",
+      "artistAliases": ["Charly García", "Nito Mestre"], "year": 1972, "decade": "70s",
+      "hint": "Sui Generis, «Vida» (1972): Charly y Nito le cantan a la propia partida."
+    },
+    {
+      "id": "s18", "genre": "rock_nacional", "answer": "Rasguña las piedras", "artist": "Sui Generis",
+      "artistAliases": ["Charly García", "Nito Mestre"], "year": 1973, "decade": "70s",
+      "hint": "Sui Generis, «Confesiones de invierno» (1973): alguien encerrado que araña las paredes para salir."
+    },
+    {
+      "id": "s19", "genre": "rock_nacional", "answer": "Demoliendo hoteles", "artist": "Charly García",
+      "artistAliases": ["Charly"], "year": 1984, "decade": "80s",
+      "hint": "Charly García, «Piano bar» (1984): un chico que creció con la tele de los 60 y ahora rompe edificios."
+    },
+    {
+      "id": "s20", "genre": "rock_nacional", "answer": "Nos siguen pegando abajo", "aliases": ["Pecado mortal"],
+      "artist": "Charly García", "artistAliases": ["Charly"], "year": 1983, "decade": "80s",
+      "hint": "Charly García, «Clics modernos» (1983): los golpes siempre caen sobre los mismos."
+    },
+    {
+      "id": "s21", "genre": "rock_nacional", "answer": "Cuando pase el temblor", "artist": "Soda Stereo",
+      "artistAliases": ["Soda", "Cerati"], "year": 1985, "decade": "80s",
+      "hint": "Soda Stereo, «Nada personal» (1985): rock con aires de carnavalito y un sismo de fondo."
+    },
+    {
+      "id": "s22", "genre": "rock_nacional", "answer": "Trátame suavemente", "artist": "Soda Stereo",
+      "artistAliases": ["Soda", "Cerati", "Daniel Melero"], "year": 1984, "decade": "80s",
+      "hint": "Soda Stereo, primer disco (1984), compuesta por Daniel Melero: un pedido de delicadeza."
+    },
+    {
+      "id": "s23", "genre": "rock_nacional", "answer": "En la ciudad de la furia", "aliases": ["La ciudad de la furia"],
+      "artist": "Soda Stereo", "artistAliases": ["Soda", "Cerati"], "year": 1988, "decade": "80s",
+      "hint": "Soda Stereo, «Doble vida» (1988): alguien con alas sobrevuela de noche una Buenos Aires enojada."
+    },
+    {
+      "id": "s24", "genre": "rock_nacional", "answer": "Seguir viviendo sin tu amor", "artist": "Luis Alberto Spinetta",
+      "artistAliases": ["Spinetta", "El Flaco"], "year": 1986, "decade": "80s",
+      "hint": "Spinetta solista, «Privé» (1986): una ruptura que obliga a seguir adelante."
+    },
+    {
+      "id": "s25", "genre": "rock_nacional", "answer": "Rezo por vos", "artist": "Charly García y Luis Alberto Spinetta",
+      "artistAliases": ["Charly García", "Spinetta", "Charly"], "year": 1986, "decade": "80s",
+      "hint": "Los dos genios del rock argentino la compusieron juntos en 1986: una plegaria por alguien."
+    },
+    {
+      "id": "s26", "genre": "rock_nacional", "answer": "11 y 6", "aliases": ["Once y seis"],
+      "artist": "Fito Páez", "artistAliases": ["Fito"], "year": 1985, "decade": "80s",
+      "hint": "Fito Páez, «Giros» (1985): dos chicos se encuentran todos los días en un café a la misma hora."
+    },
+    {
+      "id": "s27", "genre": "rock_nacional", "answer": "Ciudad de pobres corazones", "artist": "Fito Páez",
+      "artistAliases": ["Fito"], "year": 1987, "decade": "80s",
+      "hint": "Fito Páez, 1987: un disco furioso escrito después de una tragedia familiar en Rosario."
+    },
+    {
+      "id": "s28", "genre": "rock_nacional", "answer": "El amor después del amor", "artist": "Fito Páez",
+      "artistAliases": ["Fito"], "year": 1992, "decade": "90s",
+      "hint": "Fito Páez, 1992: la canción que da nombre al disco más vendido del rock argentino."
+    },
+    {
+      "id": "s29", "genre": "rock_nacional", "answer": "Dar es dar", "artist": "Fito Páez",
+      "artistAliases": ["Fito"], "year": 1992, "decade": "90s",
+      "hint": "Fito Páez, 1992: lo que te doy, te lo doy sin esperar nada a cambio."
+    },
+    {
+      "id": "s30", "genre": "rock_nacional", "answer": "Mañana en el Abasto", "artist": "Sumo",
+      "artistAliases": ["Luca Prodan"], "year": 1987, "decade": "80s",
+      "hint": "Sumo y Luca Prodan, 1987: una mañana en el barrio del viejo mercado porteño."
+    },
+    {
+      "id": "s31", "genre": "rock_nacional", "answer": "Un poco de amor francés", "artist": "Patricio Rey y sus Redonditos de Ricota",
+      "artistAliases": ["Los Redondos", "Redonditos de Ricota", "Indio Solari"], "year": 1989, "decade": "80s",
+      "hint": "Los Redondos, 1989: un romance con acento de París."
+    },
+    {
+      "id": "s32", "genre": "rock_nacional", "answer": "Vencedores vencidos", "artist": "Patricio Rey y sus Redonditos de Ricota",
+      "artistAliases": ["Los Redondos", "Redonditos de Ricota", "Indio Solari"], "year": 1988, "decade": "80s",
+      "hint": "Los Redondos, «Un baión para el ojo idiota» (1988): los que ganan también terminan perdiendo."
+    },
+    {
+      "id": "s33", "genre": "rock_nacional", "answer": "Costumbres argentinas", "artist": "Los Abuelos de la Nada",
+      "artistAliases": ["Abuelos de la Nada", "Andrés Calamaro", "Calamaro"], "year": 1985, "decade": "80s",
+      "hint": "Los Abuelos de la Nada, 1985: un repaso de hábitos bien de acá."
+    },
+    {
+      "id": "s34", "genre": "rock_nacional", "answer": "Wadu-Wadu", "aliases": ["Wadu Wadu"],
+      "artist": "Virus", "artistAliases": ["Federico Moura"], "year": 1981, "decade": "80s",
+      "hint": "Virus, 1981: tecno-pop platense con un título que parece un ruido."
+    },
+    {
+      "id": "s35", "genre": "rock_nacional", "answer": "Imágenes paganas", "artist": "Virus",
+      "artistAliases": ["Federico Moura"], "year": 1985, "decade": "80s",
+      "hint": "Virus y Federico Moura (1985): recuerdos de un amor pasado, con título casi pecaminoso."
+    },
+    {
+      "id": "s36", "genre": "rock_nacional", "answer": "El extraño de pelo largo", "artist": "La Joven Guardia",
+      "year": 1970, "decade": "70s",
+      "hint": "La Joven Guardia, 1970: un muchacho de melena que camina por la ciudad y todos lo miran."
+    },
+    {
+      "id": "s37", "genre": "rock_nacional", "answer": "Puente", "artist": "Gustavo Cerati",
+      "artistAliases": ["Cerati"], "year": 1999, "decade": "90s",
+      "hint": "Cerati solista, «Bocanada» (1999): una construcción que une dos orillas."
+    },
+    {
+      "id": "s38", "genre": "rock_nacional", "answer": "Vasos vacíos", "artist": "Los Fabulosos Cadillacs",
+      "artistAliases": ["Fabulosos Cadillacs", "Cadillacs", "Vicentico", "Celia Cruz"], "year": 1993, "decade": "90s",
+      "hint": "Los Fabulosos Cadillacs con Celia Cruz (1993): lo que queda en la mesa después del brindis."
+    },
+    {
+      "id": "s39", "genre": "rock_nacional", "answer": "La guitarra", "artist": "Los Auténticos Decadentes",
+      "artistAliases": ["Decadentes", "Los Decadentes"],
+      "hint": "Los Auténticos Decadentes: un pibe que prefiere tocar antes que salir a laburar."
+    },
+    {
+      "id": "s40", "genre": "rock_nacional", "answer": "Loco (tu forma de ser)", "aliases": ["Loco", "Tu forma de ser"],
+      "artist": "Los Auténticos Decadentes", "artistAliases": ["Decadentes", "Los Decadentes"],
+      "hint": "Los Decadentes: una persona tan particular que vuelve loco a cualquiera."
+    },
+    {
+      "id": "s41", "genre": "rock_nacional", "answer": "Crímenes perfectos", "artist": "Andrés Calamaro",
+      "artistAliases": ["Calamaro"], "year": 1999, "decade": "90s",
+      "hint": "Calamaro, «Honestidad brutal» (1999): delitos que nadie podría probar."
+    },
+    {
+      "id": "s42", "genre": "rock_nacional", "answer": "Tan solo", "artist": "Los Piojos",
+      "artistAliases": ["Ciro Martínez", "Ciro"],
+      "hint": "Los Piojos: una de las más coreadas en los recitales de Ciro y compañía."
+    },
+
+    {
+      "id": "s50", "genre": "rock_internacional", "answer": "Hey Jude", "artist": "The Beatles",
+      "artistAliases": ["Beatles", "Los Beatles", "Paul McCartney"], "year": 1968, "decade": "60s",
+      "hint": "Paul McCartney la escribió para consolar al hijo de John Lennon. Termina con un «na-na-na» eterno."
+    },
+    {
+      "id": "s51", "genre": "rock_internacional", "answer": "Yesterday", "artist": "The Beatles",
+      "artistAliases": ["Beatles", "Los Beatles", "Paul McCartney"], "year": 1965, "decade": "60s",
+      "hint": "Paul McCartney soñó la melodía y al principio la llamó «Scrambled Eggs» (huevos revueltos)."
+    },
+    {
+      "id": "s52", "genre": "rock_internacional", "answer": "(I Can't Get No) Satisfaction", "aliases": ["Satisfaction", "I Can't Get No Satisfaction"],
+      "artist": "The Rolling Stones", "artistAliases": ["Rolling Stones", "Los Rolling Stones", "Mick Jagger"], "year": 1965, "decade": "60s",
+      "hint": "Los Rolling Stones, 1965: un riff inolvidable y la queja de nunca quedar conformes."
+    },
+    {
+      "id": "s53", "genre": "rock_internacional", "answer": "Paint It Black", "artist": "The Rolling Stones",
+      "artistAliases": ["Rolling Stones", "Los Rolling Stones", "Mick Jagger"], "year": 1966, "decade": "60s",
+      "hint": "Los Rolling Stones, 1966: una puerta roja que quieren pintar de un color más oscuro."
+    },
+    {
+      "id": "s54", "genre": "rock_internacional", "answer": "Stairway to Heaven", "artist": "Led Zeppelin",
+      "artistAliases": ["Robert Plant", "Jimmy Page"], "year": 1971, "decade": "70s",
+      "hint": "Led Zeppelin, 1971: ocho minutos que arrancan con flauta dulce y terminan en un solo épico."
+    },
+    {
+      "id": "s55", "genre": "rock_internacional", "answer": "Hotel California", "artist": "Eagles",
+      "artistAliases": ["The Eagles"], "year": 1976, "decade": "70s",
+      "hint": "Eagles, 1976: un alojamiento en el desierto del que podés hacer el check-out cuando quieras, pero nunca irte."
+    },
+    {
+      "id": "s56", "genre": "rock_internacional", "answer": "Another Brick in the Wall", "artist": "Pink Floyd",
+      "artistAliases": ["Roger Waters"], "year": 1979, "decade": "70s",
+      "hint": "Pink Floyd, 1979: un coro de chicos grita «We don't need no education»."
+    },
+    {
+      "id": "s57", "genre": "rock_internacional", "answer": "Imagine", "artist": "John Lennon",
+      "artistAliases": ["Lennon"], "year": 1971, "decade": "70s",
+      "hint": "John Lennon, 1971: imaginar un mundo sin países, sin religiones y en paz."
+    },
+    {
+      "id": "s58", "genre": "rock_internacional", "answer": "Heroes", "aliases": ["Héroes", "\"Heroes\""],
+      "artist": "David Bowie", "artistAliases": ["Bowie"], "year": 1977, "decade": "70s",
+      "hint": "David Bowie, grabada en Berlín en 1977: dos amantes junto al Muro que podrían serlo… solo por un día."
+    },
+    {
+      "id": "s59", "genre": "rock_internacional", "answer": "Smoke on the Water", "artist": "Deep Purple",
+      "year": 1972, "decade": "70s",
+      "hint": "Deep Purple, 1972: un casino suizo se incendia durante un recital de Frank Zappa."
+    },
+    {
+      "id": "s60", "genre": "rock_internacional", "answer": "Highway to Hell", "artist": "AC/DC",
+      "artistAliases": ["ACDC", "Bon Scott"], "year": 1979, "decade": "70s",
+      "hint": "AC/DC, 1979: una ruta que no lleva precisamente al cielo."
+    },
+    {
+      "id": "s61", "genre": "rock_internacional", "answer": "Back in Black", "artist": "AC/DC",
+      "artistAliases": ["ACDC", "Angus Young"], "year": 1980, "decade": "80s",
+      "hint": "AC/DC, 1980: el homenaje a su cantante muerto, todo de luto."
+    },
+    {
+      "id": "s62", "genre": "rock_internacional", "answer": "Sultans of Swing", "artist": "Dire Straits",
+      "artistAliases": ["Mark Knopfler"], "year": 1978, "decade": "70s",
+      "hint": "Dire Straits, 1978: una banda de jazz amateur toca para nadie en un pub del sur de Londres."
+    },
+    {
+      "id": "s63", "genre": "rock_internacional", "answer": "Don't Stop Me Now", "artist": "Queen",
+      "artistAliases": ["Freddie Mercury"], "year": 1978, "decade": "70s",
+      "hint": "Queen, 1978: Freddie Mercury es una estrella fugaz a la que nadie puede frenar."
+    },
+    {
+      "id": "s64", "genre": "rock_internacional", "answer": "Under Pressure", "artist": "Queen y David Bowie",
+      "artistAliases": ["Queen", "David Bowie", "Bowie", "Freddie Mercury"], "year": 1981, "decade": "80s",
+      "hint": "Una colaboración de 1981 con una línea de bajo inolvidable y mucha presión."
+    },
+    {
+      "id": "s65", "genre": "rock_internacional", "answer": "Every Breath You Take", "artist": "The Police",
+      "artistAliases": ["Police", "Sting"], "year": 1983, "decade": "80s",
+      "hint": "The Police, 1983: parece de amor, pero habla de alguien que vigila cada movimiento."
+    },
+    {
+      "id": "s66", "genre": "rock_internacional", "answer": "With or Without You", "artist": "U2",
+      "artistAliases": ["Bono"], "year": 1987, "decade": "80s",
+      "hint": "U2, «The Joshua Tree» (1987): no puede vivir con ella… ni sin ella."
+    },
+    {
+      "id": "s67", "genre": "rock_internacional", "answer": "Sweet Child O' Mine", "aliases": ["Sweet Child of Mine"],
+      "artist": "Guns N' Roses", "artistAliases": ["Guns and Roses", "Axl Rose", "Slash"], "year": 1987, "decade": "80s",
+      "hint": "Guns N' Roses, 1987: un riff de Slash y una canción de Axl para su novia."
+    },
+    {
+      "id": "s68", "genre": "rock_internacional", "answer": "Livin' on a Prayer", "aliases": ["Living on a Prayer"],
+      "artist": "Bon Jovi", "artistAliases": ["Jon Bon Jovi"], "year": 1986, "decade": "80s",
+      "hint": "Bon Jovi, 1986: Tommy y Gina, dos laburantes que viven de una plegaria."
+    },
+    {
+      "id": "s69", "genre": "rock_internacional", "answer": "Losing My Religion", "artist": "R.E.M.",
+      "artistAliases": ["REM", "Michael Stipe"], "year": 1991, "decade": "90s",
+      "hint": "R.E.M., 1991: una mandolina y alguien que siente que está perdiendo la fe."
+    },
+    {
+      "id": "s70", "genre": "rock_internacional", "answer": "Enter Sandman", "artist": "Metallica",
+      "artistAliases": ["James Hetfield"], "year": 1991, "decade": "90s",
+      "hint": "Metallica, 1991: el personaje que trae el sueño a los chicos, versión pesadilla."
+    },
+    {
+      "id": "s71", "genre": "rock_internacional", "answer": "Wonderwall", "artist": "Oasis",
+      "artistAliases": ["Liam Gallagher", "Noel Gallagher"], "year": 1995, "decade": "90s",
+      "hint": "Oasis, 1995: el himno de fogón británico de los hermanos Gallagher."
+    },
+    {
+      "id": "s72", "genre": "rock_internacional", "answer": "Creep", "artist": "Radiohead",
+      "artistAliases": ["Thom Yorke"], "year": 1992, "decade": "90s",
+      "hint": "Radiohead, 1992: alguien que se siente un bicho raro y no entiende qué hace ahí."
+    },
+    {
+      "id": "s73", "genre": "rock_internacional", "answer": "Zombie", "artist": "The Cranberries",
+      "artistAliases": ["Cranberries", "Dolores O'Riordan"], "year": 1994, "decade": "90s",
+      "hint": "The Cranberries, 1994: Dolores O'Riordan canta contra la violencia en Irlanda del Norte."
+    },
+
+    {
+      "id": "p1", "genre": "pop_hits", "answer": "Despacito", "artist": "Luis Fonsi y Daddy Yankee",
+      "artistAliases": ["Luis Fonsi", "Daddy Yankee"], "year": 2017, "decade": "2010s",
+      "hint": "El video más visto de YouTube durante años: un reggaetón boricua lento… pasito a pasito.",
+      "continue": {
+        "previousLine": "Despacito",
+        "line": "quiero respirar tu cuello despacito",
+        "decoys": ["quiero bailar contigo toda la noche", "quiero que me beses lentamente", "quiero escribir tu nombre en la arena"]
+      }
+    },
+    {
+      "id": "p2", "genre": "pop_hits", "answer": "Hips Don't Lie", "artist": "Shakira",
+      "artistAliases": ["Wyclef Jean"], "year": 2006, "decade": "2000s",
+      "hint": "Shakira y Wyclef Jean, 2006: un hit en inglés sobre lo que delata el cuerpo al bailar."
+    },
+    {
+      "id": "p3", "genre": "pop_hits", "answer": "Muchachos",
+      "aliases": ["Muchachos, ahora nos volvimos a ilusionar", "Muchachos ahora nos volvimos a ilusionar"],
+      "artist": "La Mosca Tsé-Tsé", "artistAliases": ["La Mosca"], "year": 2022, "decade": "2020s", "tags": ["argentina", "mundiales"],
+      "hint": "El canto de la hinchada argentina en Qatar 2022, sobre la melodía de un tema de La Mosca.",
+      "continue": {
+        "previousLine": "En Argentina nací, tierra del Diego y Lionel",
+        "line": "de los pibes de Malvinas que jamás olvidaré",
+        "decoys": ["de las copas que ganamos y que siempre ganaré", "del asado y del mate que nunca abandoné", "de la gente de mi barrio que me vio crecer"]
+      }
+    },
+    {
+      "id": "p4", "genre": "pop_hits", "answer": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "aliases": ["Bzrp Music Sessions 52", "Session 52", "Sesión 52", "Quédate", "Bzrp 52"],
+      "artist": "Bizarrap y Quevedo", "artistAliases": ["Bizarrap", "Quevedo"], "year": 2022, "decade": "2020s", "tags": ["argentina"],
+      "hint": "La sesión de un productor argentino con un cantante canario que fue número 1 mundial en Spotify en 2022."
+    },
+    {
+      "id": "p5", "genre": "pop_hits", "answer": "Tusa", "artist": "Karol G y Nicki Minaj",
+      "artistAliases": ["Karol G", "Nicki Minaj"], "year": 2019, "decade": "2010s",
+      "hint": "Karol G y Nicki Minaj: la palabra colombiana para el despecho que no se va ni bailando."
+    },
+    {
+      "id": "p6", "genre": "pop_hits", "answer": "La bicicleta", "artist": "Carlos Vives y Shakira",
+      "artistAliases": ["Carlos Vives", "Shakira"], "year": 2016, "decade": "2010s",
+      "hint": "Dos colombianos, 2016: pasear por Barranquilla en un vehículo de dos ruedas."
+    },
+    {
+      "id": "p7", "genre": "pop_hits", "answer": "Macarena", "artist": "Los del Río", "decade": "90s",
+      "hint": "Dos sevillanos y una coreografía que bailó todo el planeta en los 90, con nombre de mujer."
+    },
+    {
+      "id": "p8", "genre": "pop_hits", "answer": "Livin' la Vida Loca", "aliases": ["Living la vida loca", "La vida loca"],
+      "artist": "Ricky Martin", "year": 1999, "decade": "90s",
+      "hint": "Ricky Martin, 1999: una chica que lo arrastra a una vida descontrolada."
+    },
+    {
+      "id": "p9", "genre": "pop_hits", "answer": "Mi gente", "artist": "J Balvin y Willy William",
+      "artistAliases": ["J Balvin", "Willy William"], "year": 2017, "decade": "2010s",
+      "hint": "J Balvin, 2017: un reggaetón para que se mueva todo el mundo, con sample de un DJ francés."
+    },
+    {
+      "id": "p10", "genre": "pop_hits", "answer": "Gasolina", "artist": "Daddy Yankee", "year": 2004, "decade": "2000s",
+      "hint": "Daddy Yankee, 2004: a ella le encanta un combustible."
+    },
+    {
+      "id": "p11", "genre": "pop_hits", "answer": "Uptown Funk", "artist": "Mark Ronson y Bruno Mars",
+      "artistAliases": ["Mark Ronson", "Bruno Mars"], "year": 2014, "decade": "2010s",
+      "hint": "Mark Ronson y Bruno Mars, 2014: funk de barrio alto. «Don't believe me, just watch!»"
+    },
+    {
+      "id": "p12", "genre": "pop_hits", "answer": "Bailando", "artist": "Enrique Iglesias",
+      "artistAliases": ["Gente de Zona", "Descemer Bueno"], "year": 2014, "decade": "2010s",
+      "hint": "Enrique Iglesias con Gente de Zona, 2014: tu cuerpo y el mío llenando el vacío."
+    },
+    {
+      "id": "p13", "genre": "pop_hits", "answer": "Thriller", "artist": "Michael Jackson", "decade": "80s",
+      "hint": "Michael Jackson y un videoclip de 14 minutos con zombies bailando y la risa de Vincent Price."
+    },
+    {
+      "id": "p14", "genre": "pop_hits", "answer": "Take On Me", "artist": "a-ha", "year": 1985, "decade": "80s",
+      "hint": "Una banda noruega, 1985: un videoclip dibujado a lápiz y un agudo imposible."
+    },
+    {
+      "id": "p15", "genre": "pop_hits", "answer": "Like a Prayer", "artist": "Madonna", "year": 1989, "decade": "80s",
+      "hint": "Madonna, 1989: un videoclip con cruces en llamas que escandalizó al Vaticano."
+    },
+    {
+      "id": "p16", "genre": "pop_hits", "answer": "Girls Just Want to Have Fun", "artist": "Cyndi Lauper",
+      "year": 1983, "decade": "80s",
+      "hint": "Cyndi Lauper, 1983: las chicas solo quieren pasarla bien."
+    },
+    {
+      "id": "p17", "genre": "pop_hits", "answer": "Dancing Queen", "artist": "ABBA", "year": 1976, "decade": "70s",
+      "hint": "ABBA, 1976: una chica de diecisiete que reina en la pista."
+    },
+    {
+      "id": "p18", "genre": "pop_hits", "answer": "Wannabe", "artist": "Spice Girls", "year": 1996, "decade": "90s",
+      "hint": "Spice Girls, 1996: «Tell you what I want, what I really really want»."
+    },
+    {
+      "id": "p19", "genre": "pop_hits", "answer": "...Baby One More Time", "aliases": ["Baby One More Time"],
+      "artist": "Britney Spears", "year": 1998, "decade": "90s",
+      "hint": "Britney Spears, 1998: un uniforme de colegio y un debut que la hizo princesa del pop."
+    },
+    {
+      "id": "p20", "genre": "pop_hits", "answer": "Rolling in the Deep", "artist": "Adele", "year": 2010, "decade": "2010s",
+      "hint": "Adele, 2010: un despecho con palmas y bombo que arrasó en todo el mundo."
+    },
+    {
+      "id": "p21", "genre": "pop_hits", "answer": "Shape of You", "artist": "Ed Sheeran", "year": 2017, "decade": "2010s",
+      "hint": "Ed Sheeran, 2017: enamorado de la figura de alguien que conoció en un bar."
+    },
+    {
+      "id": "p22", "genre": "pop_hits", "answer": "Blinding Lights", "artist": "The Weeknd", "year": 2019, "decade": "2010s",
+      "hint": "The Weeknd, 2019: sintetizadores ochentosos y luces que encandilan."
+    },
+    {
+      "id": "p23", "genre": "pop_hits", "answer": "Bad Guy", "artist": "Billie Eilish", "year": 2019, "decade": "2010s",
+      "hint": "Billie Eilish, 2019: susurros, bajo saturado y un «duh» famoso."
+    },
+    {
+      "id": "p24", "genre": "pop_hits", "answer": "Waka Waka (Esto es África)", "aliases": ["Waka Waka", "Esto es África"],
+      "artist": "Shakira", "year": 2010, "decade": "2010s", "tags": ["mundiales"],
+      "hint": "Shakira, 2010: la canción oficial del primer Mundial en el continente africano."
+    },
+    {
+      "id": "p25", "genre": "pop_hits", "answer": "Suavemente", "artist": "Elvis Crespo", "year": 1998, "decade": "90s",
+      "hint": "Elvis Crespo, 1998: un merengue que pide besos… con delicadeza."
+    },
+    {
+      "id": "p26", "genre": "pop_hits", "answer": "Tití me preguntó", "artist": "Bad Bunny", "year": 2022, "decade": "2020s",
+      "hint": "Bad Bunny, 2022: una tía curiosa quiere saber cuántas novias tiene."
+    },
+    {
+      "id": "p27", "genre": "pop_hits", "answer": "Flowers", "artist": "Miley Cyrus", "year": 2023, "decade": "2020s",
+      "hint": "Miley Cyrus, 2023: se puede comprar ramos ella sola, no necesita a nadie."
+    },
+    {
+      "id": "p28", "genre": "pop_hits", "answer": "Shakira: Bzrp Music Sessions, Vol. 53", "aliases": ["Bzrp Music Sessions 53", "Session 53", "Sesión 53", "Bzrp 53"],
+      "artist": "Bizarrap y Shakira", "artistAliases": ["Bizarrap", "Shakira"], "year": 2023, "decade": "2020s", "tags": ["argentina"],
+      "hint": "La sesión de 2023 donde una colombiana dice que las mujeres ya no lloran, facturan."
+    },
+    {
+      "id": "p29", "genre": "pop_hits", "answer": "Provenza", "artist": "Karol G", "year": 2022, "decade": "2020s",
+      "hint": "Karol G, 2022: extraña salir a bailar por un barrio de Medellín."
+    },
+    {
+      "id": "p30", "genre": "pop_hits", "answer": "La Bachata", "artist": "Manuel Turizo", "year": 2022, "decade": "2020s",
+      "hint": "Manuel Turizo, 2022: un ritmo dominicano para un amor que se fue."
+    },
+
+    {
+      "id": "t1", "genre": "tango", "answer": "Volver", "artist": "Carlos Gardel",
+      "artistAliases": ["Gardel", "Alfredo Le Pera"], "year": 1935, "decade": "30s",
+      "hint": "Gardel y Le Pera, 1935: regresar después de muchos años… y decir que veinte años no es nada.",
+      "continue": {
+        "previousLine": "Volver, con la frente marchita",
+        "line": "las nieves del tiempo platearon mi sien",
+        "decoys": ["y el alma cansada de tanto esperar", "las luces del puerto me vieron partir", "y un tango en el pecho que no sé olvidar"]
+      }
+    },
+    {
+      "id": "t2", "genre": "tango", "answer": "Mi Buenos Aires querido", "artist": "Carlos Gardel",
+      "artistAliases": ["Gardel"], "year": 1934, "decade": "30s",
+      "hint": "Gardel, 1934: una carta de amor a su ciudad. Cuando la vuelva a ver, no habrá más penas ni olvido.",
+      "continue": {
+        "previousLine": "Mi Buenos Aires querido",
+        "line": "cuando yo te vuelva a ver",
+        "decoys": ["cuánto te extraño de lejos", "bajo la luna de abril", "ya no te puedo olvidar"]
+      }
+    },
+    {
+      "id": "t3", "genre": "tango", "answer": "Por una cabeza", "artist": "Carlos Gardel",
+      "artistAliases": ["Gardel"], "year": 1935, "decade": "30s",
+      "hint": "Gardel, 1935: perder en las carreras de caballos y en el amor por muy poquito. Al Pacino la baila en «Perfume de mujer»."
+    },
+    {
+      "id": "t4", "genre": "tango", "answer": "Adiós Nonino", "artist": "Astor Piazzolla",
+      "artistAliases": ["Piazzolla"], "year": 1959, "decade": "50s",
+      "hint": "Astor Piazzolla, 1959: la despedida instrumental que le compuso a su padre al enterarse de su muerte."
+    },
+    {
+      "id": "t5", "genre": "tango", "answer": "La cumparsita", "artist": "Gerardo Matos Rodríguez",
+      "artistAliases": ["Matos Rodríguez"], "year": 1917, "decade": "10s", "skipKinds": ["artist"],
+      "hint": "El tango más famoso del mundo, compuesto en Montevideo en 1917 para una comparsa de carnaval."
+    },
+    {
+      "id": "t6", "genre": "tango", "answer": "Libertango", "artist": "Astor Piazzolla",
+      "artistAliases": ["Piazzolla"], "year": 1974, "decade": "70s",
+      "hint": "Piazzolla, 1974: el tema instrumental que Grace Jones convirtió en «I've Seen That Face Before»."
+    },
+    {
+      "id": "t7", "genre": "tango", "answer": "Balada para un loco", "artist": "Astor Piazzolla",
+      "artistAliases": ["Piazzolla", "Horacio Ferrer", "Amelita Baltar"], "year": 1969, "decade": "60s",
+      "hint": "Piazzolla y Horacio Ferrer, 1969: «Ya sé que estoy piantao, piantao, piantao…»."
+    },
+    {
+      "id": "t8", "genre": "tango", "answer": "Cambalache", "artist": "Enrique Santos Discépolo",
+      "artistAliases": ["Discépolo", "Discepolín"], "year": 1934, "decade": "30s", "skipKinds": ["artist"],
+      "hint": "Discépolo, 1934: el mundo fue y será una porquería, y la Biblia llora contra un calefón."
+    },
+    {
+      "id": "t9", "genre": "tango", "answer": "El día que me quieras", "artist": "Carlos Gardel",
+      "artistAliases": ["Gardel"], "year": 1935, "decade": "30s",
+      "hint": "Gardel, 1935: la rosa que engalana se vestirá de fiesta… el día que por fin lo quieran."
+    },
+    {
+      "id": "t10", "genre": "tango", "answer": "Sur", "artist": "Aníbal Troilo",
+      "artistAliases": ["Troilo", "Pichuco", "Homero Manzi"], "year": 1948, "decade": "40s",
+      "hint": "Troilo y Homero Manzi, 1948: «San Juan y Boedo antiguo, y todo el cielo»…"
+    },
+    {
+      "id": "t11", "genre": "tango", "answer": "La última curda", "artist": "Aníbal Troilo",
+      "artistAliases": ["Troilo", "Pichuco", "Cátulo Castillo", "Roberto Goyeneche", "Polaco Goyeneche"], "year": 1956, "decade": "50s",
+      "hint": "Troilo y Cátulo Castillo, 1956: la última copa de la noche, inmortalizada por el Polaco Goyeneche."
+    },
+    {
+      "id": "t12", "genre": "tango", "answer": "Cafetín de Buenos Aires", "artist": "Enrique Santos Discépolo",
+      "artistAliases": ["Discépolo", "Mariano Mores"], "year": 1948, "decade": "40s", "skipKinds": ["artist"],
+      "hint": "Discépolo y Mariano Mores, 1948: el bar del barrio como escuela de todas las cosas."
+    },
+    {
+      "id": "t13", "genre": "tango", "answer": "Yira, yira", "aliases": ["Yira yira"],
+      "artist": "Enrique Santos Discépolo", "artistAliases": ["Discépolo", "Discepolín"], "year": 1930, "decade": "30s", "skipKinds": ["artist"],
+      "hint": "Discépolo, 1930: «verás que todo es mentira, verás que nada es amor»…"
+    },
+    {
+      "id": "t14", "genre": "tango", "answer": "Garganta con arena", "artist": "Cacho Castaña",
+      "artistAliases": ["Castaña"],
+      "hint": "Cacho Castaña le escribió este homenaje a la voz rasposa del Polaco Goyeneche."
+    },
+
+    {
+      "id": "c1", "genre": "cumbia_cuarteto", "answer": "No me arrepiento de este amor", "artist": "Gilda",
+      "aliases": ["No me arrepiento"], "year": 1995, "decade": "90s",
+      "hint": "Gilda, la «santa» de la cumbia, 1995: un amor que no se lamenta, se defiende.",
+      "continue": {
+        "previousLine": "No me arrepiento de este amor",
+        "line": "aunque me cueste el corazón",
+        "decoys": ["aunque me duela de verdad", "aunque me quede sin tu voz", "aunque se apague el sol"]
+      }
+    },
+    {
+      "id": "c2", "genre": "cumbia_cuarteto", "answer": "Fuiste", "artist": "Gilda", "decade": "90s",
+      "hint": "Gilda le habla a alguien que ya es parte del pasado. El título es un verbo de una sola palabra."
+    },
+    {
+      "id": "c3", "genre": "cumbia_cuarteto", "answer": "Soy cordobés", "artist": "Rodrigo",
+      "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno"],
+      "hint": "El Potro Rodrigo, orgulloso de dónde viene: vino, joda y tonada.",
+      "continue": {
+        "previousLine": "Soy cordobés, me gusta el vino y la joda",
+        "line": "y lo tomo sin soda porque así pega más",
+        "decoys": ["y bailo toda la noche sin parar", "y no me importa lo que digan los demás", "y salgo a cantar con la luna en Carlos Paz"]
+      }
+    },
+    {
+      "id": "c4", "genre": "cumbia_cuarteto", "answer": "La mano de Dios", "artist": "Rodrigo",
+      "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno"],
+      "hint": "El Potro Rodrigo le canta la vida de Maradona, del potrero de Fiorito a la gloria."
+    },
+    {
+      "id": "c5", "genre": "cumbia_cuarteto", "answer": "Amor clasificado", "artist": "Rodrigo",
+      "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno", "Ulises Bueno"],
+      "hint": "El Potro Rodrigo busca el amor en los avisos del diario."
+    },
+    {
+      "id": "c6", "genre": "cumbia_cuarteto", "answer": "Quién se tomó todo el vino", "artist": "La Mona Jiménez",
+      "artistAliases": ["La Mona", "Mona Jiménez", "Carlos Jiménez"],
+      "hint": "La Mona Jiménez pregunta en plena fiesta quién vació la damajuana."
+    },
+    {
+      "id": "c7", "genre": "cumbia_cuarteto", "answer": "Se te ve la tanga", "artist": "Damas Gratis",
+      "artistAliases": ["Pablo Lescano"], "decade": "2000s",
+      "hint": "Damas Gratis y Pablo Lescano: un piropo cumbiero a una prenda que asoma del pantalón."
+    },
+    {
+      "id": "c8", "genre": "cumbia_cuarteto", "answer": "Una cerveza", "artist": "Ráfaga", "decade": "2000s",
+      "hint": "Ráfaga: ahogar las penas de amor con una birra… y otra, y otra."
+    },
+    {
+      "id": "c9", "genre": "cumbia_cuarteto", "answer": "El bombón asesino", "artist": "Los Palmeras",
+      "artistAliases": ["Palmeras"],
+      "hint": "Los Palmeras, cumbia santafesina: una chica tan dulce como peligrosa."
+    },
+    {
+      "id": "c10", "genre": "cumbia_cuarteto", "answer": "La pollera amarilla", "artist": "Gladys la Bomba Tucumana",
+      "artistAliases": ["Gladys", "La Bomba Tucumana", "La Bomba"],
+      "hint": "Gladys, la Bomba Tucumana: todos miran una prenda de un color muy llamativo."
+    },
+    {
+      "id": "c11", "genre": "cumbia_cuarteto", "answer": "Lo mejor del amor", "artist": "Rodrigo",
+      "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno"],
+      "hint": "El Potro Rodrigo le canta a lo más lindo de estar enamorado."
+    },
+    {
+      "id": "c12", "genre": "cumbia_cuarteto", "answer": "Cómo te voy a olvidar", "artist": "Los Ángeles Azules",
+      "artistAliases": ["Ángeles Azules"],
+      "hint": "Cumbia sonidera mexicana que se baila en todos los casamientos: una pregunta sin respuesta sobre el olvido."
+    },
+
+    {
+      "id": "f1", "genre": "folklore", "answer": "Gracias a la vida", "artist": "Mercedes Sosa",
+      "artistAliases": ["La Negra", "Negra Sosa", "Violeta Parra"],
+      "hint": "Una canción de Violeta Parra que Mercedes Sosa hizo eterna: agradecer todo lo recibido.",
+      "continue": {
+        "previousLine": "Gracias a la vida, que me ha dado tanto",
+        "line": "me dio dos luceros que cuando los abro",
+        "decoys": ["me dio la esperanza para caminar", "me dio una guitarra para cantar", "me dio los caminos de mi tierra"]
+      }
+    },
+    {
+      "id": "f2", "genre": "folklore", "answer": "Alfonsina y el mar", "artist": "Mercedes Sosa",
+      "artistAliases": ["La Negra", "Negra Sosa", "Ariel Ramírez", "Félix Luna"], "year": 1969, "decade": "60s",
+      "hint": "Ariel Ramírez y Félix Luna, 1969: homenaje a la poeta que se internó en el mar en Mar del Plata."
+    },
+    {
+      "id": "f3", "genre": "folklore", "answer": "Luna tucumana", "artist": "Atahualpa Yupanqui",
+      "artistAliases": ["Yupanqui", "Don Ata", "Atahualpa"],
+      "hint": "Atahualpa Yupanqui le canta al cielo nocturno de su provincia del norte.",
+      "continue": {
+        "previousLine": "Yo no le canto a la luna porque alumbra y nada más",
+        "line": "le canto porque ella sabe de mi largo caminar",
+        "decoys": ["le canto porque en la noche me acompaña al regresar", "le canto porque es la única que no me dejó de amar", "le canto porque en el cerro me enseñó a esperar"]
+      }
+    },
+    {
+      "id": "f4", "genre": "folklore", "answer": "Los ejes de mi carreta", "artist": "Atahualpa Yupanqui",
+      "artistAliases": ["Yupanqui", "Don Ata", "Atahualpa", "Romildo Risso"],
+      "hint": "Don Ata y Romildo Risso: un carrero que no engrasa las ruedas porque le gusta cómo chillan."
+    },
+    {
+      "id": "f5", "genre": "folklore", "answer": "Todo cambia", "artist": "Mercedes Sosa",
+      "artistAliases": ["La Negra", "Negra Sosa", "Julio Numhauser"], "year": 1984, "decade": "80s",
+      "hint": "Mercedes Sosa canta al chileno Julio Numhauser: cambia lo superficial, cambia lo profundo… pero no su amor."
+    },
+    {
+      "id": "f6", "genre": "folklore", "answer": "El arriero", "artist": "Atahualpa Yupanqui",
+      "artistAliases": ["Yupanqui", "Don Ata", "Atahualpa"],
+      "hint": "Don Ata le canta al hombre que arrea ganado ajeno por los caminos del norte.",
+      "continue": {
+        "previousLine": "Las penas y las vaquitas se van por la misma senda",
+        "line": "las penas son de nosotros, las vaquitas son ajenas",
+        "decoys": ["las penas se quedan conmigo, las vaquitas en la tierra", "las penas vuelven solitas, las vaquitas no regresan", "las penas son del que canta, las vaquitas del que espera"]
+      }
+    },
+    {
+      "id": "f7", "genre": "folklore", "answer": "Zamba de mi esperanza", "artist": "Jorge Cafrune",
+      "artistAliases": ["Cafrune", "El Turco Cafrune", "Luis Profili"],
+      "hint": "La zamba de Luis Profili que Jorge Cafrune hizo infaltable en cada peña.",
+      "continue": {
+        "previousLine": "Zamba de mi esperanza",
+        "line": "amanecida como un querer",
+        "decoys": ["florecida en mi corazón", "cantada al pie del cerro", "perdida en el atardecer"]
+      }
+    },
+    {
+      "id": "f8", "genre": "folklore", "answer": "Tren del cielo", "artist": "Soledad Pastorutti",
+      "artistAliases": ["Soledad", "La Sole"],
+      "hint": "La Sole revolea el poncho en un viaje ferroviario entre las nubes."
+    },
+    {
+      "id": "f9", "genre": "folklore", "answer": "Merceditas", "artist": "Ramón Sixto Ríos",
+      "skipKinds": ["artist"],
+      "hint": "El chamamé más famoso de todos: un amor del campo santafesino que quedó en el recuerdo."
+    },
+    {
+      "id": "f10", "genre": "folklore", "answer": "Zamba para olvidarte", "artist": "Daniel Toro",
+      "hint": "Daniel Toro: una zamba para intentar sacarse a alguien de la cabeza."
+    },
+    {
+      "id": "f11", "genre": "folklore", "answer": "Chacarera de las piedras", "artist": "Atahualpa Yupanqui",
+      "artistAliases": ["Yupanqui", "Don Ata", "Atahualpa"],
+      "hint": "Don Ata: una chacarera sobre los caminos pedregosos y la gente sencilla del monte."
+    },
+    {
+      "id": "f12", "genre": "folklore", "answer": "Balderrama", "artist": "Los Chalchaleros",
+      "artistAliases": ["Chalchaleros", "Cuchi Leguizamón", "Manuel J. Castilla"],
+      "hint": "Zamba del Cuchi Leguizamón y Manuel Castilla sobre un boliche salteño a orillas del canal."
+    }
+  ],
+
+  "movies": [
+    {
+      "id": "m1", "kind": "movie", "answer": "El secreto de sus ojos", "year": 2009, "tags": ["argentina"],
+      "hint": "Oscar a mejor película extranjera: un empleado judicial escribe una novela sobre un crimen de los 70 que nunca pudo cerrar.",
+      "characters": [
+        { "prompt": "En «El secreto de sus ojos», ¿cómo se llama el compañero borrachín de Espósito que interpreta Guillermo Francella?", "answer": "Pablo Sandoval", "aliases": ["Sandoval"] },
+        { "prompt": "En «El secreto de sus ojos», ¿cómo se llama el empleado judicial que interpreta Ricardo Darín?", "answer": "Benjamín Espósito", "aliases": ["Espósito"] }
+      ]
+    },
+    {
+      "id": "m2", "kind": "movie", "answer": "Relatos salvajes", "year": 2014, "tags": ["argentina"],
+      "hint": "Seis historias de gente que pierde los estribos. Una arranca en un avión y otra en un casamiento.",
+      "characters": [
+        { "prompt": "En «Relatos salvajes», ¿cuál es el apodo del ingeniero en explosivos que interpreta Ricardo Darín?", "answer": "Bombita", "aliases": ["Simón Fischer", "Fischer"] }
+      ]
+    },
+    {
+      "id": "m3", "kind": "movie", "answer": "Nueve reinas", "aliases": ["9 reinas"], "year": 2000, "tags": ["argentina"],
+      "hint": "Dos estafadores porteños se cruzan con un negocio millonario de estampillas falsificadas."
+    },
+    {
+      "id": "m4", "kind": "movie", "answer": "Argentina, 1985", "aliases": ["Argentina 1985"], "year": 2022, "tags": ["argentina"],
+      "hint": "Un fiscal y su joven equipo llevan adelante el Juicio a las Juntas.",
+      "characters": [
+        { "prompt": "En «Argentina, 1985», ¿cómo se llama el fiscal que interpreta Ricardo Darín?", "answer": "Julio Strassera", "aliases": ["Strassera"] },
+        { "prompt": "En «Argentina, 1985», ¿cómo se llama el fiscal adjunto que interpreta Peter Lanzani?", "answer": "Luis Moreno Ocampo", "aliases": ["Moreno Ocampo"] }
+      ]
+    },
+    {
+      "id": "m5", "kind": "movie", "answer": "Esperando la carroza", "year": 1985, "tags": ["argentina"],
+      "hint": "«¡Yo hago puchero, ella hace puchero!». Una familia, un velorio y tres empanadas.",
+      "characters": [
+        { "prompt": "En «Esperando la carroza», ¿cómo le dicen a la abuela que interpreta Antonio Gasalla?", "answer": "Mamá Cora", "aliases": ["Cora"] }
+      ]
+    },
+    {
+      "id": "m6", "kind": "movie", "answer": "La historia oficial", "year": 1985, "tags": ["argentina"],
+      "hint": "Primer Oscar argentino: una profesora de historia empieza a sospechar del origen de su hija adoptiva."
+    },
+    {
+      "id": "m7", "kind": "movie", "answer": "Un cuento chino", "year": 2011, "tags": ["argentina"],
+      "hint": "Darín es un ferretero cascarrabias que termina alojando a un joven que no habla una palabra de castellano."
+    },
+    {
+      "id": "m8", "kind": "movie", "answer": "Titanic", "year": 1997,
+      "hint": "Un dibujante pobre y una chica de clase alta se enamoran en un viaje inaugural que termina muy mal.",
+      "characters": [
+        { "prompt": "En «Titanic», ¿cómo se llama el personaje de Leonardo DiCaprio?", "answer": "Jack Dawson", "aliases": ["Jack"] },
+        { "prompt": "En «Titanic», ¿cómo se llama el personaje de Kate Winslet?", "answer": "Rose DeWitt Bukater", "aliases": ["Rose"] }
+      ]
+    },
+    {
+      "id": "m9", "kind": "movie", "answer": "El padrino", "aliases": ["The Godfather"], "year": 1972,
+      "hint": "«Le haré una oferta que no podrá rechazar.»",
+      "characters": [
+        { "prompt": "En «El padrino», ¿cómo se llama el patriarca mafioso que interpreta Marlon Brando?", "answer": "Vito Corleone", "aliases": ["Don Vito", "Don Corleone"] },
+        { "prompt": "En «El padrino», ¿cómo se llama el hijo que interpreta Al Pacino?", "answer": "Michael Corleone", "aliases": ["Michael"] }
+      ]
+    },
+    {
+      "id": "m10", "kind": "movie", "answer": "Volver al futuro", "aliases": ["Back to the Future"], "year": 1985,
+      "hint": "Un adolescente viaja a 1955 en un DeLorean y casi impide que sus padres se conozcan.",
+      "characters": [
+        { "prompt": "En «Volver al futuro», ¿cómo se llama el científico que inventa la máquina del tiempo?", "answer": "Doc Brown", "aliases": ["Emmett Brown", "Doc", "Emmett"] },
+        { "prompt": "En «Volver al futuro», ¿cómo se llama el adolescente que interpreta Michael J. Fox?", "answer": "Marty McFly", "aliases": ["Marty"] }
+      ]
+    },
+    {
+      "id": "m11", "kind": "movie", "answer": "Toy Story", "year": 1995,
+      "hint": "Un vaquero de juguete se muere de celos cuando llega al cuarto un guardián espacial.",
+      "characters": [
+        { "prompt": "En «Toy Story», ¿cómo se llama el astronauta de juguete?", "answer": "Buzz Lightyear", "aliases": ["Buzz"] },
+        { "prompt": "En «Toy Story», ¿cómo se llama el vaquero?", "answer": "Woody" }
+      ]
+    },
+    {
+      "id": "m12", "kind": "movie", "answer": "El rey león", "aliases": ["The Lion King"], "year": 1994,
+      "hint": "Un cachorro huye después de la muerte de su padre y vuelve para recuperar la Roca del Rey. ¡Hakuna matata!",
+      "characters": [
+        { "prompt": "En «El rey león», ¿cómo se llama el tío malvado de Simba?", "answer": "Scar" },
+        { "prompt": "En «El rey león», ¿cómo se llama el padre de Simba?", "answer": "Mufasa" }
+      ]
+    },
+    {
+      "id": "m13", "kind": "movie", "answer": "Forrest Gump", "year": 1994,
+      "hint": "«La vida es como una caja de bombones: nunca sabés lo que te va a tocar.»"
+    },
+    {
+      "id": "m14", "kind": "movie", "answer": "Matrix", "aliases": ["The Matrix"], "year": 1999,
+      "hint": "¿Pastilla roja o pastilla azul? Un hacker descubre que el mundo es una simulación.",
+      "characters": [
+        { "prompt": "En «Matrix», ¿cómo se llama el personaje de Keanu Reeves?", "answer": "Neo", "aliases": ["Thomas Anderson"] },
+        { "prompt": "En «Matrix», ¿cómo se llama el que le ofrece las pastillas al protagonista?", "answer": "Morfeo", "aliases": ["Morpheus"] }
+      ]
+    },
+    {
+      "id": "m15", "kind": "movie", "answer": "Star Wars", "aliases": ["La guerra de las galaxias", "Una nueva esperanza", "Star Wars: Una nueva esperanza"], "year": 1977,
+      "hint": "Hace mucho tiempo, en una galaxia muy, muy lejana… «Que la Fuerza te acompañe».",
+      "characters": [
+        { "prompt": "En «Star Wars», ¿cómo se llama el villano de casco negro que resulta ser el padre de Luke?", "answer": "Darth Vader", "aliases": ["Vader", "Anakin Skywalker", "Anakin"] },
+        { "prompt": "En «Star Wars», ¿cómo se llama el piloto del Halcón Milenario que interpreta Harrison Ford?", "answer": "Han Solo", "aliases": ["Han"] }
+      ]
+    },
+    {
+      "id": "m16", "kind": "movie", "answer": "Jurassic Park", "aliases": ["Parque Jurásico"], "year": 1993,
+      "hint": "Un millonario clona dinosaurios para abrir un parque temático. ¿Qué podría salir mal?"
+    },
+    {
+      "id": "m17", "kind": "movie", "answer": "Harry Potter y la piedra filosofal", "aliases": ["Harry Potter"], "year": 2001,
+      "hint": "Un chico huérfano que duerme bajo la escalera recibe una carta de un colegio de magia.",
+      "characters": [
+        { "prompt": "En «Harry Potter», ¿cómo se llama el guardabosques gigante que le cuenta a Harry que es mago?", "answer": "Hagrid", "aliases": ["Rubeus Hagrid"] },
+        { "prompt": "En «Harry Potter», ¿cómo se llama el director de Hogwarts?", "answer": "Albus Dumbledore", "aliases": ["Dumbledore"] }
+      ]
+    },
+    {
+      "id": "m18", "kind": "movie", "answer": "Shrek", "year": 2001,
+      "hint": "Un ogro verde y gruñón tiene que rescatar a una princesa con la ayuda de un burro que no se calla nunca.",
+      "characters": [
+        { "prompt": "En «Shrek», ¿cómo se llama la princesa?", "answer": "Fiona", "aliases": ["Princesa Fiona"] },
+        { "prompt": "En «Shrek 2», ¿cómo se llama el gato espadachín con la voz de Antonio Banderas?", "answer": "El Gato con Botas", "aliases": ["Gato con Botas", "Puss in Boots"] }
+      ]
+    },
+    {
+      "id": "m19", "kind": "movie", "answer": "Camila", "year": 1984, "tags": ["argentina"],
+      "hint": "María Luisa Bemberg cuenta el romance prohibido entre una joven de la alta sociedad y un sacerdote en tiempos de Rosas."
+    },
+    {
+      "id": "m20", "kind": "movie", "answer": "Plata dulce", "year": 1982, "tags": ["argentina"],
+      "hint": "Federico Luppi y Julio De Grazia en la Argentina de la «tablita» y la plata fácil."
+    },
+    {
+      "id": "m21", "kind": "movie", "answer": "El hijo de la novia", "year": 2001, "tags": ["argentina"],
+      "hint": "Darín organiza el casamiento por iglesia de sus padres, aunque su madre tiene Alzheimer."
+    },
+    {
+      "id": "m22", "kind": "movie", "answer": "El ciudadano ilustre", "year": 2016, "tags": ["argentina"],
+      "hint": "Un escritor con el Premio Nobel vuelve a su pueblo natal y todo sale mal."
+    },
+    {
+      "id": "m23", "kind": "movie", "answer": "Mi obra maestra", "year": 2018, "tags": ["argentina"],
+      "hint": "Un galerista porteño y un pintor caído en desgracia planean un fraude en el mundo del arte."
+    },
+    {
+      "id": "m24", "kind": "movie", "answer": "El clan", "year": 2015, "tags": ["argentina"],
+      "hint": "Una familia de San Isidro secuestra gente en los 80, con Guillermo Francella como padre.",
+      "characters": [
+        { "prompt": "En «El clan», ¿cómo se llama el patriarca que interpreta Guillermo Francella?", "answer": "Arquímedes Puccio", "aliases": ["Puccio", "Arquímedes"] }
+      ]
+    },
+    {
+      "id": "m25", "kind": "movie", "answer": "Martín (Hache)", "aliases": ["Martín Hache", "Martin H"], "year": 1997, "tags": ["argentina"],
+      "hint": "Federico Luppi se lleva a Madrid a su hijo adolescente después de una sobredosis."
+    },
+    {
+      "id": "m26", "kind": "movie", "answer": "Tiempo de valientes", "year": 2005, "tags": ["argentina"],
+      "hint": "Diego Peretti es un psicólogo que debe acompañar a un policía deprimido en una investigación."
+    },
+    {
+      "id": "m27", "kind": "movie", "answer": "Los bañeros más locos del mundo", "year": 1987, "tags": ["argentina"],
+      "hint": "Comedia de verano: un grupo de guardavidas desastrosos en la costa atlántica."
+    },
+    {
+      "id": "m28", "kind": "movie", "answer": "Pulp Fiction", "year": 1994,
+      "hint": "Tarantino, 1994: dos sicarios charlan sobre hamburguesas europeas antes de un trabajo.",
+      "characters": [
+        { "prompt": "En «Pulp Fiction», ¿cómo se llama el sicario que interpreta John Travolta?", "answer": "Vincent Vega", "aliases": ["Vincent"] },
+        { "prompt": "En «Pulp Fiction», ¿cómo se llama el sicario que interpreta Samuel L. Jackson?", "answer": "Jules Winnfield", "aliases": ["Jules"] }
+      ]
+    },
+    {
+      "id": "m29", "kind": "movie", "answer": "Gladiador", "aliases": ["Gladiator"], "year": 2000,
+      "hint": "Un general romano traicionado termina como esclavo y luchador en el Coliseo.",
+      "characters": [
+        { "prompt": "En «Gladiador», ¿cómo se llama el general que interpreta Russell Crowe?", "answer": "Máximo Décimo Meridio", "aliases": ["Máximo", "Maximus"] },
+        { "prompt": "En «Gladiador», ¿cómo se llama el emperador villano que interpreta Joaquin Phoenix?", "answer": "Cómodo", "aliases": ["Commodus"] }
+      ]
+    },
+    {
+      "id": "m30", "kind": "movie", "answer": "E.T., el extraterrestre", "aliases": ["E.T.", "ET"], "year": 1982,
+      "hint": "Un chico esconde en su casa a un visitante de otro planeta que quiere «llamar a casa»."
+    },
+    {
+      "id": "m31", "kind": "movie", "answer": "Tiburón", "aliases": ["Jaws"], "year": 1975,
+      "hint": "Spielberg, 1975: un escualo gigante aterroriza una playa turística en pleno verano."
+    },
+    {
+      "id": "m32", "kind": "movie", "answer": "Rocky", "year": 1976,
+      "hint": "Un boxeador de Filadelfia entrena subiendo corriendo las escaleras de un museo.",
+      "characters": [
+        { "prompt": "En «Rocky», ¿cómo se llama la novia del boxeador?", "answer": "Adrian" }
+      ]
+    },
+    {
+      "id": "m33", "kind": "movie", "answer": "Los cazafantasmas", "aliases": ["Ghostbusters", "Cazafantasmas"], "year": 1984,
+      "hint": "Tres científicos desempleados abren una empresa para atrapar espectros en Nueva York."
+    },
+    {
+      "id": "m34", "kind": "movie", "answer": "Indiana Jones y los cazadores del arca perdida", "aliases": ["Indiana Jones", "Los cazadores del arca perdida", "Raiders of the Lost Ark"], "year": 1981,
+      "hint": "Un arqueólogo con látigo y sombrero compite con los nazis por un tesoro bíblico."
+    },
+    {
+      "id": "m35", "kind": "movie", "answer": "Terminator", "aliases": ["The Terminator", "El exterminador"], "year": 1984,
+      "hint": "Un cyborg viaja desde el futuro para matar a una camarera llamada Sarah Connor.",
+      "characters": [
+        { "prompt": "En «Terminator», ¿cómo se llama la mujer a la que persigue el cyborg?", "answer": "Sarah Connor", "aliases": ["Sarah"] }
+      ]
+    },
+    {
+      "id": "m36", "kind": "movie", "answer": "El silencio de los inocentes", "aliases": ["The Silence of the Lambs"], "year": 1991,
+      "hint": "Una agente del FBI le pide ayuda a un psiquiatra preso… que es caníbal.",
+      "characters": [
+        { "prompt": "En «El silencio de los inocentes», ¿cómo se llama el psiquiatra caníbal?", "answer": "Hannibal Lecter", "aliases": ["Hannibal", "Lecter"] }
+      ]
+    },
+    {
+      "id": "m37", "kind": "movie", "answer": "Avatar", "year": 2009,
+      "hint": "Un marine parapléjico controla un cuerpo alienígena azul en la luna Pandora."
+    },
+    {
+      "id": "m38", "kind": "movie", "answer": "El señor de los anillos: la comunidad del anillo", "aliases": ["El señor de los anillos", "La comunidad del anillo", "The Lord of the Rings"], "year": 2001,
+      "hint": "Un hobbit tiene que destruir una joya en el volcán donde fue forjada.",
+      "characters": [
+        { "prompt": "En «El señor de los anillos», ¿cómo se llama el mago gris?", "answer": "Gandalf" },
+        { "prompt": "En «El señor de los anillos», ¿cómo se llama el hobbit que carga el anillo?", "answer": "Frodo Bolsón", "aliases": ["Frodo", "Frodo Baggins"] }
+      ]
+    },
+    {
+      "id": "m39", "kind": "movie", "answer": "Buscando a Nemo", "aliases": ["Finding Nemo"], "year": 2003,
+      "hint": "Un pez payaso cruza el océano para encontrar a su hijo, con ayuda de una amiga muy olvidadiza.",
+      "characters": [
+        { "prompt": "En «Buscando a Nemo», ¿cómo se llama la pez cirujano azul que se olvida de todo?", "answer": "Dory" },
+        { "prompt": "En «Buscando a Nemo», ¿cómo se llama el papá de Nemo?", "answer": "Marlin" }
+      ]
+    },
+    {
+      "id": "m40", "kind": "movie", "answer": "Frozen", "aliases": ["Frozen: una aventura congelada"], "year": 2013,
+      "hint": "Una reina con poderes de hielo se aísla en una montaña y canta «Libre soy».",
+      "characters": [
+        { "prompt": "En «Frozen», ¿cómo se llama el muñeco de nieve que ama el verano?", "answer": "Olaf" },
+        { "prompt": "En «Frozen», ¿cómo se llama la reina con poderes de hielo?", "answer": "Elsa" }
+      ]
+    },
+    {
+      "id": "m41", "kind": "movie", "answer": "Coco", "year": 2017,
+      "hint": "Un chico mexicano que sueña con ser músico termina en la Tierra de los Muertos.",
+      "characters": [
+        { "prompt": "En «Coco», ¿cómo se llama el chico protagonista?", "answer": "Miguel", "aliases": ["Miguel Rivera"] }
+      ]
+    },
+    {
+      "id": "m42", "kind": "movie", "answer": "Top Gun", "year": 1986,
+      "hint": "Tom Cruise, anteojos de aviador y aviones de combate al ritmo de «Take My Breath Away».",
+      "characters": [
+        { "prompt": "En «Top Gun», ¿cuál es el apodo del piloto que interpreta Tom Cruise?", "answer": "Maverick" }
+      ]
+    },
+    {
+      "id": "m43", "kind": "movie", "answer": "Dirty Dancing", "year": 1987,
+      "hint": "Una chica pasa el verano en un hotel de montaña y aprende a bailar con el profesor Johnny."
+    },
+    {
+      "id": "m44", "kind": "movie", "answer": "Grease", "aliases": ["Vaselina", "Brillantina"], "year": 1978,
+      "hint": "Danny y Sandy: un amor de verano y camperas de cuero en un colegio de los años 50.",
+      "characters": [
+        { "prompt": "En «Grease», ¿cómo se llama el personaje de John Travolta?", "answer": "Danny Zuko", "aliases": ["Danny"] }
+      ]
+    },
+    {
+      "id": "m45", "kind": "movie", "answer": "Mi pobre angelito", "aliases": ["Home Alone", "Solo en casa"], "year": 1990,
+      "hint": "Un chico queda solo en Navidad y defiende su casa de dos ladrones torpes.",
+      "characters": [
+        { "prompt": "En «Mi pobre angelito», ¿cómo se llama el chico que queda solo en casa?", "answer": "Kevin McCallister", "aliases": ["Kevin"] }
+      ]
+    },
+    {
+      "id": "m46", "kind": "movie", "answer": "Batman: el caballero de la noche", "aliases": ["El caballero de la noche", "The Dark Knight", "Batman"], "year": 2008,
+      "hint": "Heath Ledger ganó un Oscar póstumo por el villano de esta película de Christopher Nolan.",
+      "characters": [
+        { "prompt": "En «Batman: el caballero de la noche», ¿cómo se llama el villano que interpreta Heath Ledger?", "answer": "El Guasón", "aliases": ["Guasón", "Joker", "El Joker"] }
+      ]
+    },
+    {
+      "id": "m47", "kind": "movie", "answer": "Parásitos", "aliases": ["Parasite", "Parasitos"], "year": 2019,
+      "hint": "Primera película no hablada en inglés en ganar el Oscar a mejor película: una familia pobre se infiltra en una casa rica de Seúl."
+    },
+    {
+      "id": "m48", "kind": "movie", "answer": "Oppenheimer", "year": 2023,
+      "hint": "Christopher Nolan cuenta la vida del físico que dirigió el Proyecto Manhattan."
+    },
+    {
+      "id": "m49", "kind": "movie", "answer": "Barbie", "year": 2023,
+      "hint": "Una muñeca perfecta empieza a pensar en la muerte y viaja al mundo real con Ken."
+    },
+    {
+      "id": "m50", "kind": "movie", "answer": "Mamma Mia!", "aliases": ["Mamma Mia"], "year": 2008,
+      "hint": "Una chica invita a tres posibles padres a su boda en una isla griega, al ritmo de ABBA."
+    },
+
+    {
+      "id": "v1", "kind": "series", "answer": "Breaking Bad", "year": 2008, "seasons": 5,
+      "hint": "Un profesor de química con cáncer se asocia con un exalumno para cocinar metanfetamina en Albuquerque.",
+      "characters": [
+        { "prompt": "En «Breaking Bad», ¿cómo se llama el profesor de química que se vuelve narco?", "answer": "Walter White", "aliases": ["Heisenberg", "Walt"] },
+        { "prompt": "En «Breaking Bad», ¿cómo se llama el exalumno y socio de Walter White?", "answer": "Jesse Pinkman", "aliases": ["Jesse", "Pinkman"] }
+      ]
+    },
+    {
+      "id": "v2", "kind": "series", "answer": "Friends", "year": 1994, "seasons": 10,
+      "hint": "Seis amigos en Nueva York, un sillón naranja en un café y «We were on a break!».",
+      "characters": [
+        { "prompt": "En «Friends», ¿cómo se llama el paleontólogo del grupo?", "answer": "Ross Geller", "aliases": ["Ross"] },
+        { "prompt": "En «Friends», ¿cómo se llama la moza del café que interpreta Jennifer Aniston?", "answer": "Rachel Green", "aliases": ["Rachel"] },
+        { "prompt": "En «Friends», ¿cómo se llama el actor de telenovela que vive con Chandler?", "answer": "Joey Tribbiani", "aliases": ["Joey"] }
+      ]
+    },
+    {
+      "id": "v3", "kind": "series", "answer": "Los simuladores", "year": 2002, "seasons": 2, "tags": ["argentina"],
+      "hint": "Cuatro especialistas resuelven problemas de gente común con operativos, disfraces y mucho ingenio.",
+      "characters": [
+        { "prompt": "En «Los simuladores», ¿cómo se llama el líder del grupo que interpreta Federico D'Elía?", "answer": "Mario Santos", "aliases": ["Santos"] }
+      ]
+    },
+    {
+      "id": "v4", "kind": "series", "answer": "Okupas", "year": 2000, "seasons": 1, "tags": ["argentina"],
+      "hint": "Un estudiante que dejó Medicina cuida una casona tomada en el centro porteño con tres pibes del barrio.",
+      "characters": [
+        { "prompt": "En «Okupas», ¿cómo se llama el protagonista que interpreta Rodrigo de la Serna?", "answer": "Ricardo" }
+      ]
+    },
+    {
+      "id": "v5", "kind": "series", "answer": "Casados con hijos", "year": 2005, "seasons": 2, "tags": ["argentina"],
+      "hint": "La versión argentina de «Married… with Children»: un vendedor de zapatos y su familia disfuncional.",
+      "characters": [
+        { "prompt": "En «Casados con hijos», ¿cómo se llama el personaje de Guillermo Francella?", "answer": "Pepe Argento", "aliases": ["Pepe"] },
+        { "prompt": "En «Casados con hijos», ¿cómo se llama la esposa que interpreta Florencia Peña?", "answer": "Moni Argento", "aliases": ["Moni", "Mónica"] }
+      ]
+    },
+    {
+      "id": "v6", "kind": "series", "answer": "Game of Thrones", "aliases": ["Juego de tronos"], "year": 2011, "seasons": 8,
+      "hint": "Familias nobles se matan por un trono de hierro mientras se acerca el invierno.",
+      "characters": [
+        { "prompt": "En «Game of Thrones», ¿cómo se llama la «Madre de dragones»?", "answer": "Daenerys Targaryen", "aliases": ["Daenerys", "Khaleesi", "Dany"] },
+        { "prompt": "En «Game of Thrones», ¿cómo se llama el hijo bastardo de Ned Stark?", "answer": "Jon Snow", "aliases": ["Jon Nieve"] }
+      ]
+    },
+    {
+      "id": "v7", "kind": "series", "answer": "The Office", "year": 2005, "seasons": 9,
+      "hint": "Falso documental en una empresa que vende papel en Scranton, Pensilvania.",
+      "characters": [
+        { "prompt": "En «The Office», ¿cómo se llama el jefe de la sucursal que interpreta Steve Carell?", "answer": "Michael Scott", "aliases": ["Michael"] },
+        { "prompt": "En «The Office», ¿cómo se llama el vendedor obsesivo que cultiva remolachas?", "answer": "Dwight Schrute", "aliases": ["Dwight"] }
+      ]
+    },
+    {
+      "id": "v8", "kind": "series", "answer": "Stranger Things", "year": 2016, "seasons": 5,
+      "hint": "Chicos en bicicleta, los 80, un pueblo de Indiana y un mundo paralelo llamado «el otro lado».",
+      "characters": [
+        { "prompt": "En «Stranger Things», ¿cómo se llama la chica con poderes que tiene un número tatuado en la muñeca?", "answer": "Eleven", "aliases": ["Once", "11", "El"] }
+      ]
+    },
+    {
+      "id": "v9", "kind": "series", "answer": "Los Soprano", "aliases": ["The Sopranos", "Los Sopranos"], "year": 1999, "seasons": 6,
+      "hint": "Un capo mafioso de Nueva Jersey empieza terapia por sus ataques de pánico.",
+      "characters": [
+        { "prompt": "En «Los Soprano», ¿cómo se llama el capo protagonista?", "answer": "Tony Soprano", "aliases": ["Tony"] }
+      ]
+    },
+    {
+      "id": "v10", "kind": "series", "answer": "Lost", "aliases": ["Perdidos"], "year": 2004, "seasons": 6,
+      "hint": "Los sobrevivientes del vuelo 815 de Oceanic quedan atrapados en una isla muy, muy rara."
+    },
+    {
+      "id": "v11", "kind": "series", "answer": "El marginal", "year": 2016, "seasons": 5, "tags": ["argentina"],
+      "hint": "Un ex policía entra infiltrado a una cárcel para rescatar a la hija de un juez.",
+      "characters": [
+        { "prompt": "En «El marginal», ¿qué nombre usa el protagonista que interpreta Juan Minujín?", "answer": "Pastor", "aliases": ["Miguel Palacios", "Pastor Peralta"] }
+      ]
+    },
+    {
+      "id": "v12", "kind": "series", "answer": "Seinfeld", "year": 1989, "seasons": 9,
+      "hint": "La serie «sobre nada»: un comediante y sus amigos neuróticos en Manhattan.",
+      "characters": [
+        { "prompt": "En «Seinfeld», ¿cómo se llama el vecino que entra al departamento sin golpear?", "answer": "Kramer", "aliases": ["Cosmo Kramer"] },
+        { "prompt": "En «Seinfeld», ¿cómo se llama el amigo petiso, pelado y mentiroso?", "answer": "George Costanza", "aliases": ["George"] }
+      ]
+    },
+    {
+      "id": "v13", "kind": "series", "answer": "The Big Bang Theory", "aliases": ["Big Bang Theory", "La teoría del Big Bang"], "year": 2007, "seasons": 12,
+      "hint": "Dos físicos de Caltech, su vecina moza y un grupo de amigos fanáticos de la ciencia ficción.",
+      "characters": [
+        { "prompt": "En «The Big Bang Theory», ¿cómo se llama el físico obsesivo que tiene «su lugar» en el sillón?", "answer": "Sheldon Cooper", "aliases": ["Sheldon"] },
+        { "prompt": "En «The Big Bang Theory», ¿cómo se llama la vecina que trabaja de moza?", "answer": "Penny" }
+      ]
+    },
+    {
+      "id": "v14", "kind": "series", "answer": "Los Simpson", "aliases": ["The Simpsons", "Los Simpsons"], "year": 1989,
+      "hint": "Una familia amarilla de Springfield. El padre trabaja en una planta nuclear y ama las rosquillas.",
+      "characters": [
+        { "prompt": "En «Los Simpson», ¿cómo se llama el dueño de la planta nuclear?", "answer": "Señor Burns", "aliases": ["Montgomery Burns", "Mr. Burns", "Sr. Burns", "Burns"] },
+        { "prompt": "En «Los Simpson», ¿cómo se llama el dueño del bar al que va Homero?", "answer": "Moe", "aliases": ["Moe Szyslak"] },
+        { "prompt": "En «Los Simpson», ¿cómo se llama el vecino religioso de Homero?", "answer": "Ned Flanders", "aliases": ["Flanders", "Ned"] }
+      ]
+    },
+    {
+      "id": "v15", "kind": "series", "answer": "Mad Men", "year": 2007, "seasons": 7,
+      "hint": "Publicistas de Madison Avenue en los 60, con mucho whisky y cigarrillo.",
+      "characters": [
+        { "prompt": "En «Mad Men», ¿cómo se llama el director creativo que interpreta Jon Hamm?", "answer": "Don Draper", "aliases": ["Draper"] }
+      ]
+    },
+    {
+      "id": "v16", "kind": "series", "answer": "Chernobyl", "year": 2019, "seasons": 1,
+      "hint": "Miniserie de HBO sobre la explosión de un reactor nuclear soviético en 1986."
+    },
+    {
+      "id": "v17", "kind": "series", "answer": "Dark", "year": 2017, "seasons": 3,
+      "hint": "Serie alemana: cuatro familias, un pueblo con central nuclear y viajes en el tiempo cada 33 años."
+    },
+    {
+      "id": "v18", "kind": "series", "answer": "La casa de papel", "aliases": ["Money Heist"], "year": 2017,
+      "hint": "Un grupo con máscaras de Dalí y nombres de ciudades asalta la Fábrica de Moneda y Timbre de España.",
+      "characters": [
+        { "prompt": "En «La casa de papel», ¿cómo se hace llamar el cerebro del atraco?", "answer": "El Profesor", "aliases": ["Profesor", "Sergio Marquina"] },
+        { "prompt": "En «La casa de papel», ¿qué ciudad es el apodo de la narradora de la historia?", "answer": "Tokio", "aliases": ["Tokyo"] }
+      ]
+    },
+    {
+      "id": "v19", "kind": "series", "answer": "Los Roldán", "year": 2004, "tags": ["argentina"],
+      "hint": "Una familia humilde de Pompeya se muda a una torre de lujo.",
+      "characters": [
+        { "prompt": "En «Los Roldán», ¿cómo le dicen al padre de familia que interpreta Miguel Ángel Rodríguez?", "answer": "Tano", "aliases": ["Tano Roldán"] }
+      ]
+    },
+    {
+      "id": "v20", "kind": "series", "answer": "Rebelde Way", "year": 2002, "seasons": 2, "tags": ["argentina"],
+      "hint": "Cris Morena, 2002: alumnos de un colegio de élite forman una banda llamada Erreway."
+    },
+    {
+      "id": "v21", "kind": "series", "answer": "Casi ángeles", "year": 2007, "seasons": 4, "tags": ["argentina"],
+      "hint": "Cris Morena, 2007: chicos de la calle, una fundación y una banda llamada Teen Angels."
+    },
+    {
+      "id": "v22", "kind": "series", "answer": "Floricienta", "year": 2004, "seasons": 2, "tags": ["argentina"],
+      "hint": "Una chica con flores en el pelo trabaja de niñera en la mansión de los Fritzenwalden."
+    },
+    {
+      "id": "v23", "kind": "series", "answer": "Graduados", "year": 2012, "seasons": 1, "tags": ["argentina"],
+      "hint": "Telefe, 2012: dos excompañeros de secundaria se reencuentran veinte años después… y hay un hijo de por medio."
+    },
+    {
+      "id": "v24", "kind": "series", "answer": "El Chavo del 8", "aliases": ["El Chavo", "Chavo del Ocho"], "year": 1973,
+      "hint": "Un chico que vive en un barril en una vecindad mexicana. «Fue sin querer queriendo».",
+      "characters": [
+        { "prompt": "En «El Chavo del 8», ¿cómo se llama el vecino que nunca le paga la renta al Señor Barriga?", "answer": "Don Ramón", "aliases": ["Ramón"] },
+        { "prompt": "En «El Chavo del 8», ¿cómo se llama la vecina que le dice «chusma» a todos?", "answer": "Doña Florinda", "aliases": ["Florinda"] }
+      ]
+    },
+    {
+      "id": "v25", "kind": "series", "answer": "The Crown", "year": 2016, "seasons": 6,
+      "hint": "La vida de la reina Isabel II desde su casamiento y su coronación."
+    },
+    {
+      "id": "v26", "kind": "series", "answer": "El juego del calamar", "aliases": ["Squid Game"], "year": 2021, "seasons": 3,
+      "hint": "Deudores surcoreanos participan de juegos infantiles mortales por un premio millonario."
+    },
+    {
+      "id": "v27", "kind": "series", "answer": "Narcos", "year": 2015, "seasons": 3,
+      "hint": "La DEA persigue a un narcotraficante colombiano en los 80 y 90.",
+      "characters": [
+        { "prompt": "En «Narcos», ¿a qué narcotraficante interpreta Wagner Moura?", "answer": "Pablo Escobar", "aliases": ["Escobar"] }
+      ]
+    },
+    {
+      "id": "v28", "kind": "series", "answer": "Peaky Blinders", "year": 2013, "seasons": 6,
+      "hint": "Una pandilla de Birmingham con navajas cosidas en las gorras, después de la Primera Guerra.",
+      "characters": [
+        { "prompt": "En «Peaky Blinders», ¿cómo se llama el líder de la pandilla que interpreta Cillian Murphy?", "answer": "Thomas Shelby", "aliases": ["Tommy Shelby", "Tommy"] }
+      ]
+    },
+    {
+      "id": "v29", "kind": "series", "answer": "Two and a Half Men", "aliases": ["Dos hombres y medio"], "year": 2003, "seasons": 12,
+      "hint": "Un compositor de jingles mujeriego de Malibú convive con su hermano y su sobrino.",
+      "characters": [
+        { "prompt": "En «Two and a Half Men», ¿cómo se llama el soltero que interpreta Charlie Sheen?", "answer": "Charlie Harper", "aliases": ["Charlie"] }
+      ]
+    },
+    {
+      "id": "v30", "kind": "series", "answer": "How I Met Your Mother", "aliases": ["Cómo conocí a tu madre"], "year": 2005, "seasons": 9,
+      "hint": "Un arquitecto les cuenta a sus hijos, durante años, cómo conoció a su mamá.",
+      "characters": [
+        { "prompt": "En «How I Met Your Mother», ¿cómo se llama el amigo de traje que dice «legendario»?", "answer": "Barney Stinson", "aliases": ["Barney"] }
+      ]
+    },
+    {
+      "id": "v31", "kind": "series", "answer": "Dr. House", "aliases": ["House", "House M.D."], "year": 2004, "seasons": 8,
+      "hint": "Un médico genial, cascarrabias y adicto a los analgésicos resuelve diagnósticos imposibles.",
+      "characters": [
+        { "prompt": "En «Dr. House», ¿cuál es el nombre completo del médico protagonista?", "answer": "Gregory House", "aliases": ["House"] }
+      ]
+    },
+    {
+      "id": "v32", "kind": "series", "answer": "Prison Break", "year": 2005, "seasons": 5,
+      "hint": "Un ingeniero se tatúa los planos de una cárcel para sacar a su hermano condenado a muerte.",
+      "characters": [
+        { "prompt": "En «Prison Break», ¿cómo se llama el ingeniero tatuado?", "answer": "Michael Scofield", "aliases": ["Scofield"] }
+      ]
+    },
+    {
+      "id": "v33", "kind": "series", "answer": "The Walking Dead", "year": 2010, "seasons": 11,
+      "hint": "Un sheriff despierta del coma en un mundo invadido por muertos vivientes.",
+      "characters": [
+        { "prompt": "En «The Walking Dead», ¿cómo se llama el sheriff protagonista?", "answer": "Rick Grimes", "aliases": ["Rick"] }
+      ]
+    },
+    {
+      "id": "v34", "kind": "series", "answer": "Better Call Saul", "year": 2015, "seasons": 6,
+      "hint": "La transformación de Jimmy McGill en un abogado bastante turbio de Albuquerque."
+    },
+    {
+      "id": "v35", "kind": "series", "answer": "Merlí", "aliases": ["Merli"], "year": 2015, "seasons": 3,
+      "hint": "Un profesor de filosofía de Barcelona revoluciona a sus alumnos con sus métodos poco ortodoxos."
+    },
+    {
+      "id": "v36", "kind": "series", "answer": "Gasoleros", "year": 1998, "seasons": 2, "tags": ["argentina"],
+      "hint": "Un colectivero y una chica de barrio en una comedia de clase media que miraba toda la familia (Canal 13, 1998)."
+    },
+    {
+      "id": "v37", "kind": "series", "answer": "Poliladron", "year": 1995, "tags": ["argentina"],
+      "hint": "Un ladrón se infiltra en la policía para combatir el crimen (Adrián Suar, 1995)."
+    }
+  ],
+
+  "estimates": [
+    { "id": "e1", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos metros de altura tiene el Aconcagua?", "answer": 6961, "unit": "metros", "tolerance": 1500 },
+    { "id": "e2", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos metros de alto tiene el Obelisco porteño?", "answer": 67.5, "unit": "metros", "tolerance": 30 },
+    { "id": "e3", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos kilómetros hay en línea recta entre Buenos Aires y Ushuaia?", "answer": 2380, "unit": "km", "tolerance": 1200 },
+    { "id": "e4", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos habitantes tenía la Argentina según el censo 2022? (en millones)", "answer": 46, "unit": "millones", "tolerance": 15 },
+    { "id": "e5", "topic": "ciencia", "question": "¿A cuántos kilómetros está la Luna de la Tierra, en promedio?", "answer": 384400, "unit": "km", "tolerance": 200000 },
+    { "id": "e6", "topic": "geografia", "question": "¿Cuántos metros mide la Torre Eiffel, antenas incluidas?", "answer": 330, "unit": "metros", "tolerance": 150 },
+    { "id": "e7", "topic": "historia", "tags": ["argentina"], "question": "¿En qué año se inauguró el actual Teatro Colón?", "answer": 1908, "unit": null, "tolerance": 40, "format": "plain" },
+    { "id": "e8", "topic": "deportes", "subtopic": "mundiales", "tags": ["argentina"], "question": "¿Cuántos goles hizo Messi en Copas del Mundo?", "answer": 13, "unit": "goles", "tolerance": 8 },
+    { "id": "e9", "topic": "ciencia", "question": "¿Cuántos huesos tiene el cuerpo humano adulto?", "answer": 206, "unit": "huesos", "tolerance": 120 },
+    { "id": "e10", "topic": "geografia", "question": "¿Cuántos países hay en África?", "answer": 54, "unit": "países", "tolerance": 25 },
+    { "id": "e11", "topic": "geografia", "question": "¿Cuántos kilómetros hay en línea recta entre Buenos Aires y Madrid?", "answer": 10050, "unit": "km", "tolerance": 5000 },
+    { "id": "e12", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos saltos tienen las Cataratas del Iguazú, aproximadamente?", "answer": 275, "unit": "saltos", "tolerance": 150 },
+    { "id": "e13", "topic": "ciencia", "question": "¿Cuántos dólares costaba la primera PlayStation cuando salió en Estados Unidos (1995)?", "answer": 299, "unit": "USD", "tolerance": 200 },
+    { "id": "e14", "topic": "ciencia", "question": "¿Cuántos dólares costaba el primer iPhone (2007, 4 GB)?", "answer": 499, "unit": "USD", "tolerance": 300 },
+    { "id": "e15", "topic": "cine", "subtopic": "peliculas", "question": "¿Cuántos minutos dura «Titanic»?", "answer": 195, "unit": "minutos", "tolerance": 80 },
+    { "id": "e16", "topic": "historia", "tags": ["argentina"], "question": "¿En qué año Juan de Garay fundó por segunda vez Buenos Aires?", "answer": 1580, "unit": null, "tolerance": 60, "format": "plain" },
+    { "id": "e17", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos metros de ancho tiene la avenida 9 de Julio, aproximadamente?", "answer": 140, "unit": "metros", "tolerance": 80 },
+    { "id": "e18", "topic": "geografia", "tags": ["argentina"], "question": "¿Cuántos kilómetros recorre la Ruta Nacional 40?", "answer": 5194, "unit": "km", "tolerance": 2500 }
+  ]
+}

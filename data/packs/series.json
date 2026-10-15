@@ -1,0 +1,192 @@
+{
+  "movies": [
+    { "id": "ps1", "kind": "series", "answer": "The Wire", "aliases": ["The Wire: los vigilantes"], "year": 2002, "seasons": 5,
+      "hint": "HBO: policías, narcos, el puerto, la política y las escuelas de Baltimore, temporada por temporada.",
+      "characters": [
+        { "prompt": "En «The Wire», ¿cómo se llama el ladrón de dealers con escopeta y piloto largo?", "answer": "Omar Little", "aliases": ["Omar"] }
+      ] },
+    { "id": "ps2", "kind": "series", "answer": "Sex and the City", "year": 1998, "seasons": 6,
+      "hint": "Cuatro amigas en Manhattan, cócteles cosmopolitan y una columnista que escribe sobre sexo.",
+      "characters": [
+        { "prompt": "En «Sex and the City», ¿cómo se llama la columnista que interpreta Sarah Jessica Parker?", "answer": "Carrie Bradshaw", "aliases": ["Carrie"] },
+        { "prompt": "En «Sex and the City», ¿cómo se llama la relacionista pública más desinhibida del grupo?", "answer": "Samantha Jones", "aliases": ["Samantha"] }
+      ] },
+    { "id": "ps3", "kind": "series", "answer": "Los expedientes secretos X", "aliases": ["The X-Files", "Expedientes X"], "year": 1993, "seasons": 11,
+      "hint": "Dos agentes del FBI investigan ovnis y fenómenos paranormales. «La verdad está ahí afuera».",
+      "characters": [
+        { "prompt": "En «Los expedientes secretos X», ¿cómo se llama el agente que cree en los extraterrestres?", "answer": "Fox Mulder", "aliases": ["Mulder"] },
+        { "prompt": "En «Los expedientes secretos X», ¿cómo se llama la agente escéptica y médica?", "answer": "Dana Scully", "aliases": ["Scully"] }
+      ] },
+    { "id": "ps4", "kind": "series", "answer": "Modern Family", "year": 2009, "seasons": 11,
+      "hint": "Falso documental sobre tres ramas de una familia de Los Ángeles, con un patriarca casado con una colombiana.",
+      "characters": [
+        { "prompt": "En «Modern Family», ¿cómo se llama la colombiana que interpreta Sofía Vergara?", "answer": "Gloria Pritchett", "aliases": ["Gloria"] },
+        { "prompt": "En «Modern Family», ¿cómo se llama el papá torpe y buenazo casado con Claire?", "answer": "Phil Dunphy", "aliases": ["Phil"] }
+      ] },
+    { "id": "ps5", "kind": "series", "answer": "Dexter", "year": 2006, "seasons": 8,
+      "hint": "Un forense de la policía de Miami es, en secreto, un asesino serial que solo mata asesinos." },
+    { "id": "ps6", "kind": "series", "answer": "Downton Abbey", "year": 2010, "seasons": 6,
+      "hint": "Una familia aristocrática inglesa y sus sirvientes, desde el hundimiento del Titanic hasta los años 20.",
+      "characters": [
+        { "prompt": "En «Downton Abbey», ¿cómo se llama la condesa viuda que interpreta Maggie Smith?", "answer": "Violet Crawley", "aliases": ["Violet"] }
+      ] },
+    { "id": "ps7", "kind": "series", "answer": "Gossip Girl", "year": 2007, "seasons": 6,
+      "hint": "Chicos ricos del Upper East Side y una bloguera anónima que cuenta todos sus secretos. «XOXO».",
+      "characters": [
+        { "prompt": "En «Gossip Girl», ¿cómo se llama la reina de la escuela que interpreta Leighton Meester?", "answer": "Blair Waldorf", "aliases": ["Blair"] }
+      ] },
+    { "id": "ps8", "kind": "series", "answer": "Glee", "year": 2009, "seasons": 6,
+      "hint": "El club de coro de una secundaria de Ohio canta covers de todo. La entrenadora de porristas los odia.",
+      "characters": [
+        { "prompt": "En «Glee», ¿cómo se llama la entrenadora de porristas que interpreta Jane Lynch?", "answer": "Sue Sylvester", "aliases": ["Sue"] }
+      ] },
+    { "id": "ps9", "kind": "series", "answer": "Esposas desesperadas", "aliases": ["Desperate Housewives", "Amas de casa desesperadas"], "year": 2004, "seasons": 8,
+      "hint": "Cuatro vecinas de Wisteria Lane y una amiga muerta que narra desde el más allá." },
+    { "id": "ps10", "kind": "series", "answer": "Ozark", "year": 2017, "seasons": 4,
+      "hint": "Netflix: un asesor financiero lava plata para un cartel mexicano en un lago de Missouri.",
+      "characters": [
+        { "prompt": "En «Ozark», ¿cómo se llama el asesor financiero que interpreta Jason Bateman?", "answer": "Marty Byrde", "aliases": ["Marty"] }
+      ] },
+    { "id": "ps11", "kind": "series", "answer": "Succession", "year": 2018, "seasons": 4,
+      "hint": "HBO: los hijos de un magnate de los medios se pelean por quedarse con el imperio familiar.",
+      "characters": [
+        { "prompt": "En «Succession», ¿cómo se llama el patriarca del imperio mediático?", "answer": "Logan Roy", "aliases": ["Logan"] }
+      ] },
+    { "id": "ps12", "kind": "series", "answer": "Fleabag", "year": 2016, "seasons": 2,
+      "hint": "Phoebe Waller-Bridge le habla a la cámara mientras arruina todo en Londres. En la segunda temporada, un cura." },
+    { "id": "ps13", "kind": "series", "answer": "Brooklyn Nine-Nine", "aliases": ["Brooklyn 99"], "year": 2013, "seasons": 8,
+      "hint": "Comedia en una comisaría de Nueva York con un detective infantil y un capitán serísimo.",
+      "characters": [
+        { "prompt": "En «Brooklyn Nine-Nine», ¿cómo se llama el detective inmaduro que interpreta Andy Samberg?", "answer": "Jake Peralta", "aliases": ["Jake"] }
+      ] },
+    { "id": "ps14", "kind": "series", "answer": "Gilmore Girls", "aliases": ["Las chicas Gilmore"], "year": 2000, "seasons": 7,
+      "hint": "Una madre joven y su hija hablan rapidísimo y toman litros de café en Stars Hollow.",
+      "characters": [
+        { "prompt": "En «Gilmore Girls», ¿cómo se llama el dueño de la cafetería del pueblo?", "answer": "Luke Danes", "aliases": ["Luke"] }
+      ] },
+    { "id": "ps15", "kind": "series", "answer": "Smallville", "year": 2001, "seasons": 10,
+      "hint": "La adolescencia de Clark Kent en un pueblo de Kansas, antes de ponerse la capa." },
+    { "id": "ps16", "kind": "series", "answer": "Sherlock", "year": 2010, "seasons": 4,
+      "hint": "BBC: el detective de Baker Street en el Londres actual, con celular y mensajes de texto. Benedict Cumberbatch.",
+      "characters": [
+        { "prompt": "En «Sherlock», ¿cómo se llama el archienemigo del detective?", "answer": "Jim Moriarty", "aliases": ["Moriarty"] }
+      ] },
+    { "id": "ps17", "kind": "series", "answer": "Élite", "aliases": ["Elite"], "year": 2018, "seasons": 8,
+      "hint": "Netflix (España): tres becados entran a un colegio de ricos y hay un asesinato en cada temporada." },
+    { "id": "ps18", "kind": "series", "answer": "Los Picapiedra", "aliases": ["The Flintstones"], "year": 1960, "seasons": 6,
+      "hint": "Una familia de la Edad de Piedra con auto a pie, un dinosaurio de mascota y un grito: «¡Yabba-dabba-doo!».",
+      "characters": [
+        { "prompt": "En «Los Picapiedra», ¿cómo se llama el mejor amigo y vecino de Pedro?", "answer": "Pablo Mármol", "aliases": ["Pablo"] },
+        { "prompt": "En «Los Picapiedra», ¿cómo se llama la esposa de Pedro?", "answer": "Vilma", "aliases": ["Vilma Picapiedra"] }
+      ] },
+    { "id": "ps19", "kind": "series", "answer": "Hechizada", "aliases": ["Bewitched"], "year": 1964, "seasons": 8,
+      "hint": "Una bruja se casa con un publicista común y hace magia moviendo la nariz.",
+      "characters": [
+        { "prompt": "En «Hechizada», ¿cómo se llama la bruja protagonista?", "answer": "Samantha Stephens", "aliases": ["Samantha"] }
+      ] },
+    { "id": "ps20", "kind": "series", "answer": "Mi bella genio", "aliases": ["I Dream of Jeannie"], "year": 1965, "seasons": 5,
+      "hint": "Un astronauta encuentra una botella en una playa y sale una genio que cumple deseos cruzando los brazos." },
+    { "id": "ps21", "kind": "series", "answer": "Los locos Addams", "aliases": ["The Addams Family"], "year": 1964, "seasons": 2,
+      "hint": "Una familia macabra con un mayordomo gigante y una mano que anda sola. Chasquido de dedos en la cortina musical.",
+      "characters": [
+        { "prompt": "En «Los locos Addams», ¿cómo se llama la mano que anda sola?", "answer": "Dedos", "aliases": ["Cosa", "Thing"] },
+        { "prompt": "En «Los locos Addams», ¿cómo se llama el mayordomo gigante?", "answer": "Largo", "aliases": ["Lurch"] }
+      ] },
+    { "id": "ps22", "kind": "series", "answer": "MacGyver", "year": 1985, "seasons": 7,
+      "hint": "Un agente que nunca usa armas y sale de cualquier lío con una navaja suiza y cinta adhesiva." },
+    { "id": "ps23", "kind": "series", "answer": "El auto fantástico", "aliases": ["Knight Rider"], "year": 1982, "seasons": 4,
+      "hint": "David Hasselhoff y un auto negro que habla, con una luz roja que va y viene en el frente.",
+      "characters": [
+        { "prompt": "En «El auto fantástico», ¿cómo se llama el auto que habla?", "answer": "KITT", "aliases": ["Kitt"] },
+        { "prompt": "En «El auto fantástico», ¿cómo se llama el protagonista que interpreta David Hasselhoff?", "answer": "Michael Knight", "aliases": ["Michael"] }
+      ] },
+    { "id": "ps24", "kind": "series", "answer": "Brigada A", "aliases": ["The A-Team", "Los Magníficos"], "year": 1983, "seasons": 5,
+      "hint": "Cuatro ex comandos acusados de un crimen que no cometieron ayudan a la gente en una camioneta negra. «Me encanta que los planes salgan bien».",
+      "characters": [
+        { "prompt": "En «Brigada A», ¿cómo le dicen al grandote con cadenas de oro y cresta que odia volar?", "answer": "M.A. Barracus", "aliases": ["MA", "M. A.", "Mr. T", "B.A."] },
+        { "prompt": "En «Brigada A», ¿cómo le dicen al líder del grupo, el del habano?", "answer": "Hannibal", "aliases": ["Hannibal Smith", "John Smith"] }
+      ] },
+    { "id": "ps25", "kind": "series", "answer": "Magnum", "aliases": ["Magnum P.I."], "year": 1980, "seasons": 8,
+      "hint": "Tom Selleck, bigote, camisa hawaiana y una Ferrari roja: detective privado en Hawái." },
+    { "id": "ps26", "kind": "series", "answer": "Beverly Hills, 90210", "aliases": ["Beverly Hills 90210"], "year": 1990, "seasons": 10,
+      "hint": "Dos mellizos de Minnesota llegan a la secundaria más cheta de California. El título es un código postal.",
+      "characters": [
+        { "prompt": "En «Beverly Hills, 90210», ¿cómo se llama el chico rebelde que interpreta Luke Perry?", "answer": "Dylan McKay", "aliases": ["Dylan"] }
+      ] },
+    { "id": "ps27", "kind": "series", "answer": "El príncipe del rap", "aliases": ["The Fresh Prince of Bel-Air", "El príncipe de Bel-Air"], "year": 1990, "seasons": 6,
+      "hint": "Will Smith se muda de Filadelfia a la mansión de sus tíos ricos en California, después de una pelea en la cancha.",
+      "characters": [
+        { "prompt": "En «El príncipe del rap», ¿cómo se llama el primo chetito que baila a lo Tom Jones?", "answer": "Carlton Banks", "aliases": ["Carlton"] },
+        { "prompt": "En «El príncipe del rap», ¿cómo se llama el mayordomo británico?", "answer": "Geoffrey" }
+      ] },
+    { "id": "ps28", "kind": "series", "answer": "Tres por tres", "aliases": ["Full House", "Padres forzosos"], "year": 1987, "seasons": 8,
+      "hint": "Un viudo cría a sus tres hijas en San Francisco con la ayuda de su cuñado rockero y su mejor amigo cómico. Las Olsen como bebé.",
+      "characters": [
+        { "prompt": "En «Tres por tres», ¿cómo se llama el tío rockero que interpreta John Stamos?", "answer": "Jesse Katsopolis", "aliases": ["Tío Jesse", "Jesse"] }
+      ] },
+    { "id": "ps29", "kind": "series", "answer": "Los años maravillosos", "aliases": ["The Wonder Years", "Aquellos maravillosos años"], "year": 1988, "seasons": 6,
+      "hint": "Un adulto recuerda su adolescencia a fines de los 60 en los suburbios de Estados Unidos, con Joe Cocker en la presentación.",
+      "characters": [
+        { "prompt": "En «Los años maravillosos», ¿cómo se llama el protagonista?", "answer": "Kevin Arnold", "aliases": ["Kevin"] },
+        { "prompt": "En «Los años maravillosos», ¿cómo se llama la vecina de la que está enamorado Kevin?", "answer": "Winnie Cooper", "aliases": ["Winnie"] }
+      ] },
+    { "id": "ps30", "kind": "series", "answer": "Buffy, la cazavampiros", "aliases": ["Buffy"], "year": 1997, "seasons": 7,
+      "hint": "Una porrista californiana descubre que es la elegida para luchar contra los vampiros de Sunnydale." },
+    { "id": "ps31", "kind": "series", "answer": "Chiquititas", "year": 1995, "seasons": 7, "tags": ["argentina"],
+      "hint": "Cris Morena: un grupo de chicas huérfanas vive en un hogar y canta. Telefe, de 1995 a 2001." },
+    { "id": "ps32", "kind": "series", "answer": "Patito feo", "year": 2007, "seasons": 2, "tags": ["argentina"],
+      "hint": "Laura Esquivel es una chica de Córdoba que llega a una escuela de arte porteña donde reinan «las divinas».",
+      "characters": [
+        { "prompt": "En «Patito feo», ¿cómo se llama la líder de «las divinas»?", "answer": "Antonella Lamas Bernardi", "aliases": ["Antonella"] }
+      ] },
+    { "id": "ps33", "kind": "series", "answer": "Los únicos", "year": 2011, "seasons": 2, "tags": ["argentina"],
+      "hint": "El Trece: una organización secreta de agentes especiales, con Nicolás Cabré y Mariano Martínez." },
+    { "id": "ps34", "kind": "series", "answer": "Historia de un clan", "year": 2015, "seasons": 1, "tags": ["argentina"],
+      "hint": "Telefe: la familia Puccio secuestra empresarios en San Isidro en los 80. Alejandro Awada como el padre." },
+    { "id": "ps35", "kind": "series", "answer": "Valientes", "year": 2009, "seasons": 1, "tags": ["argentina"],
+      "hint": "Pol-ka, 2009: una historia de tres hermanos y una venganza, con Luciano Castro, Julieta Díaz y Arnaldo André." },
+    { "id": "ps36", "kind": "series", "answer": "Montecristo", "aliases": ["Montecristo, un amor, una venganza"], "year": 2006, "seasons": 1, "tags": ["argentina"],
+      "hint": "Telefe: un hombre traicionado vuelve rico para vengarse, versión moderna de Dumas. Pablo Echarri y Paola Krum." },
+    { "id": "ps37", "kind": "series", "answer": "Resistiré", "year": 2003, "seasons": 1, "tags": ["argentina"],
+      "hint": "Telefe: Pablo Echarri y Celeste Cid contra Fabián Vena, un villano que quiere ser inmortal." },
+    { "id": "ps38", "kind": "series", "answer": "Sos mi vida", "year": 2006, "seasons": 1, "tags": ["argentina"],
+      "hint": "El Trece: Natalia Oreiro es una boxeadora de barrio y Facundo Arana un empresario millonario.",
+      "characters": [
+        { "prompt": "En «Sos mi vida», ¿cómo le dicen a la boxeadora que interpreta Natalia Oreiro?", "answer": "La Monita", "aliases": ["Monita", "Esperanza Muñoz"] }
+      ] },
+    { "id": "ps39", "kind": "series", "answer": "Hermanos y detectives", "year": 2006, "seasons": 1, "tags": ["argentina"],
+      "hint": "Damián Szifron: un nene superdotado de 10 años ayuda a su hermano mayor policía a resolver casos." },
+    { "id": "ps40", "kind": "series", "answer": "El Eternauta", "year": 2025, "tags": ["argentina"],
+      "hint": "Netflix: Ricardo Darín sobrevive a una nevada mortal en Buenos Aires. Basada en la historieta de Oesterheld.",
+      "characters": [
+        { "prompt": "En «El Eternauta», ¿cómo se llama el protagonista que interpreta Ricardo Darín?", "answer": "Juan Salvo", "aliases": ["Salvo"] }
+      ] },
+    { "id": "ps41", "kind": "series", "answer": "División Palermo", "aliases": ["Division Palermo"], "year": 2023, "tags": ["argentina"],
+      "hint": "Netflix: Santiago Korovsky arma una guardia urbana «inclusiva» en los bosques de Palermo." },
+    { "id": "ps42", "kind": "series", "answer": "Merlina", "aliases": ["Wednesday"], "year": 2022,
+      "hint": "Netflix y Tim Burton: la hija de los Addams investiga crímenes en el internado Nunca Más. Su baile se volvió viral." },
+    { "id": "ps43", "kind": "series", "answer": "The Last of Us", "year": 2023,
+      "hint": "HBO: un contrabandista cruza Estados Unidos con una adolescente inmune a un hongo que vuelve zombis a las personas. Pedro Pascal.",
+      "characters": [
+        { "prompt": "En «The Last of Us», ¿cómo se llama la adolescente inmune?", "answer": "Ellie Williams", "aliases": ["Ellie"] }
+      ] },
+    { "id": "ps44", "kind": "series", "answer": "The Mandalorian", "aliases": ["El mandaloriano"], "year": 2019,
+      "hint": "Star Wars: un cazarrecompensas con casco que nunca se saca protege a un bebé verde de orejas grandes.",
+      "characters": [
+        { "prompt": "En «The Mandalorian», ¿cómo se llama el bebé verde de la especie de Yoda?", "answer": "Grogu", "aliases": ["Baby Yoda"] }
+      ] },
+    { "id": "ps45", "kind": "series", "answer": "Futurama", "year": 1999,
+      "hint": "Matt Groening: un repartidor de pizza queda congelado y despierta en el año 3000, con un robot alcohólico." },
+    { "id": "ps46", "kind": "series", "answer": "Bob Esponja", "aliases": ["SpongeBob SquarePants", "Bob Esponja Pantalones Cuadrados"], "year": 1999,
+      "hint": "Vive en una piña debajo del mar y trabaja como cocinero en el Crustáceo Cascarudo.",
+      "characters": [
+        { "prompt": "En «Bob Esponja», ¿cómo se llama la estrella de mar mejor amiga del protagonista?", "answer": "Patricio Estrella", "aliases": ["Patricio"] },
+        { "prompt": "En «Bob Esponja», ¿cómo se llama el cajero gruñón que toca el clarinete?", "answer": "Calamardo Tentáculos", "aliases": ["Calamardo"] }
+      ] },
+    { "id": "ps47", "kind": "series", "answer": "Twin Peaks", "year": 1990,
+      "hint": "David Lynch: un agente del FBI investiga quién mató a Laura Palmer en un pueblo de bosques, café y tarta de cereza.",
+      "characters": [
+        { "prompt": "En «Twin Peaks», ¿cómo se llama el agente del FBI que adora el café?", "answer": "Dale Cooper", "aliases": ["Cooper", "Agente Cooper"] }
+      ] }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+ "trivia": [
+  {
+   "id": "aq1",
+   "topic": "arte",
+   "question": "¿Quién pintó «El nacimiento de Venus»?",
+   "answer": "Sandro Botticelli",
+   "decoys": [
+    "Rafael",
+    "Tiziano",
+    "Leonardo da Vinci"
+   ]
+  },
+  {
+   "id": "aq2",
+   "topic": "arte",
+   "question": "¿Quién pintó «La última cena» en un convento de Milán?",
+   "answer": "Leonardo da Vinci",
+   "decoys": [
+    "Miguel Ángel",
+    "Caravaggio",
+    "Giotto"
+   ]
+  },
+  {
+   "id": "aq3",
+   "topic": "arte",
+   "question": "¿Quién esculpió el «David» de Florencia?",
+   "answer": "Miguel Ángel",
+   "decoys": [
+    "Donatello",
+    "Bernini",
+    "Rodin"
+   ]
+  },
+  {
+   "id": "aq4",
+   "topic": "arte",
+   "question": "¿Quién pintó «La escuela de Atenas» en el Vaticano?",
+   "answer": "Rafael",
+   "decoys": [
+    "Miguel Ángel",
+    "Botticelli",
+    "Tintoretto"
+   ]
+  },
+  {
+   "id": "aq5",
+   "topic": "arte",
+   "question": "¿Qué pintor holandés hizo «La ronda de noche»?",
+   "answer": "Rembrandt",
+   "decoys": [
+    "Vermeer",
+    "Van Gogh",
+    "Frans Hals"
+   ]
+  },
+  {
+   "id": "aq6",
+   "topic": "arte",
+   "question": "¿Qué pintor español hizo «Los fusilamientos del 3 de mayo»?",
+   "answer": "Francisco de Goya",
+   "decoys": [
+    "Diego Velázquez",
+    "El Greco",
+    "Joaquín Sorolla"
+   ]
+  },
+  {
+   "id": "aq7",
+   "topic": "arte",
+   "question": "¿Qué pintor francés hizo la serie de los nenúfares?",
+   "answer": "Claude Monet",
+   "decoys": [
+    "Édouard Manet",
+    "Pierre-Auguste Renoir",
+    "Edgar Degas"
+   ]
+  },
+  {
+   "id": "aq8",
+   "topic": "arte",
+   "question": "¿Qué cuadro de Monet le dio nombre al impresionismo?",
+   "answer": "Impresión, sol naciente",
+   "decoys": [
+    "Los nenúfares",
+    "La catedral de Ruan",
+    "Almuerzo sobre la hierba"
+   ]
+  },
+  {
+   "id": "aq9",
+   "topic": "arte",
+   "question": "¿Qué pintor impresionista es famoso por sus bailarinas de ballet?",
+   "answer": "Edgar Degas",
+   "decoys": [
+    "Claude Monet",
+    "Paul Cézanne",
+    "Henri de Toulouse-Lautrec"
+   ]
+  },
+  {
+   "id": "aq10",
+   "topic": "arte",
+   "question": "¿Qué pintor se cortó parte de una oreja en Arlés?",
+   "answer": "Vincent van Gogh",
+   "decoys": [
+    "Paul Gauguin",
+    "Paul Cézanne",
+    "Henri Matisse"
+   ]
+  },
+  {
+   "id": "aq11",
+   "topic": "arte",
+   "question": "¿Qué pintor francés se fue a vivir a Tahití y pintó a sus habitantes?",
+   "answer": "Paul Gauguin",
+   "decoys": [
+    "Henri Matisse",
+    "Paul Cézanne",
+    "Georges Seurat"
+   ]
+  },
+  {
+   "id": "aq12",
+   "topic": "arte",
+   "question": "¿Qué técnica de puntitos de color usó Georges Seurat?",
+   "answer": "Puntillismo",
+   "decoys": [
+    "Cubismo",
+    "Fauvismo",
+    "Expresionismo"
+   ]
+  },
+  {
+   "id": "aq13",
+   "topic": "arte",
+   "question": "¿Qué pintor austríaco hizo «El beso», lleno de dorados?",
+   "answer": "Gustav Klimt",
+   "decoys": [
+    "Egon Schiele",
+    "Edvard Munch",
+    "Alfons Mucha"
+   ]
+  },
+  {
+   "id": "aq14",
+   "topic": "arte",
+   "question": "¿Qué pintor belga pintó una pipa con la frase «Esto no es una pipa»?",
+   "answer": "René Magritte",
+   "decoys": [
+    "Salvador Dalí",
+    "Joan Miró",
+    "Max Ernst"
+   ]
+  },
+  {
+   "id": "aq15",
+   "topic": "arte",
+   "question": "¿A qué movimiento artístico pertenecían Dalí y Magritte?",
+   "answer": "Surrealismo",
+   "decoys": [
+    "Cubismo",
+    "Impresionismo",
+    "Dadaísmo"
+   ]
+  },
+  {
+   "id": "aq16",
+   "topic": "arte",
+   "question": "¿Qué pintor estadounidense es famoso por tirar pintura sobre la tela en el piso?",
+   "answer": "Jackson Pollock",
+   "decoys": [
+    "Mark Rothko",
+    "Andy Warhol",
+    "Roy Lichtenstein"
+   ]
+  },
+  {
+   "id": "aq17",
+   "topic": "arte",
+   "question": "¿Qué artista pop hizo cuadros con estética de historieta y puntos Ben-Day?",
+   "answer": "Roy Lichtenstein",
+   "decoys": [
+    "Andy Warhol",
+    "Keith Haring",
+    "Jasper Johns"
+   ]
+  },
+  {
+   "id": "aq18",
+   "topic": "arte",
+   "question": "¿Qué muralista mexicano estuvo casado con Frida Kahlo?",
+   "answer": "Diego Rivera",
+   "decoys": [
+    "David Alfaro Siqueiros",
+    "José Clemente Orozco",
+    "Rufino Tamayo"
+   ]
+  },
+  {
+   "id": "aq19",
+   "topic": "arte",
+   "question": "¿Qué artista callejero británico mantiene su identidad en secreto?",
+   "answer": "Banksy",
+   "decoys": [
+    "Shepard Fairey",
+    "Invader",
+    "Keith Haring"
+   ]
+  },
+  {
+   "id": "aq20",
+   "topic": "arte",
+   "question": "¿Qué escultor colombiano es famoso por sus figuras gorditas?",
+   "answer": "Fernando Botero",
+   "decoys": [
+    "Oswaldo Guayasamín",
+    "Rufino Tamayo",
+    "Roberto Matta"
+   ]
+  },
+  {
+   "id": "aq21",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué artista argentina hizo el «Partenón de libros» prohibidos en 1983?",
+   "answer": "Marta Minujín",
+   "decoys": [
+    "Raquel Forner",
+    "Lidy Prati",
+    "Nora Iniesta"
+   ]
+  },
+  {
+   "id": "aq22",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué artista argentino inventó la «panlengua» y el «neocriollo»?",
+   "answer": "Xul Solar",
+   "decoys": [
+    "Emilio Pettoruti",
+    "Antonio Berni",
+    "Raúl Soldi"
+   ]
+  },
+  {
+   "id": "aq23",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué pintor argentino llevó el cubismo y el futurismo al país en los años 20, con «El quinteto»?",
+   "answer": "Emilio Pettoruti",
+   "decoys": [
+    "Xul Solar",
+    "Lino Enea Spilimbergo",
+    "Raúl Soldi"
+   ]
+  },
+  {
+   "id": "aq24",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué pintor argentino hizo los frescos de la cúpula del Teatro Colón?",
+   "answer": "Raúl Soldi",
+   "decoys": [
+    "Antonio Berni",
+    "Benito Quinquela Martín",
+    "Guillermo Kuitca"
+   ]
+  },
+  {
+   "id": "aq25",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué museo porteño se exhibe «Abaporu», de Tarsila do Amaral?",
+   "answer": "MALBA",
+   "decoys": [
+    "Museo Nacional de Bellas Artes",
+    "MAMBA",
+    "Museo Fortabat"
+   ]
+  },
+  {
+   "id": "aq26",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué escultura gigante de acero se abre y se cierra con el sol en Plaza Naciones Unidas?",
+   "answer": "Floralis Genérica",
+   "decoys": [
+    "La Flor de Acero",
+    "Monumento al Sol",
+    "El Girasol"
+   ]
+  },
+  {
+   "id": "lq1",
+   "topic": "arte",
+   "question": "¿Quién escribió «La Divina Comedia»?",
+   "answer": "Dante Alighieri",
+   "decoys": [
+    "Giovanni Boccaccio",
+    "Francesco Petrarca",
+    "Virgilio"
+   ]
+  },
+  {
+   "id": "lq2",
+   "topic": "arte",
+   "question": "¿Quién escribió «Hamlet»?",
+   "answer": "William Shakespeare",
+   "decoys": [
+    "Christopher Marlowe",
+    "Charles Dickens",
+    "Oscar Wilde"
+   ]
+  },
+  {
+   "id": "lq3",
+   "topic": "arte",
+   "question": "¿Quién escribió «Orgullo y prejuicio»?",
+   "answer": "Jane Austen",
+   "decoys": [
+    "Charlotte Brontë",
+    "Emily Brontë",
+    "Virginia Woolf"
+   ]
+  },
+  {
+   "id": "lq4",
+   "topic": "arte",
+   "question": "¿Quién escribió «Cumbres borrascosas»?",
+   "answer": "Emily Brontë",
+   "decoys": [
+    "Charlotte Brontë",
+    "Jane Austen",
+    "Mary Shelley"
+   ]
+  },
+  {
+   "id": "lq5",
+   "topic": "arte",
+   "question": "¿Quién escribió «Frankenstein»?",
+   "answer": "Mary Shelley",
+   "decoys": [
+    "Bram Stoker",
+    "Edgar Allan Poe",
+    "Robert L. Stevenson"
+   ]
+  },
+  {
+   "id": "lq6",
+   "topic": "arte",
+   "question": "¿Quién escribió «Drácula»?",
+   "answer": "Bram Stoker",
+   "decoys": [
+    "Mary Shelley",
+    "H. P. Lovecraft",
+    "Oscar Wilde"
+   ]
+  },
+  {
+   "id": "lq7",
+   "topic": "arte",
+   "question": "¿Quién escribió «Oliver Twist» y «Cuento de Navidad»?",
+   "answer": "Charles Dickens",
+   "decoys": [
+    "Mark Twain",
+    "Thomas Hardy",
+    "Lewis Carroll"
+   ]
+  },
+  {
+   "id": "lq8",
+   "topic": "arte",
+   "question": "¿Quién escribió «Alicia en el país de las maravillas»?",
+   "answer": "Lewis Carroll",
+   "decoys": [
+    "J. M. Barrie",
+    "Roald Dahl",
+    "C. S. Lewis"
+   ]
+  },
+  {
+   "id": "lq9",
+   "topic": "arte",
+   "question": "¿Quién creó a Sherlock Holmes?",
+   "answer": "Arthur Conan Doyle",
+   "decoys": [
+    "Agatha Christie",
+    "Edgar Allan Poe",
+    "G. K. Chesterton"
+   ]
+  },
+  {
+   "id": "lq10",
+   "topic": "arte",
+   "question": "¿Qué escritora creó al detective Hércules Poirot?",
+   "answer": "Agatha Christie",
+   "decoys": [
+    "P. D. James",
+    "Patricia Highsmith",
+    "Dorothy L. Sayers"
+   ]
+  },
+  {
+   "id": "lq11",
+   "topic": "arte",
+   "question": "¿Quién escribió «El retrato de Dorian Gray»?",
+   "answer": "Oscar Wilde",
+   "decoys": [
+    "Bram Stoker",
+    "Henry James",
+    "Charles Dickens"
+   ]
+  },
+  {
+   "id": "lq12",
+   "topic": "arte",
+   "question": "¿Quién escribió «Las aventuras de Tom Sawyer»?",
+   "answer": "Mark Twain",
+   "decoys": [
+    "Jack London",
+    "Herman Melville",
+    "Ernest Hemingway"
+   ]
+  },
+  {
+   "id": "lq13",
+   "topic": "arte",
+   "question": "¿Quién escribió «Moby Dick»?",
+   "answer": "Herman Melville",
+   "decoys": [
+    "Jack London",
+    "Jules Verne",
+    "Nathaniel Hawthorne"
+   ]
+  },
+  {
+   "id": "lq14",
+   "topic": "arte",
+   "question": "¿Quién escribió «Veinte mil leguas de viaje submarino»?",
+   "answer": "Julio Verne",
+   "decoys": [
+    "H. G. Wells",
+    "Alejandro Dumas",
+    "Emilio Salgari"
+   ]
+  },
+  {
+   "id": "lq15",
+   "topic": "arte",
+   "question": "¿Quién escribió «Los tres mosqueteros»?",
+   "answer": "Alejandro Dumas",
+   "decoys": [
+    "Victor Hugo",
+    "Julio Verne",
+    "Honoré de Balzac"
+   ]
+  },
+  {
+   "id": "lq16",
+   "topic": "arte",
+   "question": "¿Quién escribió «Los miserables»?",
+   "answer": "Victor Hugo",
+   "decoys": [
+    "Émile Zola",
+    "Gustave Flaubert",
+    "Alejandro Dumas"
+   ]
+  },
+  {
+   "id": "lq17",
+   "topic": "arte",
+   "question": "¿Quién escribió «Crimen y castigo»?",
+   "answer": "Fiódor Dostoievski",
+   "decoys": [
+    "León Tolstói",
+    "Antón Chéjov",
+    "Nikolái Gógol"
+   ]
+  },
+  {
+   "id": "lq18",
+   "topic": "arte",
+   "question": "¿Quién escribió «Guerra y paz» y «Ana Karenina»?",
+   "answer": "León Tolstói",
+   "decoys": [
+    "Fiódor Dostoievski",
+    "Iván Turguénev",
+    "Borís Pasternak"
+   ]
+  },
+  {
+   "id": "lq19",
+   "topic": "arte",
+   "question": "¿Quién escribió «La metamorfosis», donde Gregorio Samsa despierta convertido en insecto?",
+   "answer": "Franz Kafka",
+   "decoys": [
+    "Albert Camus",
+    "Thomas Mann",
+    "Hermann Hesse"
+   ]
+  },
+  {
+   "id": "lq20",
+   "topic": "arte",
+   "question": "¿Quién escribió «El viejo y el mar»?",
+   "answer": "Ernest Hemingway",
+   "decoys": [
+    "John Steinbeck",
+    "William Faulkner",
+    "Jack London"
+   ]
+  },
+  {
+   "id": "lq21",
+   "topic": "arte",
+   "question": "¿Quién escribió «Rebelión en la granja»?",
+   "answer": "George Orwell",
+   "decoys": [
+    "Aldous Huxley",
+    "Ray Bradbury",
+    "H. G. Wells"
+   ]
+  },
+  {
+   "id": "lq22",
+   "topic": "arte",
+   "question": "¿Quién escribió «Un mundo feliz»?",
+   "answer": "Aldous Huxley",
+   "decoys": [
+    "George Orwell",
+    "Ray Bradbury",
+    "Isaac Asimov"
+   ]
+  },
+  {
+   "id": "lq23",
+   "topic": "arte",
+   "question": "¿Quién escribió «El señor de los anillos»?",
+   "answer": "J. R. R. Tolkien",
+   "decoys": [
+    "C. S. Lewis",
+    "George R. R. Martin",
+    "Terry Pratchett"
+   ]
+  },
+  {
+   "id": "lq24",
+   "topic": "arte",
+   "question": "¿Quién escribió «Las crónicas de Narnia»?",
+   "answer": "C. S. Lewis",
+   "decoys": [
+    "J. R. R. Tolkien",
+    "Roald Dahl",
+    "Philip Pullman"
+   ]
+  },
+  {
+   "id": "lq25",
+   "topic": "arte",
+   "question": "¿Quién escribió «Charlie y la fábrica de chocolate»?",
+   "answer": "Roald Dahl",
+   "decoys": [
+    "Lewis Carroll",
+    "Michael Ende",
+    "J. K. Rowling"
+   ]
+  },
+  {
+   "id": "lq26",
+   "topic": "arte",
+   "question": "¿Quién escribió «La historia sin fin»?",
+   "answer": "Michael Ende",
+   "decoys": [
+    "Roald Dahl",
+    "Cornelia Funke",
+    "Jostein Gaarder"
+   ]
+  },
+  {
+   "id": "lq27",
+   "topic": "arte",
+   "question": "¿Quién escribió «Canción de hielo y fuego», la saga que inspiró «Game of Thrones»?",
+   "answer": "George R. R. Martin",
+   "decoys": [
+    "J. R. R. Tolkien",
+    "Patrick Rothfuss",
+    "Brandon Sanderson"
+   ]
+  },
+  {
+   "id": "lq28",
+   "topic": "arte",
+   "question": "¿Quién escribió «It» y «El resplandor»?",
+   "answer": "Stephen King",
+   "decoys": [
+    "Dean Koontz",
+    "Clive Barker",
+    "Anne Rice"
+   ]
+  },
+  {
+   "id": "lq29",
+   "topic": "arte",
+   "question": "¿Quién escribió «El código Da Vinci»?",
+   "answer": "Dan Brown",
+   "decoys": [
+    "Ken Follett",
+    "John Grisham",
+    "Paulo Coelho"
+   ]
+  },
+  {
+   "id": "lq30",
+   "topic": "arte",
+   "question": "¿Qué escritor brasileño escribió «El alquimista»?",
+   "answer": "Paulo Coelho",
+   "decoys": [
+    "Jorge Amado",
+    "Machado de Assis",
+    "Clarice Lispector"
+   ]
+  },
+  {
+   "id": "lq31",
+   "topic": "arte",
+   "question": "¿Quién escribió «La casa de los espíritus»?",
+   "answer": "Isabel Allende",
+   "decoys": [
+    "Laura Esquivel",
+    "Gabriela Mistral",
+    "Elena Poniatowska"
+   ]
+  },
+  {
+   "id": "lq32",
+   "topic": "arte",
+   "question": "¿Quién escribió «Pedro Páramo»?",
+   "answer": "Juan Rulfo",
+   "decoys": [
+    "Carlos Fuentes",
+    "Octavio Paz",
+    "Juan José Arreola"
+   ]
+  },
+  {
+   "id": "lq33",
+   "topic": "arte",
+   "question": "¿Quién escribió «La ciudad y los perros»?",
+   "answer": "Mario Vargas Llosa",
+   "decoys": [
+    "Alfredo Bryce Echenique",
+    "Julio Ramón Ribeyro",
+    "César Vallejo"
+   ]
+  },
+  {
+   "id": "lq34",
+   "topic": "arte",
+   "question": "¿Qué poeta chilena fue la primera latinoamericana en ganar el Nobel de Literatura, en 1945?",
+   "answer": "Gabriela Mistral",
+   "decoys": [
+    "Isabel Allende",
+    "Alfonsina Storni",
+    "Juana de Ibarbourou"
+   ]
+  },
+  {
+   "id": "lq35",
+   "topic": "arte",
+   "question": "¿Quién escribió «El amor en los tiempos del cólera»?",
+   "answer": "Gabriel García Márquez",
+   "decoys": [
+    "Mario Vargas Llosa",
+    "Isabel Allende",
+    "Álvaro Mutis"
+   ]
+  },
+  {
+   "id": "lq36",
+   "topic": "arte",
+   "question": "¿Quién escribió «Como agua para chocolate»?",
+   "answer": "Laura Esquivel",
+   "decoys": [
+    "Isabel Allende",
+    "Ángeles Mastretta",
+    "Elena Poniatowska"
+   ]
+  },
+  {
+   "id": "lq37",
+   "topic": "arte",
+   "question": "¿Qué poeta español escribió «Platero y yo»?",
+   "answer": "Juan Ramón Jiménez",
+   "decoys": [
+    "Antonio Machado",
+    "Federico García Lorca",
+    "Miguel Hernández"
+   ]
+  },
+  {
+   "id": "lq38",
+   "topic": "arte",
+   "question": "¿Quién escribió «La vida es sueño»?",
+   "answer": "Pedro Calderón de la Barca",
+   "decoys": [
+    "Lope de Vega",
+    "Tirso de Molina",
+    "Miguel de Cervantes"
+   ]
+  },
+  {
+   "id": "lq39",
+   "topic": "arte",
+   "question": "¿Cómo se llama el escudero de Don Quijote?",
+   "answer": "Sancho Panza",
+   "decoys": [
+    "Rocinante",
+    "Dulcinea",
+    "Sansón Carrasco"
+   ]
+  },
+  {
+   "id": "lq40",
+   "topic": "arte",
+   "question": "¿Cómo se llama el caballo de Don Quijote?",
+   "answer": "Rocinante",
+   "decoys": [
+    "Babieca",
+    "Rucio",
+    "Bucéfalo"
+   ]
+  },
+  {
+   "id": "la1",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «Ficciones», con «Tlön, Uqbar, Orbis Tertius»?",
+   "answer": "Jorge Luis Borges",
+   "decoys": [
+    "Adolfo Bioy Casares",
+    "Julio Cortázar",
+    "Macedonio Fernández"
+   ]
+  },
+  {
+   "id": "la2",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «La invención de Morel»?",
+   "answer": "Adolfo Bioy Casares",
+   "decoys": [
+    "Jorge Luis Borges",
+    "Silvina Ocampo",
+    "Ernesto Sabato"
+   ]
+  },
+  {
+   "id": "la3",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «El túnel»?",
+   "answer": "Ernesto Sabato",
+   "decoys": [
+    "Julio Cortázar",
+    "Roberto Arlt",
+    "Leopoldo Marechal"
+   ]
+  },
+  {
+   "id": "la4",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «Bestiario» y «Las armas secretas»?",
+   "answer": "Julio Cortázar",
+   "decoys": [
+    "Jorge Luis Borges",
+    "Juan José Saer",
+    "Abelardo Castillo"
+   ]
+  },
+  {
+   "id": "la5",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «Boquitas pintadas» y «El beso de la mujer araña»?",
+   "answer": "Manuel Puig",
+   "decoys": [
+    "Osvaldo Soriano",
+    "Ricardo Piglia",
+    "Juan José Saer"
+   ]
+  },
+  {
+   "id": "la6",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «No habrá más penas ni olvido» y «Triste, solitario y final»?",
+   "answer": "Osvaldo Soriano",
+   "decoys": [
+    "Manuel Puig",
+    "Rodolfo Walsh",
+    "Roberto Fontanarrosa"
+   ]
+  },
+  {
+   "id": "la7",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió el cuento «El matadero», considerado el primero de la literatura argentina?",
+   "answer": "Esteban Echeverría",
+   "decoys": [
+    "Domingo F. Sarmiento",
+    "José Mármol",
+    "Lucio V. Mansilla"
+   ]
+  },
+  {
+   "id": "la8",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «Una excursión a los indios ranqueles»?",
+   "answer": "Lucio V. Mansilla",
+   "decoys": [
+    "Estanislao del Campo",
+    "José Hernández",
+    "Domingo F. Sarmiento"
+   ]
+  },
+  {
+   "id": "la9",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué poeta argentina escribió «Tú me quieres blanca» y murió en Mar del Plata?",
+   "answer": "Alfonsina Storni",
+   "decoys": [
+    "Alejandra Pizarnik",
+    "Olga Orozco",
+    "Silvina Ocampo"
+   ]
+  },
+  {
+   "id": "la10",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué poeta argentina escribió «Árbol de Diana»?",
+   "answer": "Alejandra Pizarnik",
+   "decoys": [
+    "Alfonsina Storni",
+    "Olga Orozco",
+    "María Elena Walsh"
+   ]
+  },
+  {
+   "id": "la11",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió la historieta «El Eternauta»?",
+   "answer": "Héctor Germán Oesterheld",
+   "decoys": [
+    "Quino",
+    "Roberto Fontanarrosa",
+    "Alberto Breccia"
+   ]
+  },
+  {
+   "id": "la12",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué dibujante dibujó «El Eternauta» original de 1957?",
+   "answer": "Francisco Solano López",
+   "decoys": [
+    "Alberto Breccia",
+    "Hugo Pratt",
+    "Carlos Trillo"
+   ]
+  },
+  {
+   "id": "la13",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llama el amigo de Mafalda que atiende el almacén de su papá?",
+   "answer": "Manolito",
+   "decoys": [
+    "Felipe",
+    "Miguelito",
+    "Guille"
+   ]
+  },
+  {
+   "id": "la14",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llama la amiga de Mafalda que sueña con casarse y tener hijos?",
+   "answer": "Susanita",
+   "decoys": [
+    "Libertad",
+    "Raquel",
+    "Mafalda"
+   ]
+  },
+  {
+   "id": "la15",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué comida odia Mafalda?",
+   "answer": "La sopa",
+   "decoys": [
+    "El brócoli",
+    "El hígado",
+    "La polenta"
+   ]
+  },
+  {
+   "id": "la16",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llama el perro de Inodoro Pereyra?",
+   "answer": "Mendieta",
+   "decoys": [
+    "Boogie",
+    "Fatiga",
+    "Pancho"
+   ]
+  },
+  {
+   "id": "la17",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué dibujante creó a Clemente?",
+   "answer": "Caloi",
+   "decoys": [
+    "Quino",
+    "Fontanarrosa",
+    "Divito"
+   ]
+  },
+  {
+   "id": "la18",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué dibujante creó a «Las chicas de Divito» y la revista «Rico Tipo»?",
+   "answer": "Guillermo Divito",
+   "decoys": [
+    "Lino Palacio",
+    "Landrú",
+    "Caloi"
+   ]
+  },
+  {
+   "id": "la19",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «Hombre que está solo y espera»?",
+   "answer": "Raúl Scalabrini Ortiz",
+   "decoys": [
+    "Arturo Jauretche",
+    "Ezequiel Martínez Estrada",
+    "Leopoldo Lugones"
+   ]
+  },
+  {
+   "id": "la20",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió la novela «Santa Evita»?",
+   "answer": "Tomás Eloy Martínez",
+   "decoys": [
+    "Osvaldo Soriano",
+    "Ricardo Piglia",
+    "Abel Posse"
+   ]
+  },
+  {
+   "id": "la21",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió «Papeles en el viento» y «La pregunta de sus ojos»?",
+   "answer": "Eduardo Sacheri",
+   "decoys": [
+    "Hernán Casciari",
+    "Juan Sasturain",
+    "Guillermo Martínez"
+   ]
+  },
+  {
+   "id": "la22",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué escritora argentina escribió «Distancia de rescate»?",
+   "answer": "Samanta Schweblin",
+   "decoys": [
+    "Mariana Enriquez",
+    "Selva Almada",
+    "Claudia Piñeiro"
+   ]
+  },
+  {
+   "id": "la23",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué escritora argentina escribió «Las viudas de los jueves» y «Las grietas de Jara»?",
+   "answer": "Claudia Piñeiro",
+   "decoys": [
+    "Samanta Schweblin",
+    "Mariana Enriquez",
+    "Guillermo Martínez"
+   ]
+  },
+  {
+   "id": "la24",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué escritor argentino ganó el Premio Cervantes en 1979, junto a Gerardo Diego?",
+   "answer": "Jorge Luis Borges",
+   "decoys": [
+    "Ernesto Sabato",
+    "Adolfo Bioy Casares",
+    "Juan Gelman"
+   ]
+  },
+  {
+   "id": "la25",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué escritora argentina creó «El Reino del Revés» y «Dailan Kifki»?",
+   "answer": "María Elena Walsh",
+   "decoys": [
+    "Elsa Bornemann",
+    "Laura Devetach",
+    "Graciela Montes"
+   ]
+  },
+  {
+   "id": "mq1",
+   "topic": "arte",
+   "question": "¿Qué compositor quedó sordo y siguió componiendo?",
+   "answer": "Ludwig van Beethoven",
+   "decoys": [
+    "Johann Sebastian Bach",
+    "Franz Schubert",
+    "Frédéric Chopin"
+   ]
+  },
+  {
+   "id": "mq2",
+   "topic": "arte",
+   "question": "¿Qué compositor ruso escribió el ballet «El lago de los cisnes»?",
+   "answer": "Piotr Chaikovski",
+   "decoys": [
+    "Ígor Stravinski",
+    "Serguéi Rajmáninov",
+    "Nikolái Rimski-Kórsakov"
+   ]
+  },
+  {
+   "id": "mq3",
+   "topic": "arte",
+   "question": "¿Qué compositor escribió la ópera «La traviata»?",
+   "answer": "Giuseppe Verdi",
+   "decoys": [
+    "Giacomo Puccini",
+    "Gioachino Rossini",
+    "Gaetano Donizetti"
+   ]
+  },
+  {
+   "id": "mq4",
+   "topic": "arte",
+   "question": "¿Qué compositor escribió las óperas «La bohème» y «Madama Butterfly»?",
+   "answer": "Giacomo Puccini",
+   "decoys": [
+    "Giuseppe Verdi",
+    "Gioachino Rossini",
+    "Vincenzo Bellini"
+   ]
+  },
+  {
+   "id": "mq5",
+   "topic": "arte",
+   "question": "¿Qué compositor escribió «El barbero de Sevilla»?",
+   "answer": "Gioachino Rossini",
+   "decoys": [
+    "Wolfgang Amadeus Mozart",
+    "Giuseppe Verdi",
+    "Georges Bizet"
+   ]
+  },
+  {
+   "id": "mq6",
+   "topic": "arte",
+   "question": "¿Qué compositor francés escribió la ópera «Carmen»?",
+   "answer": "Georges Bizet",
+   "decoys": [
+    "Claude Debussy",
+    "Maurice Ravel",
+    "Hector Berlioz"
+   ]
+  },
+  {
+   "id": "mq7",
+   "topic": "arte",
+   "question": "¿Qué compositor francés escribió el «Bolero»?",
+   "answer": "Maurice Ravel",
+   "decoys": [
+    "Claude Debussy",
+    "Erik Satie",
+    "Camille Saint-Saëns"
+   ]
+  },
+  {
+   "id": "mq8",
+   "topic": "arte",
+   "question": "¿Qué compositor polaco es conocido como «el poeta del piano»?",
+   "answer": "Frédéric Chopin",
+   "decoys": [
+    "Franz Liszt",
+    "Robert Schumann",
+    "Felix Mendelssohn"
+   ]
+  },
+  {
+   "id": "mq9",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué compositor argentino escribió el ballet «Estancia», con el famoso «Malambo»?",
+   "answer": "Alberto Ginastera",
+   "decoys": [
+    "Astor Piazzolla",
+    "Carlos Guastavino",
+    "Ariel Ramírez"
+   ]
+  },
+  {
+   "id": "mq10",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué compositor argentino creó la «Misa criolla»?",
+   "answer": "Ariel Ramírez",
+   "decoys": [
+    "Alberto Ginastera",
+    "Atahualpa Yupanqui",
+    "Carlos Guastavino"
+   ]
+  },
+  {
+   "id": "mq11",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién compuso la música del Himno Nacional Argentino?",
+   "answer": "Blas Parera",
+   "decoys": [
+    "Vicente López y Planes",
+    "Esteban de Luca",
+    "Juan Pedro Esnaola"
+   ]
+  },
+  {
+   "id": "mq12",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién escribió la letra del Himno Nacional Argentino?",
+   "answer": "Vicente López y Planes",
+   "decoys": [
+    "Blas Parera",
+    "Esteban de Luca",
+    "Fray Cayetano Rodríguez"
+   ]
+  }
+ ],
+ "estimates": [
+  {
+   "id": "az1",
+   "topic": "arte",
+   "question": "¿En qué año pintó Leonardo da Vinci la Mona Lisa, aproximadamente? (empezó)",
+   "answer": 1503,
+   "tolerance": 100,
+   "format": "plain"
+  },
+  {
+   "id": "az2",
+   "topic": "arte",
+   "question": "¿Cuántos centímetros de alto mide la Mona Lisa, aproximadamente?",
+   "answer": 77,
+   "unit": "cm",
+   "tolerance": 60
+  },
+  {
+   "id": "az3",
+   "topic": "arte",
+   "question": "¿Cuántos metros de alto mide el «David» de Miguel Ángel?",
+   "answer": 5.17,
+   "unit": "metros",
+   "tolerance": 3
+  },
+  {
+   "id": "az4",
+   "topic": "arte",
+   "question": "¿Cuántos cuadros vendió Van Gogh en vida, según la versión más aceptada?",
+   "answer": 1,
+   "unit": "cuadros",
+   "tolerance": 20
+  },
+  {
+   "id": "az5",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué año se publicó «Rayuela»?",
+   "answer": 1963,
+   "tolerance": 30,
+   "format": "plain"
+  },
+  {
+   "id": "az6",
+   "topic": "arte",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué año apareció por primera vez Mafalda en una publicación?",
+   "answer": 1964,
+   "tolerance": 30,
+   "format": "plain"
+  },
+  {
+   "id": "az7",
+   "topic": "arte",
+   "question": "¿Cuántos capítulos tiene la primera parte del «Quijote»?",
+   "answer": 52,
+   "unit": "capítulos",
+   "tolerance": 40
+  },
+  {
+   "id": "az8",
+   "topic": "arte",
+   "question": "¿En qué año murieron, según la fecha tradicional, Cervantes y Shakespeare?",
+   "answer": 1616,
+   "tolerance": 100,
+   "format": "plain"
+  }
+ ]
+}

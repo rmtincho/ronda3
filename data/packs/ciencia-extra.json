@@ -1,0 +1,889 @@
+{
+ "trivia": [
+  {
+   "id": "cq1",
+   "topic": "ciencia",
+   "question": "¿Cuál es el planeta más caliente del Sistema Solar?",
+   "answer": "Venus",
+   "decoys": [
+    "Mercurio",
+    "Marte",
+    "Júpiter"
+   ]
+  },
+  {
+   "id": "cq2",
+   "topic": "ciencia",
+   "question": "¿Qué planeta gira «acostado», con su eje casi horizontal?",
+   "answer": "Urano",
+   "decoys": [
+    "Neptuno",
+    "Saturno",
+    "Venus"
+   ]
+  },
+  {
+   "id": "cq3",
+   "topic": "ciencia",
+   "question": "¿Cuál es el planeta más alejado del Sol?",
+   "answer": "Neptuno",
+   "decoys": [
+    "Urano",
+    "Plutón",
+    "Saturno"
+   ]
+  },
+  {
+   "id": "cq4",
+   "topic": "ciencia",
+   "question": "¿Cómo se llama la galaxia en la que está el Sistema Solar?",
+   "answer": "Vía Láctea",
+   "decoys": [
+    "Andrómeda",
+    "Nube de Magallanes",
+    "Triángulo"
+   ]
+  },
+  {
+   "id": "cq5",
+   "topic": "ciencia",
+   "question": "¿Qué cometa se ve desde la Tierra cada 75 años, aproximadamente?",
+   "answer": "Halley",
+   "decoys": [
+    "Hale-Bopp",
+    "Encke",
+    "Shoemaker-Levy"
+   ]
+  },
+  {
+   "id": "cq6",
+   "topic": "ciencia",
+   "question": "¿Cómo se llama la mancha gigante que es una tormenta en Júpiter?",
+   "answer": "La Gran Mancha Roja",
+   "decoys": [
+    "El Ojo de Júpiter",
+    "La Gran Mancha Oscura",
+    "El Hexágono"
+   ]
+  },
+  {
+   "id": "cq7",
+   "topic": "ciencia",
+   "question": "¿Cuál es la luna más grande de Saturno?",
+   "answer": "Titán",
+   "decoys": [
+    "Encélado",
+    "Ganimedes",
+    "Europa"
+   ]
+  },
+  {
+   "id": "cq8",
+   "topic": "ciencia",
+   "question": "¿Qué telescopio espacial lanzado en 2021 reemplazó como estrella al Hubble?",
+   "answer": "James Webb",
+   "decoys": [
+    "Kepler",
+    "Spitzer",
+    "Chandra"
+   ]
+  },
+  {
+   "id": "cq9",
+   "topic": "ciencia",
+   "question": "¿Qué constelación usaban los navegantes del hemisferio sur para ubicar el sur?",
+   "answer": "La Cruz del Sur",
+   "decoys": [
+    "La Osa Mayor",
+    "Orión",
+    "Casiopea"
+   ]
+  },
+  {
+   "id": "cq10",
+   "topic": "ciencia",
+   "question": "¿Qué se forma cuando la Luna se interpone entre el Sol y la Tierra?",
+   "answer": "Un eclipse solar",
+   "decoys": [
+    "Un eclipse lunar",
+    "Una luna llena",
+    "Un solsticio"
+   ]
+  },
+  {
+   "id": "cq11",
+   "topic": "ciencia",
+   "question": "¿Cuál es el símbolo químico del hierro?",
+   "answer": "Fe",
+   "decoys": [
+    "Hi",
+    "Ir",
+    "He"
+   ]
+  },
+  {
+   "id": "cq12",
+   "topic": "ciencia",
+   "question": "¿Cuál es el símbolo químico de la plata?",
+   "answer": "Ag",
+   "decoys": [
+    "Pl",
+    "Pt",
+    "Au"
+   ]
+  },
+  {
+   "id": "cq13",
+   "topic": "ciencia",
+   "question": "¿Cuál es el símbolo químico del potasio?",
+   "answer": "K",
+   "decoys": [
+    "P",
+    "Po",
+    "Pt"
+   ]
+  },
+  {
+   "id": "cq14",
+   "topic": "ciencia",
+   "question": "¿Cuál es el elemento más abundante del universo?",
+   "answer": "Hidrógeno",
+   "decoys": [
+    "Helio",
+    "Oxígeno",
+    "Carbono"
+   ]
+  },
+  {
+   "id": "cq15",
+   "topic": "ciencia",
+   "question": "¿Qué gas usan los globos para flotar y cambia la voz si se inhala?",
+   "answer": "Helio",
+   "decoys": [
+    "Hidrógeno",
+    "Neón",
+    "Argón"
+   ]
+  },
+  {
+   "id": "cq16",
+   "topic": "ciencia",
+   "question": "¿Cuál es el material natural más duro?",
+   "answer": "Diamante",
+   "decoys": [
+    "Cuarzo",
+    "Grafito",
+    "Titanio"
+   ]
+  },
+  {
+   "id": "cq17",
+   "topic": "ciencia",
+   "question": "¿De qué elemento están hechos tanto el diamante como el grafito?",
+   "answer": "Carbono",
+   "decoys": [
+    "Silicio",
+    "Calcio",
+    "Azufre"
+   ]
+  },
+  {
+   "id": "cq18",
+   "topic": "ciencia",
+   "question": "¿Qué científica descubrió el radio y el polonio?",
+   "answer": "Marie Curie",
+   "decoys": [
+    "Rosalind Franklin",
+    "Lise Meitner",
+    "Ada Lovelace"
+   ]
+  },
+  {
+   "id": "cq19",
+   "topic": "ciencia",
+   "question": "¿Quién creó la tabla periódica de los elementos?",
+   "answer": "Dmitri Mendeléiev",
+   "decoys": [
+    "Antoine Lavoisier",
+    "John Dalton",
+    "Niels Bohr"
+   ]
+  },
+  {
+   "id": "cq20",
+   "topic": "ciencia",
+   "question": "¿Qué científico italiano mejoró el telescopio y defendió que la Tierra gira alrededor del Sol?",
+   "answer": "Galileo Galilei",
+   "decoys": [
+    "Nicolás Copérnico",
+    "Johannes Kepler",
+    "Giordano Bruno"
+   ]
+  },
+  {
+   "id": "cq21",
+   "topic": "ciencia",
+   "question": "¿Qué astrónomo propuso el modelo heliocéntrico en 1543?",
+   "answer": "Nicolás Copérnico",
+   "decoys": [
+    "Galileo Galilei",
+    "Ptolomeo",
+    "Tycho Brahe"
+   ]
+  },
+  {
+   "id": "cq22",
+   "topic": "ciencia",
+   "question": "¿Quién inventó la bombita de luz incandescente comercial?",
+   "answer": "Thomas Edison",
+   "decoys": [
+    "Nikola Tesla",
+    "Alexander Graham Bell",
+    "Benjamin Franklin"
+   ]
+  },
+  {
+   "id": "cq23",
+   "topic": "ciencia",
+   "question": "¿A quién se le atribuye la invención del teléfono, patentado en 1876?",
+   "answer": "Alexander Graham Bell",
+   "decoys": [
+    "Thomas Edison",
+    "Guglielmo Marconi",
+    "Samuel Morse"
+   ]
+  },
+  {
+   "id": "cq24",
+   "topic": "ciencia",
+   "question": "¿Qué científico descubrió las leyes de la herencia cruzando arvejas?",
+   "answer": "Gregor Mendel",
+   "decoys": [
+    "Charles Darwin",
+    "Louis Pasteur",
+    "Robert Hooke"
+   ]
+  },
+  {
+   "id": "cq25",
+   "topic": "ciencia",
+   "question": "¿Qué científico francés desarrolló la vacuna contra la rabia?",
+   "answer": "Louis Pasteur",
+   "decoys": [
+    "Edward Jenner",
+    "Robert Koch",
+    "Alexander Fleming"
+   ]
+  },
+  {
+   "id": "cq26",
+   "topic": "ciencia",
+   "question": "¿Qué médico inglés creó la primera vacuna, contra la viruela?",
+   "answer": "Edward Jenner",
+   "decoys": [
+    "Louis Pasteur",
+    "Joseph Lister",
+    "William Harvey"
+   ]
+  },
+  {
+   "id": "cq27",
+   "topic": "ciencia",
+   "question": "¿Qué molécula tiene forma de doble hélice?",
+   "answer": "ADN",
+   "decoys": [
+    "ARN",
+    "Proteína",
+    "Glucosa"
+   ]
+  },
+  {
+   "id": "cq28",
+   "topic": "ciencia",
+   "question": "¿Qué parte de la célula contiene el ADN?",
+   "answer": "El núcleo",
+   "decoys": [
+    "La membrana",
+    "El citoplasma",
+    "El ribosoma"
+   ]
+  },
+  {
+   "id": "cq29",
+   "topic": "ciencia",
+   "question": "¿Qué orgánulo es conocido como «la central de energía» de la célula?",
+   "answer": "Mitocondria",
+   "decoys": [
+    "Ribosoma",
+    "Aparato de Golgi",
+    "Lisosoma"
+   ]
+  },
+  {
+   "id": "cq30",
+   "topic": "ciencia",
+   "question": "¿Qué órgano filtra la sangre y produce la orina?",
+   "answer": "El riñón",
+   "decoys": [
+    "El hígado",
+    "El páncreas",
+    "El bazo"
+   ]
+  },
+  {
+   "id": "cq31",
+   "topic": "ciencia",
+   "question": "¿Cuál es el hueso más chico del cuerpo humano, en el oído?",
+   "answer": "Estribo",
+   "decoys": [
+    "Yunque",
+    "Martillo",
+    "Falange"
+   ]
+  },
+  {
+   "id": "cq32",
+   "topic": "ciencia",
+   "question": "¿Qué órgano produce la bilis?",
+   "answer": "El hígado",
+   "decoys": [
+    "La vesícula",
+    "El páncreas",
+    "El estómago"
+   ]
+  },
+  {
+   "id": "cq33",
+   "topic": "ciencia",
+   "question": "¿Cuántas cámaras tiene el corazón humano?",
+   "answer": "4",
+   "decoys": [
+    "2",
+    "3",
+    "6"
+   ]
+  },
+  {
+   "id": "cq34",
+   "topic": "ciencia",
+   "question": "¿Qué células de la sangre transportan el oxígeno?",
+   "answer": "Glóbulos rojos",
+   "decoys": [
+    "Glóbulos blancos",
+    "Plaquetas",
+    "Linfocitos"
+   ]
+  },
+  {
+   "id": "cq35",
+   "topic": "ciencia",
+   "question": "¿Qué músculo es el más grande del cuerpo humano?",
+   "answer": "Glúteo mayor",
+   "decoys": [
+    "Cuádriceps",
+    "Bíceps",
+    "Dorsal ancho"
+   ]
+  },
+  {
+   "id": "cq36",
+   "topic": "ciencia",
+   "question": "¿Qué vitamina abunda en las naranjas y previene el escorbuto?",
+   "answer": "Vitamina C",
+   "decoys": [
+    "Vitamina A",
+    "Vitamina D",
+    "Vitamina B12"
+   ]
+  },
+  {
+   "id": "cq37",
+   "topic": "ciencia",
+   "question": "¿Cuál es el único mamífero que puede volar?",
+   "answer": "El murciélago",
+   "decoys": [
+    "La ardilla voladora",
+    "El colugo",
+    "El petauro"
+   ]
+  },
+  {
+   "id": "cq38",
+   "topic": "ciencia",
+   "question": "¿Qué animal tiene el cuello más largo?",
+   "answer": "La jirafa",
+   "decoys": [
+    "El avestruz",
+    "El camello",
+    "El flamenco"
+   ]
+  },
+  {
+   "id": "cq39",
+   "topic": "ciencia",
+   "question": "¿Qué animal es el mayor primate del mundo?",
+   "answer": "El gorila",
+   "decoys": [
+    "El orangután",
+    "El chimpancé",
+    "El babuino"
+   ]
+  },
+  {
+   "id": "cq40",
+   "topic": "ciencia",
+   "question": "¿Qué ave no puede volar y vive en la Antártida?",
+   "answer": "El pingüino emperador",
+   "decoys": [
+    "El albatros",
+    "El petrel",
+    "El cormorán"
+   ]
+  },
+  {
+   "id": "cq41",
+   "topic": "ciencia",
+   "question": "¿Qué animal cambia de color para camuflarse y mueve los ojos por separado?",
+   "answer": "El camaleón",
+   "decoys": [
+    "La iguana",
+    "El gecko",
+    "La salamandra"
+   ]
+  },
+  {
+   "id": "cq42",
+   "topic": "ciencia",
+   "question": "¿Cuántas patas tiene un insecto?",
+   "answer": "6",
+   "decoys": [
+    "8",
+    "4",
+    "10"
+   ]
+  },
+  {
+   "id": "cq43",
+   "topic": "ciencia",
+   "question": "¿Cómo se llama la cría del canguro?",
+   "answer": "Joey",
+   "decoys": [
+    "Potro",
+    "Ternero",
+    "Lechón"
+   ]
+  },
+  {
+   "id": "cq44",
+   "topic": "ciencia",
+   "question": "¿Qué mamífero pone huevos y tiene pico de pato?",
+   "answer": "Ornitorrinco",
+   "decoys": [
+    "Equidna",
+    "Castor",
+    "Nutria"
+   ]
+  },
+  {
+   "id": "cq45",
+   "topic": "ciencia",
+   "question": "¿Qué animal argentino es el roedor más grande del mundo?",
+   "answer": "Carpincho",
+   "decoys": [
+    "Vizcacha",
+    "Mara",
+    "Coipo"
+   ],
+   "tags": [
+    "argentina"
+   ]
+  },
+  {
+   "id": "cq46",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué felino es el más grande de América?",
+   "answer": "Yaguareté",
+   "decoys": [
+    "Puma",
+    "Ocelote",
+    "Gato montés"
+   ]
+  },
+  {
+   "id": "cq47",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ballena se acerca cada año a la Península Valdés para reproducirse?",
+   "answer": "Ballena franca austral",
+   "decoys": [
+    "Ballena azul",
+    "Ballena jorobada",
+    "Orca"
+   ]
+  },
+  {
+   "id": "cq48",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ave es la más grande de la Argentina, parecida al avestruz?",
+   "answer": "Ñandú",
+   "decoys": [
+    "Cóndor",
+    "Flamenco",
+    "Chajá"
+   ]
+  },
+  {
+   "id": "cq49",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ave andina tiene la mayor envergadura entre las aves terrestres?",
+   "answer": "Cóndor andino",
+   "decoys": [
+    "Águila mora",
+    "Carancho",
+    "Jote"
+   ]
+  },
+  {
+   "id": "cq50",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué científico argentino ganó el Nobel de Química en 1970?",
+   "answer": "Luis Federico Leloir",
+   "decoys": [
+    "Bernardo Houssay",
+    "César Milstein",
+    "René Favaloro"
+   ]
+  },
+  {
+   "id": "cq51",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué científico argentino ganó el Nobel de Medicina en 1984 por los anticuerpos monoclonales?",
+   "answer": "César Milstein",
+   "decoys": [
+    "Luis Federico Leloir",
+    "Bernardo Houssay",
+    "René Favaloro"
+   ]
+  },
+  {
+   "id": "cq52",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué paleontólogo argentino del siglo XIX estudió los fósiles pampeanos junto a su hermano Carlos?",
+   "answer": "Florentino Ameghino",
+   "decoys": [
+    "Francisco P. Moreno",
+    "Hermann Burmeister",
+    "Eduardo Holmberg"
+   ]
+  },
+  {
+   "id": "cq53",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué dinosaurio carnívoro gigante fue hallado en El Chocón, Neuquén?",
+   "answer": "Giganotosaurus",
+   "decoys": [
+    "Tyrannosaurus",
+    "Carnotaurus",
+    "Spinosaurus"
+   ]
+  },
+  {
+   "id": "cq54",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué agencia espacial tiene la Argentina?",
+   "answer": "CONAE",
+   "decoys": [
+    "INVAP",
+    "CONICET",
+    "CNEA"
+   ]
+  },
+  {
+   "id": "cq55",
+   "topic": "ciencia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué empresa rionegrina construye satélites y reactores nucleares?",
+   "answer": "INVAP",
+   "decoys": [
+    "CONAE",
+    "ARSAT",
+    "Nucleoeléctrica"
+   ]
+  },
+  {
+   "id": "cq56",
+   "topic": "ciencia",
+   "question": "¿Qué unidad mide la potencia eléctrica?",
+   "answer": "Vatio",
+   "decoys": [
+    "Voltio",
+    "Ohmio",
+    "Julio"
+   ]
+  },
+  {
+   "id": "cq57",
+   "topic": "ciencia",
+   "question": "¿Qué unidad mide la resistencia eléctrica?",
+   "answer": "Ohmio",
+   "decoys": [
+    "Voltio",
+    "Amperio",
+    "Faradio"
+   ]
+  },
+  {
+   "id": "cq58",
+   "topic": "ciencia",
+   "question": "¿Qué escala mide la magnitud de los terremotos más conocida popularmente?",
+   "answer": "Richter",
+   "decoys": [
+    "Beaufort",
+    "Mohs",
+    "Kelvin"
+   ]
+  },
+  {
+   "id": "cq59",
+   "topic": "ciencia",
+   "question": "¿Qué escala mide la dureza de los minerales?",
+   "answer": "Mohs",
+   "decoys": [
+    "Richter",
+    "Mercalli",
+    "Beaufort"
+   ]
+  },
+  {
+   "id": "cq60",
+   "topic": "ciencia",
+   "question": "¿A cuántos grados Celsius equivale el cero absoluto, aproximadamente?",
+   "answer": "-273 °C",
+   "decoys": [
+    "-100 °C",
+    "-459 °C",
+    "-180 °C"
+   ]
+  },
+  {
+   "id": "cq61",
+   "topic": "ciencia",
+   "question": "¿Qué capa de la atmósfera nos protege de los rayos ultravioleta?",
+   "answer": "La capa de ozono",
+   "decoys": [
+    "La ionósfera",
+    "La troposfera",
+    "La exosfera"
+   ]
+  },
+  {
+   "id": "cq62",
+   "topic": "ciencia",
+   "question": "¿Qué tipo de roca se forma al enfriarse el magma?",
+   "answer": "Ígnea",
+   "decoys": [
+    "Sedimentaria",
+    "Metamórfica",
+    "Caliza"
+   ]
+  },
+  {
+   "id": "cq63",
+   "topic": "ciencia",
+   "question": "¿Cómo se llamaba el supercontinente que reunía todas las tierras hace 300 millones de años?",
+   "answer": "Pangea",
+   "decoys": [
+    "Gondwana",
+    "Laurasia",
+    "Rodinia"
+   ]
+  },
+  {
+   "id": "cq64",
+   "topic": "ciencia",
+   "question": "¿Qué científico británico, en silla de ruedas, estudió los agujeros negros?",
+   "answer": "Stephen Hawking",
+   "decoys": [
+    "Roger Penrose",
+    "Carl Sagan",
+    "Brian Cox"
+   ]
+  },
+  {
+   "id": "cq65",
+   "topic": "ciencia",
+   "question": "¿Qué matemática inglesa es considerada la primera programadora de la historia?",
+   "answer": "Ada Lovelace",
+   "decoys": [
+    "Grace Hopper",
+    "Hedy Lamarr",
+    "Marie Curie"
+   ]
+  },
+  {
+   "id": "cq66",
+   "topic": "ciencia",
+   "question": "¿Qué matemático británico descifró el código Enigma en la Segunda Guerra?",
+   "answer": "Alan Turing",
+   "decoys": [
+    "John von Neumann",
+    "Charles Babbage",
+    "Claude Shannon"
+   ]
+  },
+  {
+   "id": "cq67",
+   "topic": "ciencia",
+   "question": "¿Qué número es aproximadamente 3,1416?",
+   "answer": "Pi",
+   "decoys": [
+    "El número e",
+    "El número áureo",
+    "Raíz de 10"
+   ]
+  },
+  {
+   "id": "cq68",
+   "topic": "ciencia",
+   "question": "¿Cuánto suman los ángulos interiores de un triángulo?",
+   "answer": "180°",
+   "decoys": [
+    "360°",
+    "90°",
+    "270°"
+   ]
+  },
+  {
+   "id": "cq69",
+   "topic": "ciencia",
+   "question": "¿Cuál es el único número primo par?",
+   "answer": "2",
+   "decoys": [
+    "0",
+    "4",
+    "1"
+   ]
+  },
+  {
+   "id": "cq70",
+   "topic": "ciencia",
+   "question": "¿Cuántos lados tiene un hexágono?",
+   "answer": "6",
+   "decoys": [
+    "5",
+    "7",
+    "8"
+   ]
+  }
+ ],
+ "estimates": [
+  {
+   "id": "cz1",
+   "topic": "ciencia",
+   "question": "¿A cuántos grados Celsius está la superficie del Sol, aproximadamente?",
+   "answer": 5500,
+   "unit": "°C",
+   "tolerance": 4000
+  },
+  {
+   "id": "cz2",
+   "topic": "ciencia",
+   "question": "¿Cuántas veces late el corazón de un adulto en reposo por minuto, aproximadamente?",
+   "answer": 70,
+   "unit": "latidos",
+   "tolerance": 35
+  },
+  {
+   "id": "cz3",
+   "topic": "ciencia",
+   "question": "¿Cuántos minutos tarda la luz del Sol en llegar a la Tierra, aproximadamente?",
+   "answer": 8.3,
+   "unit": "minutos",
+   "tolerance": 8
+  },
+  {
+   "id": "cz5",
+   "topic": "ciencia",
+   "question": "¿Cuántos kilos puede pesar una ballena azul adulta, aproximadamente?",
+   "answer": 150000,
+   "unit": "kg",
+   "tolerance": 100000
+  },
+  {
+   "id": "cz6",
+   "topic": "ciencia",
+   "question": "¿Cuántos días tarda Marte en dar una vuelta al Sol, aproximadamente?",
+   "answer": 687,
+   "unit": "días",
+   "tolerance": 400
+  },
+  {
+   "id": "cz7",
+   "topic": "ciencia",
+   "question": "¿Cuántos kilómetros por hora puede alcanzar un guepardo, aproximadamente?",
+   "answer": 110,
+   "unit": "km/h",
+   "tolerance": 60
+  },
+  {
+   "id": "cz8",
+   "topic": "ciencia",
+   "question": "¿Cuántos años puede vivir una tortuga gigante de Galápagos, aproximadamente?",
+   "answer": 150,
+   "unit": "años",
+   "tolerance": 90
+  },
+  {
+   "id": "cz9",
+   "topic": "ciencia",
+   "question": "¿Cuántos metros mide de alto una jirafa adulta, aproximadamente?",
+   "answer": 5.5,
+   "unit": "metros",
+   "tolerance": 3
+  },
+  {
+   "id": "cz10",
+   "topic": "ciencia",
+   "question": "¿Cuántas neuronas tiene el cerebro humano? (en miles de millones)",
+   "answer": 86,
+   "unit": "miles de millones",
+   "tolerance": 60
+  },
+  {
+   "id": "cz12",
+   "topic": "ciencia",
+   "question": "¿Cuántos grados Celsius tiene el cuerpo humano normal, aproximadamente?",
+   "answer": 36.5,
+   "unit": "°C",
+   "tolerance": 6
+  }
+ ]
+}

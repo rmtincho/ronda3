@@ -1,0 +1,1446 @@
+{
+ "trivia": [
+  {
+   "id": "hx1",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién presidió la Primera Junta de 1810?",
+   "answer": "Cornelio Saavedra",
+   "decoys": [
+    "Mariano Moreno",
+    "Manuel Belgrano",
+    "Juan José Castelli"
+   ]
+  },
+  {
+   "id": "hx2",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué secretario de la Primera Junta fundó la «Gazeta de Buenos Ayres»?",
+   "answer": "Mariano Moreno",
+   "decoys": [
+    "Juan José Paso",
+    "Cornelio Saavedra",
+    "Bernardino Rivadavia"
+   ]
+  },
+  {
+   "id": "hx3",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué virrey fue desplazado por la Revolución de Mayo?",
+   "answer": "Baltasar Hidalgo de Cisneros",
+   "decoys": [
+    "Santiago de Liniers",
+    "Rafael de Sobremonte",
+    "Pedro de Cevallos"
+   ]
+  },
+  {
+   "id": "hx4",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué virrey huyó a Córdoba con el tesoro durante la primera invasión inglesa?",
+   "answer": "Rafael de Sobremonte",
+   "decoys": [
+    "Santiago de Liniers",
+    "Baltasar Hidalgo de Cisneros",
+    "Juan José de Vértiz"
+   ]
+  },
+  {
+   "id": "hx5",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué batalla de 1813 San Martín estrenó el Regimiento de Granaderos a Caballo?",
+   "answer": "San Lorenzo",
+   "decoys": [
+    "Maipú",
+    "Chacabuco",
+    "Tucumán"
+   ]
+  },
+  {
+   "id": "hx6",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué sargento salvó la vida de San Martín en el combate de San Lorenzo?",
+   "answer": "Juan Bautista Cabral",
+   "decoys": [
+    "Juan Bautista Baigorria",
+    "Manuel Escalada",
+    "Mariano Necochea"
+   ]
+  },
+  {
+   "id": "hx7",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué batalla de 1818 consolidó la independencia de Chile?",
+   "answer": "Maipú",
+   "decoys": [
+    "Chacabuco",
+    "Cancha Rayada",
+    "Rancagua"
+   ]
+  },
+  {
+   "id": "hx8",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué éxodo protagonizó el pueblo jujeño en 1812 por orden de Belgrano?",
+   "answer": "El Éxodo Jujeño",
+   "decoys": [
+    "La Marcha del Desierto",
+    "El Cruce de los Andes",
+    "La Retirada de Huaqui"
+   ]
+  },
+  {
+   "id": "hx9",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué país murió San Martín, en 1850?",
+   "answer": "Francia",
+   "decoys": [
+    "Inglaterra",
+    "España",
+    "Perú"
+   ]
+  },
+  {
+   "id": "hx10",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué ciudad francesa murió José de San Martín?",
+   "answer": "Boulogne-sur-Mer",
+   "decoys": [
+    "París",
+    "Marsella",
+    "Burdeos"
+   ]
+  },
+  {
+   "id": "hx11",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué caudillo riojano era conocido como «el Tigre de los Llanos»?",
+   "answer": "Facundo Quiroga",
+   "decoys": [
+    "Ángel Vicente Peñaloza",
+    "Felipe Varela",
+    "Estanislao López"
+   ]
+  },
+  {
+   "id": "hx12",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué lugar fue asesinado Facundo Quiroga en 1835?",
+   "answer": "Barranca Yaco",
+   "decoys": [
+    "Caseros",
+    "Pavón",
+    "Vuelta de Obligado"
+   ]
+  },
+  {
+   "id": "hx13",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué combate de 1845 enfrentó a la Confederación con la flota anglo-francesa en el Paraná?",
+   "answer": "Vuelta de Obligado",
+   "decoys": [
+    "Caseros",
+    "Pavón",
+    "Cepeda"
+   ]
+  },
+  {
+   "id": "hx14",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué día se conmemora la Soberanía Nacional, por la Vuelta de Obligado?",
+   "answer": "20 de noviembre",
+   "decoys": [
+    "12 de octubre",
+    "2 de abril",
+    "17 de agosto"
+   ]
+  },
+  {
+   "id": "hx15",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué presidente encabezó la llamada «Conquista del Desierto» como ministro de Guerra?",
+   "answer": "Julio Argentino Roca",
+   "decoys": [
+    "Nicolás Avellaneda",
+    "Bartolomé Mitre",
+    "Domingo F. Sarmiento"
+   ]
+  },
+  {
+   "id": "hx16",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué presidente fundó el diario «La Nación»?",
+   "answer": "Bartolomé Mitre",
+   "decoys": [
+    "Domingo F. Sarmiento",
+    "Julio A. Roca",
+    "Carlos Pellegrini"
+   ]
+  },
+  {
+   "id": "hx17",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué guerra enfrentó a Argentina, Brasil y Uruguay contra Paraguay entre 1864 y 1870?",
+   "answer": "La guerra de la Triple Alianza",
+   "decoys": [
+    "La guerra del Pacífico",
+    "La guerra del Chaco",
+    "La guerra Grande"
+   ]
+  },
+  {
+   "id": "hx18",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué partido político fundó Leandro N. Alem en 1891?",
+   "answer": "Unión Cívica Radical",
+   "decoys": [
+    "Partido Socialista",
+    "Partido Autonomista Nacional",
+    "Partido Demócrata Progresista"
+   ]
+  },
+  {
+   "id": "hx19",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "10s"
+   ],
+   "question": "¿Quién fue el primer presidente elegido con la Ley Sáenz Peña, en 1916?",
+   "answer": "Hipólito Yrigoyen",
+   "decoys": [
+    "Marcelo T. de Alvear",
+    "Roque Sáenz Peña",
+    "Victorino de la Plaza"
+   ]
+  },
+  {
+   "id": "hx20",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "30s"
+   ],
+   "question": "¿Qué militar derrocó a Yrigoyen en 1930, en el primer golpe de Estado del siglo XX?",
+   "answer": "José Félix Uriburu",
+   "decoys": [
+    "Agustín P. Justo",
+    "Pedro Pablo Ramírez",
+    "Edelmiro Farrell"
+   ]
+  },
+  {
+   "id": "hx21",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "40s"
+   ],
+   "question": "¿Qué fecha se recuerda como el «Día de la Lealtad» peronista?",
+   "answer": "17 de octubre",
+   "decoys": [
+    "1 de mayo",
+    "26 de julio",
+    "4 de junio"
+   ]
+  },
+  {
+   "id": "hx22",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "40s"
+   ],
+   "question": "¿En qué año asumió Perón su primera presidencia?",
+   "answer": "1946",
+   "decoys": [
+    "1943",
+    "1945",
+    "1949"
+   ]
+  },
+  {
+   "id": "hx23",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "50s"
+   ],
+   "question": "¿Cómo se llamó el golpe que derrocó a Perón en 1955?",
+   "answer": "Revolución Libertadora",
+   "decoys": [
+    "Revolución Argentina",
+    "Proceso de Reorganización Nacional",
+    "Revolución del Parque"
+   ]
+  },
+  {
+   "id": "hx24",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "60s"
+   ],
+   "question": "¿Qué presidente radical fue derrocado en 1966 por Onganía?",
+   "answer": "Arturo Illia",
+   "decoys": [
+    "Arturo Frondizi",
+    "José María Guido",
+    "Héctor Cámpora"
+   ]
+  },
+  {
+   "id": "hx25",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "60s"
+   ],
+   "question": "¿Qué levantamiento obrero y estudiantil sacudió a Córdoba en mayo de 1969?",
+   "answer": "El Cordobazo",
+   "decoys": [
+    "El Rosariazo",
+    "El Viborazo",
+    "La Semana Trágica"
+   ]
+  },
+  {
+   "id": "hx26",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Qué presidente asumió en mayo de 1973 con el lema «Cámpora al gobierno, Perón al poder»?",
+   "answer": "Héctor Cámpora",
+   "decoys": [
+    "Raúl Lastiri",
+    "Alejandro Lanusse",
+    "Isabel Perón"
+   ]
+  },
+  {
+   "id": "hx27",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Quién fue la primera mujer presidenta de la Argentina?",
+   "answer": "María Estela Martínez de Perón",
+   "decoys": [
+    "Eva Perón",
+    "Cristina Fernández de Kirchner",
+    "Alicia Moreau de Justo"
+   ]
+  },
+  {
+   "id": "hx28",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿En qué fecha fue el golpe militar de 1976?",
+   "answer": "24 de marzo",
+   "decoys": [
+    "2 de abril",
+    "16 de septiembre",
+    "10 de diciembre"
+   ]
+  },
+  {
+   "id": "hx29",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Cómo se llamó el informe de la CONADEP sobre los desaparecidos?",
+   "answer": "Nunca más",
+   "decoys": [
+    "Punto final",
+    "Verdad y justicia",
+    "Memoria activa"
+   ]
+  },
+  {
+   "id": "hx30",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué escritor presidió la CONADEP?",
+   "answer": "Ernesto Sabato",
+   "decoys": [
+    "Jorge Luis Borges",
+    "Julio Cortázar",
+    "Adolfo Bioy Casares"
+   ]
+  },
+  {
+   "id": "hx31",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué fiscal llevó adelante el Juicio a las Juntas en 1985?",
+   "answer": "Julio César Strassera",
+   "decoys": [
+    "León Arslanián",
+    "Jorge Torlasco",
+    "Raúl Zaffaroni"
+   ]
+  },
+  {
+   "id": "hx32",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué crucero argentino fue hundido por un submarino británico en la guerra de Malvinas?",
+   "answer": "General Belgrano",
+   "decoys": [
+    "ARA Santísima Trinidad",
+    "Veinticinco de Mayo",
+    "ARA Hércules"
+   ]
+  },
+  {
+   "id": "hx33",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué día de 1982 desembarcaron las tropas argentinas en Malvinas?",
+   "answer": "2 de abril",
+   "decoys": [
+    "14 de junio",
+    "1 de mayo",
+    "25 de mayo"
+   ]
+  },
+  {
+   "id": "hx34",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Quién era primera ministra británica durante la guerra de Malvinas?",
+   "answer": "Margaret Thatcher",
+   "decoys": [
+    "Theresa May",
+    "Isabel II",
+    "Liz Truss"
+   ]
+  },
+  {
+   "id": "hx35",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿Cómo se llamó la ley de 1991 que fijó un peso igual a un dólar?",
+   "answer": "Ley de Convertibilidad",
+   "decoys": [
+    "Plan Austral",
+    "Plan Bonex",
+    "Ley de Emergencia Económica"
+   ]
+  },
+  {
+   "id": "hx36",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Cómo se llamó la moneda que lanzó Alfonsín en 1985?",
+   "answer": "Austral",
+   "decoys": [
+    "Peso ley",
+    "Patacón",
+    "Peso argentino"
+   ]
+  },
+  {
+   "id": "hx37",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿En qué año fue el atentado a la AMIA?",
+   "answer": "1994",
+   "decoys": [
+    "1992",
+    "1996",
+    "1990"
+   ]
+  },
+  {
+   "id": "hx38",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿En qué ciudades sesionó la Convención que reformó la Constitución en 1994?",
+   "answer": "Santa Fe y Paraná",
+   "decoys": [
+    "Buenos Aires",
+    "Córdoba",
+    "San Miguel de Tucumán"
+   ]
+  },
+  {
+   "id": "hx39",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "2000s"
+   ],
+   "question": "¿Cómo se llamó la restricción a los retiros bancarios de diciembre de 2001?",
+   "answer": "Corralito",
+   "decoys": [
+    "Corralón",
+    "Tablita",
+    "Rodrigazo"
+   ]
+  },
+  {
+   "id": "hx40",
+   "topic": "historia",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Cómo se llamó el ajuste económico de 1975 que lleva el nombre de un ministro?",
+   "answer": "Rodrigazo",
+   "decoys": [
+    "Tablita",
+    "Corralito",
+    "Plan Primavera"
+   ]
+  },
+  {
+   "id": "hx41",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién fundó Buenos Aires por primera vez, en 1536?",
+   "answer": "Pedro de Mendoza",
+   "decoys": [
+    "Juan de Garay",
+    "Juan Díaz de Solís",
+    "Sebastián Gaboto"
+   ]
+  },
+  {
+   "id": "hx42",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué navegante llegó al Río de la Plata en 1516 y lo llamó «Mar Dulce»?",
+   "answer": "Juan Díaz de Solís",
+   "decoys": [
+    "Hernando de Magallanes",
+    "Sebastián Gaboto",
+    "Américo Vespucio"
+   ]
+  },
+  {
+   "id": "hx43",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿De quién es la frase «Gobernar es poblar»?",
+   "answer": "Juan Bautista Alberdi",
+   "decoys": [
+    "Domingo F. Sarmiento",
+    "Bartolomé Mitre",
+    "Nicolás Avellaneda"
+   ]
+  },
+  {
+   "id": "hx44",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué libro de Alberdi sirvió de base a la Constitución de 1853?",
+   "answer": "Bases",
+   "decoys": [
+    "Facundo",
+    "El matadero",
+    "Dogma socialista"
+   ]
+  },
+  {
+   "id": "hw1",
+   "topic": "historia",
+   "question": "¿Qué faraona fue la última reina del Egipto ptolemaico?",
+   "answer": "Cleopatra VII",
+   "decoys": [
+    "Nefertiti",
+    "Hatshepsut",
+    "Nefertari"
+   ]
+  },
+  {
+   "id": "hw2",
+   "topic": "historia",
+   "question": "¿Qué general cartaginés cruzó los Alpes con elefantes?",
+   "answer": "Aníbal",
+   "decoys": [
+    "Asdrúbal",
+    "Amílcar",
+    "Escipión"
+   ]
+  },
+  {
+   "id": "hw3",
+   "topic": "historia",
+   "question": "¿Qué volcán sepultó Pompeya en el año 79?",
+   "answer": "Vesubio",
+   "decoys": [
+    "Etna",
+    "Estrómboli",
+    "Vulcano"
+   ]
+  },
+  {
+   "id": "hw4",
+   "topic": "historia",
+   "question": "¿Quién fue asesinado en los idus de marzo del 44 a. C.?",
+   "answer": "Julio César",
+   "decoys": [
+    "Augusto",
+    "Marco Antonio",
+    "Nerón"
+   ]
+  },
+  {
+   "id": "hw5",
+   "topic": "historia",
+   "question": "¿Qué rey macedonio llegó con su imperio hasta la India?",
+   "answer": "Alejandro Magno",
+   "decoys": [
+    "Filipo II",
+    "Darío I",
+    "Ciro el Grande"
+   ]
+  },
+  {
+   "id": "hw6",
+   "topic": "historia",
+   "question": "¿Qué ciudad era la capital del Imperio bizantino?",
+   "answer": "Constantinopla",
+   "decoys": [
+    "Roma",
+    "Atenas",
+    "Alejandría"
+   ]
+  },
+  {
+   "id": "hw7",
+   "topic": "historia",
+   "question": "¿En qué año cayó Constantinopla en manos otomanas?",
+   "answer": "1453",
+   "decoys": [
+    "1492",
+    "1204",
+    "1517"
+   ]
+  },
+  {
+   "id": "hw8",
+   "topic": "historia",
+   "question": "¿Qué mercader veneciano contó sus viajes a la China de Kublai Kan?",
+   "answer": "Marco Polo",
+   "decoys": [
+    "Américo Vespucio",
+    "Cristóbal Colón",
+    "Ibn Battuta"
+   ]
+  },
+  {
+   "id": "hw9",
+   "topic": "historia",
+   "question": "¿Qué monje alemán clavó sus 95 tesis en 1517 e inició la Reforma?",
+   "answer": "Martín Lutero",
+   "decoys": [
+    "Juan Calvino",
+    "Erasmo de Róterdam",
+    "Ulrico Zuinglio"
+   ]
+  },
+  {
+   "id": "hw10",
+   "topic": "historia",
+   "question": "¿Qué conquistador español derrotó al Imperio azteca?",
+   "answer": "Hernán Cortés",
+   "decoys": [
+    "Francisco Pizarro",
+    "Diego de Almagro",
+    "Pedro de Valdivia"
+   ]
+  },
+  {
+   "id": "hw11",
+   "topic": "historia",
+   "question": "¿Qué conquistador capturó al inca Atahualpa?",
+   "answer": "Francisco Pizarro",
+   "decoys": [
+    "Hernán Cortés",
+    "Diego de Almagro",
+    "Vasco Núñez de Balboa"
+   ]
+  },
+  {
+   "id": "hw12",
+   "topic": "historia",
+   "question": "¿Qué expedición completó la primera vuelta al mundo, en 1522?",
+   "answer": "La de Magallanes y Elcano",
+   "decoys": [
+    "La de Colón",
+    "La de Vasco da Gama",
+    "La de Drake"
+   ]
+  },
+  {
+   "id": "hw13",
+   "topic": "historia",
+   "question": "¿Qué reina inglesa da nombre a la época de Shakespeare?",
+   "answer": "Isabel I",
+   "decoys": [
+    "Victoria",
+    "María Tudor",
+    "Ana"
+   ]
+  },
+  {
+   "id": "hw14",
+   "topic": "historia",
+   "question": "¿Qué fortaleza-prisión tomó el pueblo de París el 14 de julio de 1789?",
+   "answer": "La Bastilla",
+   "decoys": [
+    "El Louvre",
+    "Versalles",
+    "La Conciergerie"
+   ]
+  },
+  {
+   "id": "hw15",
+   "topic": "historia",
+   "question": "¿Qué reina francesa fue guillotinada en 1793?",
+   "answer": "María Antonieta",
+   "decoys": [
+    "Josefina",
+    "Catalina de Médici",
+    "María Luisa"
+   ]
+  },
+  {
+   "id": "hw16",
+   "topic": "historia",
+   "question": "¿En qué batalla fue derrotado definitivamente Napoleón, en 1815?",
+   "answer": "Waterloo",
+   "decoys": [
+    "Austerlitz",
+    "Trafalgar",
+    "Leipzig"
+   ]
+  },
+  {
+   "id": "hw17",
+   "topic": "historia",
+   "question": "¿En qué isla murió Napoleón exiliado?",
+   "answer": "Santa Elena",
+   "decoys": [
+    "Elba",
+    "Córcega",
+    "Malta"
+   ]
+  },
+  {
+   "id": "hw18",
+   "topic": "historia",
+   "question": "¿En qué año declararon su independencia los Estados Unidos?",
+   "answer": "1776",
+   "decoys": [
+    "1789",
+    "1783",
+    "1810"
+   ]
+  },
+  {
+   "id": "hw19",
+   "topic": "historia",
+   "question": "¿Qué presidente de Estados Unidos abolió la esclavitud y fue asesinado en un teatro?",
+   "answer": "Abraham Lincoln",
+   "decoys": [
+    "George Washington",
+    "Thomas Jefferson",
+    "Ulysses Grant"
+   ]
+  },
+  {
+   "id": "hw20",
+   "topic": "historia",
+   "question": "¿Qué libertador venezolano soñó con la Gran Colombia?",
+   "answer": "Simón Bolívar",
+   "decoys": [
+    "Antonio José de Sucre",
+    "Francisco de Miranda",
+    "Bernardo O'Higgins"
+   ]
+  },
+  {
+   "id": "hw21",
+   "topic": "historia",
+   "question": "¿Qué país fue el primero de América Latina en independizarse, en 1804?",
+   "answer": "Haití",
+   "decoys": [
+    "México",
+    "Argentina",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "hw22",
+   "topic": "historia",
+   "question": "¿Qué atentado en Sarajevo desencadenó la Primera Guerra Mundial?",
+   "answer": "El asesinato del archiduque Francisco Fernando",
+   "decoys": [
+    "El hundimiento del Lusitania",
+    "La invasión de Bélgica",
+    "El asesinato del zar Nicolás II"
+   ]
+  },
+  {
+   "id": "hw23",
+   "topic": "historia",
+   "tags": [
+    "10s"
+   ],
+   "question": "¿En qué año fue la Revolución rusa?",
+   "answer": "1917",
+   "decoys": [
+    "1905",
+    "1914",
+    "1922"
+   ]
+  },
+  {
+   "id": "hw24",
+   "topic": "historia",
+   "tags": [
+    "10s"
+   ],
+   "question": "¿Qué líder encabezó la Revolución bolchevique de 1917?",
+   "answer": "Lenin",
+   "decoys": [
+    "Stalin",
+    "Trotski",
+    "Kérenski"
+   ]
+  },
+  {
+   "id": "hw25",
+   "topic": "historia",
+   "tags": [
+    "10s"
+   ],
+   "question": "¿En qué año se hundió el Titanic?",
+   "answer": "1912",
+   "decoys": [
+    "1905",
+    "1915",
+    "1920"
+   ]
+  },
+  {
+   "id": "hw26",
+   "topic": "historia",
+   "tags": [
+    "20s"
+   ],
+   "question": "¿En qué año fue el crac de la Bolsa de Wall Street que inició la Gran Depresión?",
+   "answer": "1929",
+   "decoys": [
+    "1919",
+    "1933",
+    "1939"
+   ]
+  },
+  {
+   "id": "hw27",
+   "topic": "historia",
+   "tags": [
+    "30s"
+   ],
+   "question": "¿Qué país invadió Alemania el 1 de septiembre de 1939, dando inicio a la Segunda Guerra Mundial?",
+   "answer": "Polonia",
+   "decoys": [
+    "Francia",
+    "Checoslovaquia",
+    "Austria"
+   ]
+  },
+  {
+   "id": "hw28",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿Qué base estadounidense atacó Japón en diciembre de 1941?",
+   "answer": "Pearl Harbor",
+   "decoys": [
+    "Midway",
+    "Guam",
+    "Okinawa"
+   ]
+  },
+  {
+   "id": "hw29",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿Cómo se llamó el desembarco aliado en Normandía del 6 de junio de 1944?",
+   "answer": "Día D",
+   "decoys": [
+    "Operación Barbarroja",
+    "Operación Market Garden",
+    "Batalla de las Ardenas"
+   ]
+  },
+  {
+   "id": "hw30",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿Sobre qué dos ciudades japonesas se lanzaron bombas atómicas en 1945?",
+   "answer": "Hiroshima y Nagasaki",
+   "decoys": [
+    "Tokio y Osaka",
+    "Kioto y Hiroshima",
+    "Nagasaki y Yokohama"
+   ]
+  },
+  {
+   "id": "hw31",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿Qué chica judía escribió un diario escondida en Ámsterdam?",
+   "answer": "Ana Frank",
+   "decoys": [
+    "Hannah Arendt",
+    "Irena Sendler",
+    "Golda Meir"
+   ]
+  },
+  {
+   "id": "hw32",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿Qué primer ministro británico lideró a su país durante la Segunda Guerra Mundial?",
+   "answer": "Winston Churchill",
+   "decoys": [
+    "Neville Chamberlain",
+    "Clement Attlee",
+    "Anthony Eden"
+   ]
+  },
+  {
+   "id": "hw33",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿En qué año se fundó la ONU?",
+   "answer": "1945",
+   "decoys": [
+    "1919",
+    "1948",
+    "1950"
+   ]
+  },
+  {
+   "id": "hw34",
+   "topic": "historia",
+   "tags": [
+    "40s"
+   ],
+   "question": "¿Qué líder proclamó la República Popular China en 1949?",
+   "answer": "Mao Zedong",
+   "decoys": [
+    "Chiang Kai-shek",
+    "Deng Xiaoping",
+    "Zhou Enlai"
+   ]
+  },
+  {
+   "id": "hw35",
+   "topic": "historia",
+   "tags": [
+    "50s"
+   ],
+   "question": "¿En qué año triunfó la Revolución cubana?",
+   "answer": "1959",
+   "decoys": [
+    "1953",
+    "1962",
+    "1956"
+   ]
+  },
+  {
+   "id": "hw36",
+   "topic": "historia",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿En qué año se levantó el Muro de Berlín?",
+   "answer": "1961",
+   "decoys": [
+    "1949",
+    "1953",
+    "1968"
+   ]
+  },
+  {
+   "id": "hw37",
+   "topic": "historia",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Qué cosmonauta soviético fue el primer ser humano en ir al espacio, en 1961?",
+   "answer": "Yuri Gagarin",
+   "decoys": [
+    "Alexéi Leónov",
+    "Valentina Tereshkova",
+    "Gherman Titov"
+   ]
+  },
+  {
+   "id": "hw38",
+   "topic": "historia",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Qué crisis de 1962 puso al mundo al borde de una guerra nuclear?",
+   "answer": "La crisis de los misiles en Cuba",
+   "decoys": [
+    "La crisis de Suez",
+    "El bloqueo de Berlín",
+    "La guerra de Corea"
+   ]
+  },
+  {
+   "id": "hw39",
+   "topic": "historia",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Qué activista dio el discurso «Tengo un sueño» en 1963?",
+   "answer": "Martin Luther King",
+   "decoys": [
+    "Malcolm X",
+    "Rosa Parks",
+    "Nelson Mandela"
+   ]
+  },
+  {
+   "id": "hw40",
+   "topic": "historia",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Cómo se llamó la protesta estudiantil de París en 1968?",
+   "answer": "Mayo francés",
+   "decoys": [
+    "Primavera de Praga",
+    "Comuna de París",
+    "Otoño caliente"
+   ]
+  },
+  {
+   "id": "hw41",
+   "topic": "historia",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué escándalo provocó la renuncia de Richard Nixon en 1974?",
+   "answer": "Watergate",
+   "decoys": [
+    "Irán-Contra",
+    "Lewinsky",
+    "Papeles del Pentágono"
+   ]
+  },
+  {
+   "id": "hw42",
+   "topic": "historia",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué accidente nuclear ocurrió en Ucrania en 1986?",
+   "answer": "Chernóbil",
+   "decoys": [
+    "Fukushima",
+    "Three Mile Island",
+    "Kyshtym"
+   ]
+  },
+  {
+   "id": "hw43",
+   "topic": "historia",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué líder soviético impulsó la perestroika y la glasnost?",
+   "answer": "Mijaíl Gorbachov",
+   "decoys": [
+    "Borís Yeltsin",
+    "Leonid Brézhnev",
+    "Yuri Andrópov"
+   ]
+  },
+  {
+   "id": "hw44",
+   "topic": "historia",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿En qué año se disolvió la Unión Soviética?",
+   "answer": "1991",
+   "decoys": [
+    "1989",
+    "1993",
+    "1987"
+   ]
+  },
+  {
+   "id": "hw45",
+   "topic": "historia",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿En qué año fue liberado Nelson Mandela tras 27 años preso?",
+   "answer": "1990",
+   "decoys": [
+    "1985",
+    "1994",
+    "1988"
+   ]
+  },
+  {
+   "id": "hw46",
+   "topic": "historia",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿Qué princesa murió en un accidente de auto en París en 1997?",
+   "answer": "Diana de Gales",
+   "decoys": [
+    "Grace Kelly",
+    "Carolina de Mónaco",
+    "Sarah Ferguson"
+   ]
+  },
+  {
+   "id": "hw47",
+   "topic": "historia",
+   "tags": [
+    "2000s"
+   ],
+   "question": "¿Quién fue el primer presidente afroamericano de Estados Unidos?",
+   "answer": "Barack Obama",
+   "decoys": [
+    "Colin Powell",
+    "Jesse Jackson",
+    "Kamala Harris"
+   ]
+  },
+  {
+   "id": "hw48",
+   "topic": "historia",
+   "tags": [
+    "2010s"
+   ],
+   "question": "¿Qué papa argentino fue elegido en 2013?",
+   "answer": "Francisco",
+   "decoys": [
+    "Benedicto XVI",
+    "Juan Pablo II",
+    "León XIV"
+   ]
+  },
+  {
+   "id": "hw49",
+   "topic": "historia",
+   "tags": [
+    "2020s"
+   ],
+   "question": "¿En qué año la OMS declaró la pandemia de COVID-19?",
+   "answer": "2020",
+   "decoys": [
+    "2019",
+    "2021",
+    "2018"
+   ]
+  },
+  {
+   "id": "hw50",
+   "topic": "historia",
+   "tags": [
+    "2010s"
+   ],
+   "question": "¿Qué país votó salir de la Unión Europea en un referéndum de 2016?",
+   "answer": "Reino Unido",
+   "decoys": [
+    "Grecia",
+    "Polonia",
+    "Dinamarca"
+   ]
+  },
+  {
+   "id": "hw51",
+   "topic": "historia",
+   "question": "¿Qué civilización tuvo como capital a Tenochtitlan?",
+   "answer": "Azteca",
+   "decoys": [
+    "Maya",
+    "Inca",
+    "Olmeca"
+   ]
+  },
+  {
+   "id": "hw52",
+   "topic": "historia",
+   "question": "¿Qué emperador inca fue capturado en Cajamarca en 1532?",
+   "answer": "Atahualpa",
+   "decoys": [
+    "Huáscar",
+    "Manco Inca",
+    "Pachacútec"
+   ]
+  },
+  {
+   "id": "hw53",
+   "topic": "historia",
+   "question": "¿Qué ciudad griega fue famosa por sus guerreros y su dura educación militar?",
+   "answer": "Esparta",
+   "decoys": [
+    "Atenas",
+    "Corinto",
+    "Tebas"
+   ]
+  },
+  {
+   "id": "hw54",
+   "topic": "historia",
+   "question": "¿Qué filósofo griego fue condenado a beber cicuta?",
+   "answer": "Sócrates",
+   "decoys": [
+    "Platón",
+    "Aristóteles",
+    "Diógenes"
+   ]
+  },
+  {
+   "id": "hw55",
+   "topic": "historia",
+   "question": "¿Qué joven francesa lideró al ejército en la Guerra de los Cien Años y murió en la hoguera?",
+   "answer": "Juana de Arco",
+   "decoys": [
+    "Leonor de Aquitania",
+    "Catalina de Siena",
+    "María Estuardo"
+   ]
+  },
+  {
+   "id": "hw56",
+   "topic": "historia",
+   "question": "¿Qué epidemia mató a un tercio de Europa a mediados del siglo XIV?",
+   "answer": "La peste negra",
+   "decoys": [
+    "La gripe española",
+    "La viruela",
+    "El cólera"
+   ]
+  }
+ ],
+ "estimates": [
+  {
+   "id": "hz1",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué año murió José de San Martín?",
+   "answer": 1850,
+   "tolerance": 40,
+   "format": "plain"
+  },
+  {
+   "id": "hz2",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué año murió Manuel Belgrano?",
+   "answer": 1820,
+   "tolerance": 40,
+   "format": "plain"
+  },
+  {
+   "id": "hz3",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué año se fundó la ciudad de Córdoba?",
+   "answer": 1573,
+   "tolerance": 80,
+   "format": "plain"
+  },
+  {
+   "id": "hz4",
+   "topic": "historia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuántos años duró la última dictadura militar argentina (1976-1983)?",
+   "answer": 7,
+   "unit": "años",
+   "tolerance": 5
+  },
+  {
+   "id": "hz5",
+   "topic": "historia",
+   "question": "¿En qué año empezó la construcción de la Gran Pirámide de Guiza, aproximadamente? (en años antes de Cristo)",
+   "answer": 2560,
+   "unit": "a. C.",
+   "tolerance": 1500,
+   "format": "plain"
+  },
+  {
+   "id": "hz6",
+   "topic": "historia",
+   "question": "¿Cuántos años duró la Segunda Guerra Mundial?",
+   "answer": 6,
+   "unit": "años",
+   "tolerance": 4
+  },
+  {
+   "id": "hz7",
+   "topic": "historia",
+   "question": "¿Cuántos años estuvo preso Nelson Mandela?",
+   "answer": 27,
+   "unit": "años",
+   "tolerance": 15
+  },
+  {
+   "id": "hz8",
+   "topic": "historia",
+   "question": "¿Cuántos pasajeros y tripulantes llevaba el Titanic, aproximadamente?",
+   "answer": 2224,
+   "unit": "personas",
+   "tolerance": 1500
+  },
+  {
+   "id": "hz9",
+   "topic": "historia",
+   "question": "¿Cuántos kilómetros mide la Gran Muralla china, contando todos sus tramos, aproximadamente?",
+   "answer": 21000,
+   "unit": "km",
+   "tolerance": 15000
+  },
+  {
+   "id": "hz10",
+   "topic": "historia",
+   "question": "¿En qué año se fundó Roma, según la tradición? (en años antes de Cristo)",
+   "answer": 753,
+   "unit": "a. C.",
+   "tolerance": 400,
+   "format": "plain"
+  },
+  {
+   "id": "hz11",
+   "topic": "historia",
+   "question": "¿Cuántos años duró el Imperio Romano de Occidente desde Augusto (27 a. C.) hasta su caída (476)?",
+   "answer": 502,
+   "unit": "años",
+   "tolerance": 300
+  }
+ ]
+}

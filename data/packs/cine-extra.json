@@ -1,0 +1,1266 @@
+{
+ "trivia": [
+  {
+   "id": "kq1",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Quién dirigió «Titanic» y «Avatar»?",
+   "answer": "James Cameron",
+   "decoys": [
+    "Steven Spielberg",
+    "Ridley Scott",
+    "Peter Jackson"
+   ]
+  },
+  {
+   "id": "kq2",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Quién dirigió la trilogía de «El señor de los anillos»?",
+   "answer": "Peter Jackson",
+   "decoys": [
+    "Guillermo del Toro",
+    "Sam Raimi",
+    "Christopher Nolan"
+   ]
+  },
+  {
+   "id": "kq3",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Quién dirigió «Psicosis», «Vértigo» y «Los pájaros»?",
+   "answer": "Alfred Hitchcock",
+   "decoys": [
+    "Stanley Kubrick",
+    "Orson Welles",
+    "Billy Wilder"
+   ]
+  },
+  {
+   "id": "kq4",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Quién dirigió «2001: odisea del espacio» y «La naranja mecánica»?",
+   "answer": "Stanley Kubrick",
+   "decoys": [
+    "Ridley Scott",
+    "George Lucas",
+    "Alfred Hitchcock"
+   ]
+  },
+  {
+   "id": "kq5",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Quién dirigió «Oppenheimer» e «Interestelar»?",
+   "answer": "Christopher Nolan",
+   "decoys": [
+    "Denis Villeneuve",
+    "David Fincher",
+    "Ridley Scott"
+   ]
+  },
+  {
+   "id": "kq6",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Quién dirigió «Taxi Driver» y «Buenos muchachos»?",
+   "answer": "Martin Scorsese",
+   "decoys": [
+    "Francis Ford Coppola",
+    "Brian De Palma",
+    "Sidney Lumet"
+   ]
+  },
+  {
+   "id": "kq7",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué director mexicano ganó el Oscar por «La forma del agua»?",
+   "answer": "Guillermo del Toro",
+   "decoys": [
+    "Alfonso Cuarón",
+    "Alejandro González Iñárritu",
+    "Carlos Reygadas"
+   ]
+  },
+  {
+   "id": "kq8",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué director mexicano hizo «Roma» y «Gravedad»?",
+   "answer": "Alfonso Cuarón",
+   "decoys": [
+    "Guillermo del Toro",
+    "Alejandro González Iñárritu",
+    "Luis Mandoki"
+   ]
+  },
+  {
+   "id": "kq9",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué director español hizo «Todo sobre mi madre» y «Volver»?",
+   "answer": "Pedro Almodóvar",
+   "decoys": [
+    "Alejandro Amenábar",
+    "Luis Buñuel",
+    "Fernando Trueba"
+   ]
+  },
+  {
+   "id": "kq10",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué director creó la saga «Star Wars»?",
+   "answer": "George Lucas",
+   "decoys": [
+    "Steven Spielberg",
+    "J. J. Abrams",
+    "James Cameron"
+   ]
+  },
+  {
+   "id": "kq11",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó a Forrest Gump?",
+   "answer": "Tom Hanks",
+   "decoys": [
+    "Kevin Costner",
+    "Robin Williams",
+    "Jim Carrey"
+   ]
+  },
+  {
+   "id": "kq12",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó a Jack en «Titanic»?",
+   "answer": "Leonardo DiCaprio",
+   "decoys": [
+    "Brad Pitt",
+    "Matt Damon",
+    "Johnny Depp"
+   ]
+  },
+  {
+   "id": "kq13",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Con qué película ganó Leonardo DiCaprio su primer Oscar?",
+   "answer": "El renacido",
+   "decoys": [
+    "El lobo de Wall Street",
+    "Titanic",
+    "El aviador"
+   ]
+  },
+  {
+   "id": "kq14",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó a Neo en «Matrix»?",
+   "answer": "Keanu Reeves",
+   "decoys": [
+    "Laurence Fishburne",
+    "Hugo Weaving",
+    "Tom Cruise"
+   ]
+  },
+  {
+   "id": "kq15",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó a Indiana Jones?",
+   "answer": "Harrison Ford",
+   "decoys": [
+    "Kevin Costner",
+    "Mel Gibson",
+    "Michael Douglas"
+   ]
+  },
+  {
+   "id": "kq16",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó al Guasón en «Batman: el caballero de la noche»?",
+   "answer": "Heath Ledger",
+   "decoys": [
+    "Joaquin Phoenix",
+    "Jared Leto",
+    "Jack Nicholson"
+   ]
+  },
+  {
+   "id": "kq17",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó al Guasón en el «Batman» de 1989?",
+   "answer": "Jack Nicholson",
+   "decoys": [
+    "Heath Ledger",
+    "Michael Keaton",
+    "Danny DeVito"
+   ]
+  },
+  {
+   "id": "kq18",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó a Hannibal Lecter en «El silencio de los inocentes»?",
+   "answer": "Anthony Hopkins",
+   "decoys": [
+    "Gene Hackman",
+    "Ralph Fiennes",
+    "Jeremy Irons"
+   ]
+  },
+  {
+   "id": "kq19",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actriz interpretó a Hermione en «Harry Potter»?",
+   "answer": "Emma Watson",
+   "decoys": [
+    "Emma Stone",
+    "Bonnie Wright",
+    "Keira Knightley"
+   ]
+  },
+  {
+   "id": "kq20",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actor interpretó a James Bond en «Casino Royale» (2006)?",
+   "answer": "Daniel Craig",
+   "decoys": [
+    "Pierce Brosnan",
+    "Sean Connery",
+    "Roger Moore"
+   ]
+  },
+  {
+   "id": "kq21",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuál es el número de agente de James Bond?",
+   "answer": "007",
+   "decoys": [
+    "009",
+    "001",
+    "006"
+   ]
+  },
+  {
+   "id": "kq22",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actriz tiene el récord de 4 Oscar a mejor actriz?",
+   "answer": "Katharine Hepburn",
+   "decoys": [
+    "Meryl Streep",
+    "Bette Davis",
+    "Ingrid Bergman"
+   ]
+  },
+  {
+   "id": "kq23",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué actriz tiene más nominaciones al Oscar de la historia?",
+   "answer": "Meryl Streep",
+   "decoys": [
+    "Katharine Hepburn",
+    "Cate Blanchett",
+    "Judi Dench"
+   ]
+  },
+  {
+   "id": "kq24",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué película fue la primera no hablada en inglés en ganar el Oscar a mejor película?",
+   "answer": "Parásitos",
+   "decoys": [
+    "Roma",
+    "El tigre y el dragón",
+    "La vida es bella"
+   ]
+  },
+  {
+   "id": "kq25",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué película ganó el Oscar a mejor película en 2024 (entrega de los premios a 2023)?",
+   "answer": "Oppenheimer",
+   "decoys": [
+    "Barbie",
+    "Pobres criaturas",
+    "Los asesinos de la luna"
+   ]
+  },
+  {
+   "id": "kq26",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué tres películas tienen el récord de 11 premios Oscar?",
+   "answer": "Ben-Hur, Titanic y El retorno del rey",
+   "decoys": [
+    "Titanic, Avatar y Gladiador",
+    "Ben-Hur, Lo que el viento se llevó y Titanic",
+    "El padrino, Titanic y Casablanca"
+   ]
+  },
+  {
+   "id": "kq27",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿En qué ciudad francesa se hace el festival de cine más famoso de Europa?",
+   "answer": "Cannes",
+   "decoys": [
+    "Niza",
+    "París",
+    "Deauville"
+   ]
+  },
+  {
+   "id": "kq28",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el premio mayor del Festival de Cannes?",
+   "answer": "Palma de Oro",
+   "decoys": [
+    "León de Oro",
+    "Oso de Oro",
+    "Concha de Oro"
+   ]
+  },
+  {
+   "id": "kq29",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué festival entrega el León de Oro?",
+   "answer": "Venecia",
+   "decoys": [
+    "Berlín",
+    "Cannes",
+    "San Sebastián"
+   ]
+  },
+  {
+   "id": "kq30",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué frase dice Darth Vader en «El imperio contraataca» que cambió todo?",
+   "answer": "«Yo soy tu padre»",
+   "decoys": [
+    "«Que la Fuerza te acompañe»",
+    "«Tengo un mal presentimiento»",
+    "«Únete al lado oscuro»"
+   ]
+  },
+  {
+   "id": "kq31",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el maestro Jedi verde y pequeño?",
+   "answer": "Yoda",
+   "decoys": [
+    "Obi-Wan Kenobi",
+    "Mace Windu",
+    "Chewbacca"
+   ]
+  },
+  {
+   "id": "kq32",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama la nave de Han Solo?",
+   "answer": "Halcón Milenario",
+   "decoys": [
+    "Estrella de la Muerte",
+    "Destructor Estelar",
+    "Ala-X"
+   ]
+  },
+  {
+   "id": "kq33",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué auto usa Doc Brown como máquina del tiempo en «Volver al futuro»?",
+   "answer": "DeLorean",
+   "decoys": [
+    "Mustang",
+    "Corvette",
+    "Camaro"
+   ]
+  },
+  {
+   "id": "kq34",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿A qué velocidad tiene que llegar el DeLorean para viajar en el tiempo?",
+   "answer": "88 millas por hora",
+   "decoys": [
+    "100 millas por hora",
+    "77 millas por hora",
+    "121 millas por hora"
+   ]
+  },
+  {
+   "id": "kq35",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el cowboy de «Toy Story»?",
+   "answer": "Woody",
+   "decoys": [
+    "Buzz",
+    "Jessie",
+    "Slinky"
+   ]
+  },
+  {
+   "id": "kq36",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué frase dice Buzz Lightyear?",
+   "answer": "«Al infinito y más allá»",
+   "decoys": [
+    "«Hay una serpiente en mi bota»",
+    "«Hasta la vista, baby»",
+    "«Volveré»"
+   ]
+  },
+  {
+   "id": "kq37",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el pez payaso que busca a su hijo en «Buscando a Nemo»?",
+   "answer": "Marlin",
+   "decoys": [
+    "Dory",
+    "Gill",
+    "Crush"
+   ]
+  },
+  {
+   "id": "kq38",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el león malvado de «El rey león»?",
+   "answer": "Scar",
+   "decoys": [
+    "Mufasa",
+    "Rafiki",
+    "Nala"
+   ]
+  },
+  {
+   "id": "kq39",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el muñeco de nieve de «Frozen»?",
+   "answer": "Olaf",
+   "decoys": [
+    "Sven",
+    "Kristoff",
+    "Hans"
+   ]
+  },
+  {
+   "id": "kq40",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el burro amigo de Shrek?",
+   "answer": "Burro",
+   "decoys": [
+    "Gato con Botas",
+    "Pinocho",
+    "Lord Farquaad"
+   ]
+  },
+  {
+   "id": "kq41",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué estudio japonés hizo «El viaje de Chihiro» y «Mi vecino Totoro»?",
+   "answer": "Studio Ghibli",
+   "decoys": [
+    "Toei Animation",
+    "Madhouse",
+    "Sunrise"
+   ]
+  },
+  {
+   "id": "kq42",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué ratón es el símbolo de Disney?",
+   "answer": "Mickey Mouse",
+   "decoys": [
+    "Jerry",
+    "Speedy González",
+    "Stuart Little"
+   ]
+  },
+  {
+   "id": "kq43",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿En qué película el tiburón es protagonista y se ve muy poco por fallas técnicas?",
+   "answer": "Tiburón",
+   "decoys": [
+    "Mar abierto",
+    "Deep Blue Sea",
+    "Megalodón"
+   ]
+  },
+  {
+   "id": "kq44",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué superhéroe es Tony Stark?",
+   "answer": "Iron Man",
+   "decoys": [
+    "Capitán América",
+    "Thor",
+    "Hulk"
+   ]
+  },
+  {
+   "id": "kq45",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuál es el planeta natal de Superman?",
+   "answer": "Krypton",
+   "decoys": [
+    "Asgard",
+    "Themyscira",
+    "Vulcano"
+   ]
+  },
+  {
+   "id": "kq46",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuál es la identidad secreta de Superman?",
+   "answer": "Clark Kent",
+   "decoys": [
+    "Bruce Wayne",
+    "Peter Parker",
+    "Barry Allen"
+   ]
+  },
+  {
+   "id": "kq47",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Qué villano de Marvel junta las Gemas del Infinito?",
+   "answer": "Thanos",
+   "decoys": [
+    "Loki",
+    "Ultrón",
+    "Galactus"
+   ]
+  },
+  {
+   "id": "kq48",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿En qué escuela estudia Harry Potter?",
+   "answer": "Hogwarts",
+   "decoys": [
+    "Beauxbatons",
+    "Durmstrang",
+    "Ilvermorny"
+   ]
+  },
+  {
+   "id": "kq49",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿A qué casa de Hogwarts pertenece Harry Potter?",
+   "answer": "Gryffindor",
+   "decoys": [
+    "Slytherin",
+    "Ravenclaw",
+    "Hufflepuff"
+   ]
+  },
+  {
+   "id": "kq50",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cómo se llama el villano principal de «Harry Potter»?",
+   "answer": "Lord Voldemort",
+   "decoys": [
+    "Severus Snape",
+    "Draco Malfoy",
+    "Sirius Black"
+   ]
+  },
+  {
+   "id": "ka1",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué película argentina ganó el primer Oscar del país, en 1986?",
+   "answer": "La historia oficial",
+   "decoys": [
+    "Camila",
+    "Esperando la carroza",
+    "La tregua"
+   ]
+  },
+  {
+   "id": "ka2",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién dirigió «El secreto de sus ojos»?",
+   "answer": "Juan José Campanella",
+   "decoys": [
+    "Damián Szifron",
+    "Pablo Trapero",
+    "Fabián Bielinsky"
+   ]
+  },
+  {
+   "id": "ka3",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién dirigió «Relatos salvajes»?",
+   "answer": "Damián Szifron",
+   "decoys": [
+    "Juan José Campanella",
+    "Gastón Duprat",
+    "Ariel Winograd"
+   ]
+  },
+  {
+   "id": "ka4",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién dirigió «Argentina, 1985»?",
+   "answer": "Santiago Mitre",
+   "decoys": [
+    "Pablo Trapero",
+    "Lucrecia Martel",
+    "Daniel Burman"
+   ]
+  },
+  {
+   "id": "ka5",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué directora salteña hizo «La ciénaga» y «Zama»?",
+   "answer": "Lucrecia Martel",
+   "decoys": [
+    "María Luisa Bemberg",
+    "Anahí Berneri",
+    "Lucía Puenzo"
+   ]
+  },
+  {
+   "id": "ka6",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué directora hizo «Camila» y «Yo, la peor de todas»?",
+   "answer": "María Luisa Bemberg",
+   "decoys": [
+    "Lucrecia Martel",
+    "Lita Stantic",
+    "Lucía Puenzo"
+   ]
+  },
+  {
+   "id": "ka7",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó al fiscal Strassera en «Argentina, 1985»?",
+   "answer": "Ricardo Darín",
+   "decoys": [
+    "Peter Lanzani",
+    "Guillermo Francella",
+    "Leonardo Sbaraglia"
+   ]
+  },
+  {
+   "id": "ka8",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó a Luis Moreno Ocampo en «Argentina, 1985»?",
+   "answer": "Peter Lanzani",
+   "decoys": [
+    "Joaquín Furriel",
+    "Nicolás Furtado",
+    "Juan Minujín"
+   ]
+  },
+  {
+   "id": "ka9",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó a Arquímedes Puccio en «El clan»?",
+   "answer": "Guillermo Francella",
+   "decoys": [
+    "Ricardo Darín",
+    "Luis Brandoni",
+    "Oscar Martínez"
+   ]
+  },
+  {
+   "id": "ka10",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor ganó la Copa Volpi en Venecia por «El ciudadano ilustre»?",
+   "answer": "Oscar Martínez",
+   "decoys": [
+    "Ricardo Darín",
+    "Dady Brieva",
+    "Luis Brandoni"
+   ]
+  },
+  {
+   "id": "ka12",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué dúo cómico protagonizó «Los colimbas se divierten» y «Rambito y Rambón»?",
+   "answer": "Alberto Olmedo y Jorge Porcel",
+   "decoys": [
+    "Emilio Disi y Francella",
+    "Les Luthiers",
+    "Los Midachi"
+   ]
+  },
+  {
+   "id": "ka13",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó a Mamá Cora en «Esperando la carroza»?",
+   "answer": "Antonio Gasalla",
+   "decoys": [
+    "China Zorrilla",
+    "Betiana Blum",
+    "Mirtha Legrand"
+   ]
+  },
+  {
+   "id": "ka15",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién dirigió «Esperando la carroza»?",
+   "answer": "Alejandro Doria",
+   "decoys": [
+    "Juan José Jusid",
+    "Adolfo Aristarain",
+    "Luis Puenzo"
+   ]
+  },
+  {
+   "id": "ka16",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién dirigió «La historia oficial»?",
+   "answer": "Luis Puenzo",
+   "decoys": [
+    "Héctor Olivera",
+    "María Luisa Bemberg",
+    "Alejandro Doria"
+   ]
+  },
+  {
+   "id": "ks1",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué alias usa Walter White en «Breaking Bad»?",
+   "answer": "Heisenberg",
+   "decoys": [
+    "Pinkman",
+    "Fring",
+    "Goodman"
+   ]
+  },
+  {
+   "id": "ks2",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el abogado de «Breaking Bad» que tuvo su propia serie?",
+   "answer": "Saul Goodman",
+   "decoys": [
+    "Gus Fring",
+    "Mike Ehrmantraut",
+    "Hank Schrader"
+   ]
+  },
+  {
+   "id": "ks3",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el continente donde transcurre «Game of Thrones»?",
+   "answer": "Poniente",
+   "decoys": [
+    "Essos",
+    "Mordor",
+    "Narnia"
+   ]
+  },
+  {
+   "id": "ks4",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué frase repite la familia Stark en «Game of Thrones»?",
+   "answer": "«Se acerca el invierno»",
+   "decoys": [
+    "«Oye mi rugido»",
+    "«Fuego y sangre»",
+    "«Nosotros no sembramos»"
+   ]
+  },
+  {
+   "id": "ks5",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el mundo paralelo de «Stranger Things»?",
+   "answer": "El Mundo del Revés",
+   "decoys": [
+    "La Zona Fantasma",
+    "El Otro Lado",
+    "El Abismo"
+   ]
+  },
+  {
+   "id": "ks6",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama la chica con poderes de «Stranger Things»?",
+   "answer": "Eleven",
+   "decoys": [
+    "Max",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  {
+   "id": "ks7",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿En qué ciudad transcurre «Friends»?",
+   "answer": "Nueva York",
+   "decoys": [
+    "Chicago",
+    "Los Ángeles",
+    "Boston"
+   ]
+  },
+  {
+   "id": "ks8",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama la empresa de papel de «The Office»?",
+   "answer": "Dunder Mifflin",
+   "decoys": [
+    "Sabre",
+    "Wernham Hogg",
+    "Staples"
+   ]
+  },
+  {
+   "id": "ks9",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el jefe de «The Office» (versión estadounidense)?",
+   "answer": "Michael Scott",
+   "decoys": [
+    "Dwight Schrute",
+    "Jim Halpert",
+    "David Brent"
+   ]
+  },
+  {
+   "id": "ks10",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué come Homero Simpson con locura?",
+   "answer": "Rosquillas",
+   "decoys": [
+    "Hamburguesas",
+    "Pizza",
+    "Panchos"
+   ]
+  },
+  {
+   "id": "ks11",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el bar donde toma Homero Simpson?",
+   "answer": "La taberna de Moe",
+   "decoys": [
+    "El Krusty Burger",
+    "El Kwik-E-Mart",
+    "El Central Perk"
+   ]
+  },
+  {
+   "id": "ks12",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el dueño millonario de la planta nuclear en «Los Simpson»?",
+   "answer": "Sr. Burns",
+   "decoys": [
+    "Smithers",
+    "Flanders",
+    "Lenny"
+   ]
+  },
+  {
+   "id": "ks13",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿En qué ciudad transcurre «La casa de papel» en sus primeras temporadas?",
+   "answer": "Madrid",
+   "decoys": [
+    "Barcelona",
+    "Sevilla",
+    "Valencia"
+   ]
+  },
+  {
+   "id": "ks14",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cómo se llama el cerebro del robo en «La casa de papel»?",
+   "answer": "El Profesor",
+   "decoys": [
+    "Berlín",
+    "Tokio",
+    "Río"
+   ]
+  },
+  {
+   "id": "ks15",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué canción italiana cantan en «La casa de papel»?",
+   "answer": "Bella ciao",
+   "decoys": [
+    "Volare",
+    "O sole mio",
+    "Felicità"
+   ]
+  },
+  {
+   "id": "ks16",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué canal produjo «Los Soprano», «The Wire» y «Game of Thrones»?",
+   "answer": "HBO",
+   "decoys": [
+    "AMC",
+    "Netflix",
+    "Showtime"
+   ]
+  },
+  {
+   "id": "ks17",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué canal produjo «Breaking Bad» y «Mad Men»?",
+   "answer": "AMC",
+   "decoys": [
+    "HBO",
+    "FX",
+    "Netflix"
+   ]
+  },
+  {
+   "id": "ks18",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué médico era famoso por su bastón y su mal carácter?",
+   "answer": "Dr. House",
+   "decoys": [
+    "Dr. Shepherd",
+    "Dr. Carter",
+    "Dr. Ross"
+   ]
+  },
+  {
+   "id": "ks19",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Qué serie médica transcurre en el hospital Grey Sloan Memorial?",
+   "answer": "Grey's Anatomy",
+   "decoys": [
+    "ER",
+    "Dr. House",
+    "The Good Doctor"
+   ]
+  },
+  {
+   "id": "ks20",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó a Mario Santos en «Los simuladores»?",
+   "answer": "Federico D'Elía",
+   "decoys": [
+    "Diego Peretti",
+    "Martín Seefeld",
+    "Alejandro Fiore"
+   ]
+  },
+  {
+   "id": "ks21",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó al Pollo en «Okupas»?",
+   "answer": "Rodrigo de la Serna",
+   "decoys": [
+    "Diego Alonso",
+    "Ariel Staltari",
+    "Franco Tirri"
+   ]
+  },
+  {
+   "id": "ks22",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llama el perro de los Argento en «Casados con hijos»?",
+   "answer": "Fatiga",
+   "decoys": [
+    "Mendieta",
+    "Firulais",
+    "Coco"
+   ]
+  },
+  {
+   "id": "ks23",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actriz interpretó a Moni Argento?",
+   "answer": "Florencia Peña",
+   "decoys": [
+    "Érica Rivas",
+    "Luisana Lopilato",
+    "Julieta Ortega"
+   ]
+  },
+  {
+   "id": "ks24",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué actor interpretó a Pastor en «El marginal»?",
+   "answer": "Juan Minujín",
+   "decoys": [
+    "Nicolás Furtado",
+    "Claudio Rissi",
+    "Gerardo Romano"
+   ]
+  },
+  {
+   "id": "ks25",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llama el personaje de Claudio Rissi en «El marginal», líder de los Borges?",
+   "answer": "Mario Borges",
+   "decoys": [
+    "Diosito",
+    "Pastor",
+    "Sergio Antín"
+   ]
+  },
+  {
+   "id": "ks26",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo le dicen al hermano menor de los Borges que interpreta Nicolás Furtado?",
+   "answer": "Diosito",
+   "decoys": [
+    "El Sapo",
+    "Pastor",
+    "Morcilla"
+   ]
+  },
+  {
+   "id": "ks27",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué programa humorístico de los 80 tenía a Alberto Olmedo como estrella?",
+   "answer": "No toca botón",
+   "decoys": [
+    "Las mil y una de Sapag",
+    "Matrimonios y algo más",
+    "Peor es nada"
+   ]
+  },
+  {
+   "id": "ks28",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llamaba el dictador de Costa Pobre que interpretaba Alberto Olmedo?",
+   "answer": "Rogelio Roldán",
+   "decoys": [
+    "Chiquito Reyes",
+    "El Manosanta",
+    "Rucucu"
+   ]
+  },
+  {
+   "id": "ks30",
+   "topic": "cine",
+   "subtopic": "series",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llamaba el ciclo de Marcelo Tinelli que empezó en 1990 y después se convirtió en «Showmatch»?",
+   "answer": "Videomatch",
+   "decoys": [
+    "Sábado Bus",
+    "Rompeportones",
+    "Indiscreciones"
+   ]
+  }
+ ],
+ "estimates": [
+  {
+   "id": "kz1",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuántos minutos dura «El padrino»?",
+   "answer": 175,
+   "unit": "minutos",
+   "tolerance": 80
+  },
+  {
+   "id": "kz2",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿En qué año se estrenó la primera película de «Toy Story», la primera animada hecha totalmente por computadora?",
+   "answer": 1995,
+   "tolerance": 15,
+   "format": "plain"
+  },
+  {
+   "id": "kz3",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuántas películas tiene la saga de «Harry Potter»?",
+   "answer": 8,
+   "unit": "películas",
+   "tolerance": 5
+  },
+  {
+   "id": "kz4",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cuántos episodios tiene «Breaking Bad»?",
+   "answer": 62,
+   "unit": "episodios",
+   "tolerance": 40
+  },
+  {
+   "id": "kz5",
+   "topic": "cine",
+   "subtopic": "series",
+   "question": "¿Cuántos episodios tiene «Game of Thrones»?",
+   "answer": 73,
+   "unit": "episodios",
+   "tolerance": 40
+  },
+  {
+   "id": "kz6",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuántos Oscar ganó «El señor de los anillos: el retorno del rey»?",
+   "answer": 11,
+   "unit": "Oscar",
+   "tolerance": 6
+  },
+  {
+   "id": "kz7",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿En qué año se estrenó «Star Wars», la primera?",
+   "answer": 1977,
+   "tolerance": 15,
+   "format": "plain"
+  },
+  {
+   "id": "kz8",
+   "topic": "cine",
+   "subtopic": "peliculas",
+   "question": "¿Cuántas películas oficiales de James Bond hizo Roger Moore?",
+   "answer": 7,
+   "unit": "películas",
+   "tolerance": 4
+  }
+ ]
+}

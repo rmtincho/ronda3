@@ -1,0 +1,36 @@
+{
+  "trivia": [
+    { "id": "ct1", "topic": "cine", "subtopic": "peliculas", "tags": ["argentina", "2010s"], "question": "¿Qué película argentina ganó el Oscar a mejor película extranjera en 2010?", "answer": "El secreto de sus ojos", "decoys": ["Relatos salvajes", "Nueve reinas", "Argentina, 1985"] },
+    { "id": "ct2", "topic": "cine", "subtopic": "peliculas", "tags": ["argentina"], "question": "¿Qué actor protagonizó «Nueve reinas», «El secreto de sus ojos» y «Relatos salvajes»?", "answer": "Ricardo Darín", "decoys": ["Guillermo Francella", "Federico Luppi", "Leonardo Sbaraglia"] },
+    { "id": "ct3", "topic": "cine", "subtopic": "peliculas", "tags": ["argentina"], "question": "¿Cuántos Oscar a mejor película extranjera ganó la Argentina?", "answer": "2", "decoys": ["1", "3", "4"] },
+    { "id": "ct4", "topic": "cine", "subtopic": "peliculas", "tags": ["90s"], "question": "¿Qué película ganó 11 Oscar en 1998, incluido el de mejor película?", "answer": "Titanic", "decoys": ["Forrest Gump", "Gladiador", "Shakespeare apasionado"] },
+    { "id": "ct5", "topic": "cine", "subtopic": "peliculas", "question": "¿Quién dirigió «Tiburón», «E.T.» y «Jurassic Park»?", "answer": "Steven Spielberg", "decoys": ["George Lucas", "James Cameron", "Ridley Scott"] },
+    { "id": "ct6", "topic": "cine", "subtopic": "peliculas", "question": "¿Quién dirigió «Pulp Fiction»?", "answer": "Quentin Tarantino", "decoys": ["Martin Scorsese", "Guy Ritchie", "David Fincher"] },
+    { "id": "ct7", "topic": "cine", "subtopic": "peliculas", "question": "¿Quién dirigió «El padrino»?", "answer": "Francis Ford Coppola", "decoys": ["Martin Scorsese", "Brian De Palma", "Sergio Leone"] },
+    { "id": "ct8", "topic": "cine", "subtopic": "peliculas", "question": "¿Qué actor interpretó al pirata Jack Sparrow?", "answer": "Johnny Depp", "decoys": ["Orlando Bloom", "Brad Pitt", "Keanu Reeves"] },
+    { "id": "ct9", "topic": "cine", "subtopic": "peliculas", "question": "¿Qué actor interpretó a Iron Man en las películas de Marvel?", "answer": "Robert Downey Jr.", "decoys": ["Chris Evans", "Chris Hemsworth", "Mark Ruffalo"] },
+    { "id": "ct10", "topic": "cine", "subtopic": "peliculas", "question": "¿Cuál es el nombre real de Spider-Man?", "answer": "Peter Parker", "decoys": ["Bruce Wayne", "Clark Kent", "Tony Stark"] },
+    { "id": "ct11", "topic": "cine", "subtopic": "peliculas", "question": "¿Cuál es el nombre real de Batman?", "answer": "Bruce Wayne", "decoys": ["Peter Parker", "Clark Kent", "Steve Rogers"] },
+    { "id": "ct12", "topic": "cine", "subtopic": "peliculas", "question": "¿Qué estudio de animación hizo «Toy Story»?", "answer": "Pixar", "decoys": ["DreamWorks", "Studio Ghibli", "Illumination"] },
+    { "id": "ct13", "topic": "cine", "subtopic": "peliculas", "question": "¿En qué película de Disney se canta «Hakuna Matata»?", "answer": "El rey león", "decoys": ["Aladdín", "Tarzán", "La sirenita"] },
+    { "id": "ct14", "topic": "cine", "subtopic": "series", "tags": ["argentina"], "question": "¿Qué actor interpretó a Pepe Argento en «Casados con hijos»?", "answer": "Guillermo Francella", "decoys": ["Luis Brandoni", "Diego Peretti", "Adrián Suar"] },
+    { "id": "ct15", "topic": "cine", "subtopic": "peliculas", "tags": ["argentina"], "question": "¿Qué festival de cine argentino es el único de «categoría A» en Latinoamérica?", "answer": "Festival de Mar del Plata", "decoys": ["BAFICI", "Festival de Cine de Rosario", "Festival de Cine Independiente de Córdoba"] },
+    { "id": "ct16", "topic": "cine", "subtopic": "peliculas", "tags": ["90s"], "question": "¿Qué actriz protagonizó «Mujer bonita»?", "answer": "Julia Roberts", "decoys": ["Meg Ryan", "Sandra Bullock", "Michelle Pfeiffer"] },
+    { "id": "ct17", "topic": "cine", "subtopic": "peliculas", "question": "¿Qué personaje dice «Hasta la vista, baby»?", "answer": "Terminator", "decoys": ["Rambo", "Rocky Balboa", "Robocop"] },
+    { "id": "ct18", "topic": "cine", "subtopic": "peliculas", "question": "¿Cómo se llama el hechicero que es director de Hogwarts?", "answer": "Albus Dumbledore", "decoys": ["Severus Snape", "Sirius Black", "Gandalf"] },
+    { "id": "ct19", "topic": "cine", "subtopic": "series", "question": "¿En qué ciudad transcurre «Breaking Bad»?", "answer": "Albuquerque", "decoys": ["Phoenix", "El Paso", "Las Vegas"] },
+    { "id": "ct20", "topic": "cine", "subtopic": "series", "question": "¿Cómo se llama el café donde se juntan los amigos de «Friends»?", "answer": "Central Perk", "decoys": ["Monk's Café", "MacLaren's", "Luke's Diner"] },
+    { "id": "ct21", "topic": "cine", "subtopic": "series", "question": "¿En qué ciudad viven Los Simpson?", "answer": "Springfield", "decoys": ["Shelbyville", "Quahog", "South Park"] },
+    { "id": "ct22", "topic": "cine", "subtopic": "series", "question": "¿Qué plataforma estrenó «Stranger Things»?", "answer": "Netflix", "decoys": ["HBO", "Amazon Prime Video", "Disney+"] },
+    { "id": "ct23", "topic": "cine", "subtopic": "series", "tags": ["argentina"], "question": "¿Qué productora creó «Floricienta», «Rebelde Way» y «Casi ángeles»?", "answer": "Cris Morena", "decoys": ["Adrián Suar", "Marcelo Tinelli", "Gustavo Yankelevich"] },
+    { "id": "ct24", "topic": "cine", "subtopic": "peliculas", "question": "¿Qué película de 1939 dice «Francamente, querida, me importa un bledo»?", "answer": "Lo que el viento se llevó", "decoys": ["Casablanca", "El mago de Oz", "Ciudadano Kane"] }
+  ],
+
+  "estimates": [
+    { "id": "cn1", "topic": "cine", "subtopic": "peliculas", "question": "¿Cuántas películas tiene la saga principal de Star Wars (la de los Skywalker)?", "answer": 9, "unit": "películas", "tolerance": 6 },
+    { "id": "cn2", "topic": "cine", "subtopic": "peliculas", "question": "¿Cuántos Oscar ganó «Titanic»?", "answer": 11, "unit": "Oscar", "tolerance": 7 },
+    { "id": "cn3", "topic": "cine", "subtopic": "series", "question": "¿Cuántos episodios tiene «Friends» en total?", "answer": 236, "unit": "episodios", "tolerance": 120 },
+    { "id": "cn4", "topic": "cine", "subtopic": "peliculas", "question": "¿En qué año se entregaron los primeros premios Oscar?", "answer": 1929, "tolerance": 40, "format": "plain" },
+    { "id": "cn5", "topic": "cine", "subtopic": "peliculas", "question": "¿Cuántas películas de James Bond hizo Sean Connery en la serie oficial?", "answer": 6, "unit": "películas", "tolerance": 4 }
+  ]
+}

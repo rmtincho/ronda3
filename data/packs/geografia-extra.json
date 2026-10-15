@@ -1,0 +1,1528 @@
+{
+ "trivia": [
+  {
+   "id": "gq1",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Uruguay?",
+   "answer": "Montevideo",
+   "decoys": [
+    "Punta del Este",
+    "Colonia del Sacramento",
+    "Salto"
+   ]
+  },
+  {
+   "id": "gq2",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Perú?",
+   "answer": "Lima",
+   "decoys": [
+    "Cusco",
+    "Arequipa",
+    "Trujillo"
+   ]
+  },
+  {
+   "id": "gq3",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Ecuador?",
+   "answer": "Quito",
+   "decoys": [
+    "Guayaquil",
+    "Cuenca",
+    "Manta"
+   ]
+  },
+  {
+   "id": "gq4",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Venezuela?",
+   "answer": "Caracas",
+   "decoys": [
+    "Maracaibo",
+    "Valencia",
+    "Barquisimeto"
+   ]
+  },
+  {
+   "id": "gq5",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Estados Unidos?",
+   "answer": "Washington D. C.",
+   "decoys": [
+    "Nueva York",
+    "Filadelfia",
+    "Boston"
+   ]
+  },
+  {
+   "id": "gq6",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Sudáfrica sede del Poder Ejecutivo?",
+   "answer": "Pretoria",
+   "decoys": [
+    "Johannesburgo",
+    "Ciudad del Cabo",
+    "Durban"
+   ]
+  },
+  {
+   "id": "gq7",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Egipto?",
+   "answer": "El Cairo",
+   "decoys": [
+    "Alejandría",
+    "Luxor",
+    "Guiza"
+   ]
+  },
+  {
+   "id": "gq8",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Nigeria?",
+   "answer": "Abuya",
+   "decoys": [
+    "Lagos",
+    "Kano",
+    "Ibadán"
+   ]
+  },
+  {
+   "id": "gq9",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Kenia?",
+   "answer": "Nairobi",
+   "decoys": [
+    "Mombasa",
+    "Adís Abeba",
+    "Kampala"
+   ]
+  },
+  {
+   "id": "gq10",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de India?",
+   "answer": "Nueva Delhi",
+   "decoys": [
+    "Bombay",
+    "Calcuta",
+    "Bangalore"
+   ]
+  },
+  {
+   "id": "gq11",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Pakistán?",
+   "answer": "Islamabad",
+   "decoys": [
+    "Karachi",
+    "Lahore",
+    "Peshawar"
+   ]
+  },
+  {
+   "id": "gq12",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Vietnam?",
+   "answer": "Hanói",
+   "decoys": [
+    "Ho Chi Minh",
+    "Da Nang",
+    "Hue"
+   ]
+  },
+  {
+   "id": "gq13",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Corea del Sur?",
+   "answer": "Seúl",
+   "decoys": [
+    "Busan",
+    "Pionyang",
+    "Incheon"
+   ]
+  },
+  {
+   "id": "gq14",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Tailandia?",
+   "answer": "Bangkok",
+   "decoys": [
+    "Phuket",
+    "Chiang Mai",
+    "Pattaya"
+   ]
+  },
+  {
+   "id": "gq15",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Irlanda?",
+   "answer": "Dublín",
+   "decoys": [
+    "Belfast",
+    "Cork",
+    "Galway"
+   ]
+  },
+  {
+   "id": "gq16",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Escocia?",
+   "answer": "Edimburgo",
+   "decoys": [
+    "Glasgow",
+    "Aberdeen",
+    "Inverness"
+   ]
+  },
+  {
+   "id": "gq17",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Países Bajos según su Constitución?",
+   "answer": "Ámsterdam",
+   "decoys": [
+    "La Haya",
+    "Róterdam",
+    "Utrecht"
+   ]
+  },
+  {
+   "id": "gq18",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Noruega?",
+   "answer": "Oslo",
+   "decoys": [
+    "Bergen",
+    "Estocolmo",
+    "Copenhague"
+   ]
+  },
+  {
+   "id": "gq19",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Finlandia?",
+   "answer": "Helsinki",
+   "decoys": [
+    "Tallin",
+    "Turku",
+    "Oslo"
+   ]
+  },
+  {
+   "id": "gq20",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Polonia?",
+   "answer": "Varsovia",
+   "decoys": [
+    "Cracovia",
+    "Gdansk",
+    "Breslavia"
+   ]
+  },
+  {
+   "id": "gq21",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Hungría?",
+   "answer": "Budapest",
+   "decoys": [
+    "Viena",
+    "Praga",
+    "Bucarest"
+   ]
+  },
+  {
+   "id": "gq22",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Rumania?",
+   "answer": "Bucarest",
+   "decoys": [
+    "Budapest",
+    "Sofía",
+    "Belgrado"
+   ]
+  },
+  {
+   "id": "gq23",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Ucrania?",
+   "answer": "Kiev",
+   "decoys": [
+    "Járkov",
+    "Odesa",
+    "Leópolis"
+   ]
+  },
+  {
+   "id": "gq24",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Grecia?",
+   "answer": "Atenas",
+   "decoys": [
+    "Tesalónica",
+    "Esparta",
+    "Patras"
+   ]
+  },
+  {
+   "id": "gq25",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Portugal?",
+   "answer": "Lisboa",
+   "decoys": [
+    "Oporto",
+    "Coímbra",
+    "Faro"
+   ]
+  },
+  {
+   "id": "gq26",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Cuba?",
+   "answer": "La Habana",
+   "decoys": [
+    "Santiago de Cuba",
+    "Varadero",
+    "Camagüey"
+   ]
+  },
+  {
+   "id": "gq27",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Honduras?",
+   "answer": "Tegucigalpa",
+   "decoys": [
+    "San Pedro Sula",
+    "Managua",
+    "San Salvador"
+   ]
+  },
+  {
+   "id": "gq28",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Costa Rica?",
+   "answer": "San José",
+   "decoys": [
+    "Limón",
+    "Cartago",
+    "Alajuela"
+   ]
+  },
+  {
+   "id": "gq29",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Jamaica?",
+   "answer": "Kingston",
+   "decoys": [
+    "Montego Bay",
+    "Nasáu",
+    "Puerto España"
+   ]
+  },
+  {
+   "id": "gq30",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Arabia Saudita?",
+   "answer": "Riad",
+   "decoys": [
+    "La Meca",
+    "Yeda",
+    "Medina"
+   ]
+  },
+  {
+   "id": "gq31",
+   "topic": "geografia",
+   "question": "¿Cuál es la capital de Irán?",
+   "answer": "Teherán",
+   "decoys": [
+    "Bagdad",
+    "Isfahán",
+    "Kabul"
+   ]
+  },
+  {
+   "id": "gp1",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Santiago del Estero?",
+   "answer": "Santiago del Estero",
+   "decoys": [
+    "La Banda",
+    "Termas de Río Hondo",
+    "Añatuya"
+   ]
+  },
+  {
+   "id": "gp2",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Santa Cruz?",
+   "answer": "Río Gallegos",
+   "decoys": [
+    "El Calafate",
+    "Caleta Olivia",
+    "Puerto Deseado"
+   ]
+  },
+  {
+   "id": "gp3",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Tierra del Fuego?",
+   "answer": "Ushuaia",
+   "decoys": [
+    "Río Grande",
+    "Tolhuin",
+    "Río Gallegos"
+   ]
+  },
+  {
+   "id": "gp4",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Neuquén?",
+   "answer": "Neuquén",
+   "decoys": [
+    "San Martín de los Andes",
+    "Zapala",
+    "Cutral Có"
+   ]
+  },
+  {
+   "id": "gp5",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Formosa?",
+   "answer": "Formosa",
+   "decoys": [
+    "Clorinda",
+    "Resistencia",
+    "Pirané"
+   ]
+  },
+  {
+   "id": "gp6",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital del Chaco?",
+   "answer": "Resistencia",
+   "decoys": [
+    "Presidencia Roque Sáenz Peña",
+    "Corrientes",
+    "Formosa"
+   ]
+  },
+  {
+   "id": "gp7",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Jujuy?",
+   "answer": "San Salvador de Jujuy",
+   "decoys": [
+    "Humahuaca",
+    "Tilcara",
+    "Palpalá"
+   ]
+  },
+  {
+   "id": "gp8",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de San Luis?",
+   "answer": "San Luis",
+   "decoys": [
+    "Villa Mercedes",
+    "Merlo",
+    "San Juan"
+   ]
+  },
+  {
+   "id": "gp9",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de la provincia de Buenos Aires?",
+   "answer": "La Plata",
+   "decoys": [
+    "Mar del Plata",
+    "Bahía Blanca",
+    "Ciudad de Buenos Aires"
+   ]
+  },
+  {
+   "id": "gp10",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es la capital de Corrientes?",
+   "answer": "Corrientes",
+   "decoys": [
+    "Goya",
+    "Paso de los Libres",
+    "Resistencia"
+   ]
+  },
+  {
+   "id": "gp11",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está la ciudad de Bariloche?",
+   "answer": "Río Negro",
+   "decoys": [
+    "Neuquén",
+    "Chubut",
+    "Mendoza"
+   ]
+  },
+  {
+   "id": "gp12",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está la Península Valdés?",
+   "answer": "Chubut",
+   "decoys": [
+    "Santa Cruz",
+    "Río Negro",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "id": "gp13",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia están los Esteros del Iberá?",
+   "answer": "Corrientes",
+   "decoys": [
+    "Misiones",
+    "Entre Ríos",
+    "Chaco"
+   ]
+  },
+  {
+   "id": "gp14",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está el cerro de los Siete Colores?",
+   "answer": "Jujuy",
+   "decoys": [
+    "Salta",
+    "Catamarca",
+    "La Rioja"
+   ]
+  },
+  {
+   "id": "gp15",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está el Tren a las Nubes?",
+   "answer": "Salta",
+   "decoys": [
+    "Jujuy",
+    "Tucumán",
+    "Catamarca"
+   ]
+  },
+  {
+   "id": "gp16",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está El Chaltén, la capital nacional del trekking?",
+   "answer": "Santa Cruz",
+   "decoys": [
+    "Chubut",
+    "Neuquén",
+    "Tierra del Fuego"
+   ]
+  },
+  {
+   "id": "gp17",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está Villa Carlos Paz?",
+   "answer": "Córdoba",
+   "decoys": [
+    "San Luis",
+    "Santiago del Estero",
+    "La Rioja"
+   ]
+  },
+  {
+   "id": "gp18",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia están las ruinas jesuíticas de San Ignacio Miní?",
+   "answer": "Misiones",
+   "decoys": [
+    "Corrientes",
+    "Córdoba",
+    "Entre Ríos"
+   ]
+  },
+  {
+   "id": "gp19",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia están las Termas de Río Hondo?",
+   "answer": "Santiago del Estero",
+   "decoys": [
+    "Tucumán",
+    "Entre Ríos",
+    "Salta"
+   ]
+  },
+  {
+   "id": "gp20",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está la Fiesta Nacional de la Vendimia?",
+   "answer": "Mendoza",
+   "decoys": [
+    "San Juan",
+    "La Rioja",
+    "Salta"
+   ]
+  },
+  {
+   "id": "gp21",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está la ciudad de Gualeguaychú, famosa por su carnaval?",
+   "answer": "Entre Ríos",
+   "decoys": [
+    "Corrientes",
+    "Santa Fe",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "id": "gp22",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia está el volcán Lanín?",
+   "answer": "Neuquén",
+   "decoys": [
+    "Mendoza",
+    "Río Negro",
+    "Chubut"
+   ]
+  },
+  {
+   "id": "gp23",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ciudad es conocida como «la Cuna de la Bandera»?",
+   "answer": "Rosario",
+   "decoys": [
+    "San Nicolás",
+    "Paraná",
+    "Santa Fe"
+   ]
+  },
+  {
+   "id": "gp24",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ciudad es conocida como «el Jardín de la República»?",
+   "answer": "San Miguel de Tucumán",
+   "decoys": [
+    "Salta",
+    "Mendoza",
+    "Corrientes"
+   ]
+  },
+  {
+   "id": "gp25",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ciudad es conocida como «la Linda»?",
+   "answer": "Salta",
+   "decoys": [
+    "Mendoza",
+    "Jujuy",
+    "Bariloche"
+   ]
+  },
+  {
+   "id": "gp26",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ciudad se presenta como «la ciudad más austral del mundo»?",
+   "answer": "Ushuaia",
+   "decoys": [
+    "Río Grande",
+    "Río Gallegos",
+    "Puerto Williams"
+   ]
+  },
+  {
+   "id": "gp27",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué río nace de la unión del Paraná y el Uruguay?",
+   "answer": "Río de la Plata",
+   "decoys": [
+    "Río Paraguay",
+    "Río Salado",
+    "Río Iguazú"
+   ]
+  },
+  {
+   "id": "gp28",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué río marca el límite entre Neuquén y Río Negro y se une al río Neuquén para formar el río Negro?",
+   "answer": "Limay",
+   "decoys": [
+    "Colorado",
+    "Chubut",
+    "Chimehuín"
+   ]
+  },
+  {
+   "id": "gp29",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué región argentina ocupa el sur del país, al sur del río Colorado?",
+   "answer": "Patagonia",
+   "decoys": [
+    "Cuyo",
+    "Pampa",
+    "Litoral"
+   ]
+  },
+  {
+   "id": "gp30",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué provincias forman la región de Cuyo?",
+   "answer": "Mendoza, San Juan y San Luis",
+   "decoys": [
+    "Mendoza, Neuquén y La Rioja",
+    "San Juan, La Rioja y Catamarca",
+    "Córdoba, San Luis y Mendoza"
+   ]
+  },
+  {
+   "id": "gp31",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es el lago más grande de la Argentina?",
+   "answer": "Lago Argentino",
+   "decoys": [
+    "Lago Nahuel Huapi",
+    "Lago Viedma",
+    "Lago Buenos Aires"
+   ]
+  },
+  {
+   "id": "gp32",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué país limita con Argentina solo por el río Uruguay y el Río de la Plata?",
+   "answer": "Uruguay",
+   "decoys": [
+    "Paraguay",
+    "Brasil",
+    "Bolivia"
+   ]
+  },
+  {
+   "id": "gp33",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué país tiene la frontera más larga con Argentina?",
+   "answer": "Chile",
+   "decoys": [
+    "Bolivia",
+    "Paraguay",
+    "Brasil"
+   ]
+  },
+  {
+   "id": "gp34",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cómo se llama el punto donde se juntan Argentina, Brasil y Paraguay?",
+   "answer": "Triple Frontera",
+   "decoys": [
+    "Paso de los Libres",
+    "Cabo Vírgenes",
+    "Punta Rasa"
+   ]
+  },
+  {
+   "id": "gp35",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué canal une el Atlántico con el Pacífico al sur de Tierra del Fuego, frente a Ushuaia?",
+   "answer": "Canal de Beagle",
+   "decoys": [
+    "Estrecho de Magallanes",
+    "Pasaje de Drake",
+    "Estrecho de Le Maire"
+   ]
+  },
+  {
+   "id": "gw1",
+   "topic": "geografia",
+   "question": "¿Cuál es el río más largo de Europa?",
+   "answer": "Volga",
+   "decoys": [
+    "Danubio",
+    "Rin",
+    "Dniéper"
+   ]
+  },
+  {
+   "id": "gw2",
+   "topic": "geografia",
+   "question": "¿Qué río pasa por París?",
+   "answer": "Sena",
+   "decoys": [
+    "Loira",
+    "Ródano",
+    "Garona"
+   ]
+  },
+  {
+   "id": "gw3",
+   "topic": "geografia",
+   "question": "¿Qué río atraviesa Viena, Budapest y Belgrado?",
+   "answer": "Danubio",
+   "decoys": [
+    "Rin",
+    "Elba",
+    "Vístula"
+   ]
+  },
+  {
+   "id": "gw4",
+   "topic": "geografia",
+   "question": "¿Qué río pasa por Roma?",
+   "answer": "Tíber",
+   "decoys": [
+    "Po",
+    "Arno",
+    "Adigio"
+   ]
+  },
+  {
+   "id": "gw5",
+   "topic": "geografia",
+   "question": "¿Cuál es el desierto cálido más grande del mundo?",
+   "answer": "Sahara",
+   "decoys": [
+    "Gobi",
+    "Kalahari",
+    "Arábigo"
+   ]
+  },
+  {
+   "id": "gw6",
+   "topic": "geografia",
+   "question": "¿Cuál es el continente más grande?",
+   "answer": "Asia",
+   "decoys": [
+    "África",
+    "América",
+    "Antártida"
+   ]
+  },
+  {
+   "id": "gw7",
+   "topic": "geografia",
+   "question": "¿Cuál es el país más grande de Sudamérica?",
+   "answer": "Brasil",
+   "decoys": [
+    "Argentina",
+    "Perú",
+    "Colombia"
+   ]
+  },
+  {
+   "id": "gw8",
+   "topic": "geografia",
+   "question": "¿Cuál es el país más grande de África?",
+   "answer": "Argelia",
+   "decoys": [
+    "República Democrática del Congo",
+    "Sudán",
+    "Libia"
+   ]
+  },
+  {
+   "id": "gw9",
+   "topic": "geografia",
+   "question": "¿Cuál es la isla más grande del mundo?",
+   "answer": "Groenlandia",
+   "decoys": [
+    "Nueva Guinea",
+    "Borneo",
+    "Madagascar"
+   ]
+  },
+  {
+   "id": "gw10",
+   "topic": "geografia",
+   "question": "¿A qué país pertenece Groenlandia?",
+   "answer": "Dinamarca",
+   "decoys": [
+    "Noruega",
+    "Canadá",
+    "Islandia"
+   ]
+  },
+  {
+   "id": "gw11",
+   "topic": "geografia",
+   "question": "¿Qué país tiene más islas en el mundo?",
+   "answer": "Suecia",
+   "decoys": [
+    "Indonesia",
+    "Filipinas",
+    "Japón"
+   ]
+  },
+  {
+   "id": "gw12",
+   "topic": "geografia",
+   "question": "¿Cuál es el lago más grande de África?",
+   "answer": "Lago Victoria",
+   "decoys": [
+    "Lago Tanganica",
+    "Lago Chad",
+    "Lago Malaui"
+   ]
+  },
+  {
+   "id": "gw13",
+   "topic": "geografia",
+   "question": "¿Cuál es el lago más profundo del mundo?",
+   "answer": "Baikal",
+   "decoys": [
+    "Tanganica",
+    "Superior",
+    "Titicaca"
+   ]
+  },
+  {
+   "id": "gw14",
+   "topic": "geografia",
+   "question": "¿Qué mar es tan salado que se flota sin esfuerzo?",
+   "answer": "Mar Muerto",
+   "decoys": [
+    "Mar Rojo",
+    "Mar Caspio",
+    "Mar Negro"
+   ]
+  },
+  {
+   "id": "gw15",
+   "topic": "geografia",
+   "question": "¿Qué estrecho separa España de Marruecos?",
+   "answer": "Estrecho de Gibraltar",
+   "decoys": [
+    "Estrecho del Bósforo",
+    "Estrecho de Mesina",
+    "Canal de la Mancha"
+   ]
+  },
+  {
+   "id": "gw16",
+   "topic": "geografia",
+   "question": "¿Qué estrecho atraviesa Estambul, entre Europa y Asia?",
+   "answer": "Bósforo",
+   "decoys": [
+    "Dardanelos",
+    "Gibraltar",
+    "Ormuz"
+   ]
+  },
+  {
+   "id": "gw17",
+   "topic": "geografia",
+   "question": "¿Qué canal une el mar Mediterráneo con el mar Rojo?",
+   "answer": "Canal de Suez",
+   "decoys": [
+    "Canal de Panamá",
+    "Canal de Corinto",
+    "Canal de Kiel"
+   ]
+  },
+  {
+   "id": "gw18",
+   "topic": "geografia",
+   "question": "¿En qué país está el monte Kilimanjaro?",
+   "answer": "Tanzania",
+   "decoys": [
+    "Kenia",
+    "Uganda",
+    "Etiopía"
+   ]
+  },
+  {
+   "id": "gw19",
+   "topic": "geografia",
+   "question": "¿En qué cordillera está el Everest?",
+   "answer": "Himalaya",
+   "decoys": [
+    "Karakórum",
+    "Alpes",
+    "Hindu Kush"
+   ]
+  },
+  {
+   "id": "gw20",
+   "topic": "geografia",
+   "question": "¿Cuál es la montaña más alta de Europa occidental, en los Alpes?",
+   "answer": "Mont Blanc",
+   "decoys": [
+    "Matterhorn",
+    "Monte Rosa",
+    "Eiger"
+   ]
+  },
+  {
+   "id": "gw21",
+   "topic": "geografia",
+   "question": "¿En qué país están las ruinas de Angkor Wat?",
+   "answer": "Camboya",
+   "decoys": [
+    "Tailandia",
+    "Vietnam",
+    "Laos"
+   ]
+  },
+  {
+   "id": "gw22",
+   "topic": "geografia",
+   "question": "¿En qué país está el Taj Mahal?",
+   "answer": "India",
+   "decoys": [
+    "Pakistán",
+    "Irán",
+    "Bangladés"
+   ]
+  },
+  {
+   "id": "gw23",
+   "topic": "geografia",
+   "question": "¿En qué ciudad está el Coliseo?",
+   "answer": "Roma",
+   "decoys": [
+    "Atenas",
+    "Nápoles",
+    "Florencia"
+   ]
+  },
+  {
+   "id": "gw24",
+   "topic": "geografia",
+   "question": "¿En qué ciudad está la Torre de Pisa?",
+   "answer": "Pisa",
+   "decoys": [
+    "Florencia",
+    "Siena",
+    "Bolonia"
+   ]
+  },
+  {
+   "id": "gw25",
+   "topic": "geografia",
+   "question": "¿En qué ciudad está la Estatua de la Libertad?",
+   "answer": "Nueva York",
+   "decoys": [
+    "Boston",
+    "Washington D. C.",
+    "Filadelfia"
+   ]
+  },
+  {
+   "id": "gw26",
+   "topic": "geografia",
+   "question": "¿En qué ciudad está el Cristo Redentor del Corcovado?",
+   "answer": "Río de Janeiro",
+   "decoys": [
+    "San Pablo",
+    "Salvador de Bahía",
+    "Brasilia"
+   ]
+  },
+  {
+   "id": "gw27",
+   "topic": "geografia",
+   "question": "¿En qué país está la isla de Pascua, con sus moáis?",
+   "answer": "Chile",
+   "decoys": [
+    "Perú",
+    "Ecuador",
+    "Nueva Zelanda"
+   ]
+  },
+  {
+   "id": "gw28",
+   "topic": "geografia",
+   "question": "¿A qué país pertenecen las islas Galápagos?",
+   "answer": "Ecuador",
+   "decoys": [
+    "Colombia",
+    "Perú",
+    "Chile"
+   ]
+  },
+  {
+   "id": "gw29",
+   "topic": "geografia",
+   "question": "¿En qué país está el salar más grande del mundo, el de Uyuni?",
+   "answer": "Bolivia",
+   "decoys": [
+    "Chile",
+    "Argentina",
+    "Perú"
+   ]
+  },
+  {
+   "id": "gw30",
+   "topic": "geografia",
+   "question": "¿Qué país sudamericano no tiene salida al mar, además de Bolivia?",
+   "answer": "Paraguay",
+   "decoys": [
+    "Uruguay",
+    "Ecuador",
+    "Surinam"
+   ]
+  },
+  {
+   "id": "gw31",
+   "topic": "geografia",
+   "question": "¿Qué país de Sudamérica habla neerlandés como idioma oficial?",
+   "answer": "Surinam",
+   "decoys": [
+    "Guyana",
+    "Guayana Francesa",
+    "Belice"
+   ]
+  },
+  {
+   "id": "gw32",
+   "topic": "geografia",
+   "question": "¿Cuál es la moneda de Brasil?",
+   "answer": "Real",
+   "decoys": [
+    "Cruzeiro",
+    "Peso",
+    "Sol"
+   ]
+  },
+  {
+   "id": "gw33",
+   "topic": "geografia",
+   "question": "¿Cuál es la moneda del Reino Unido?",
+   "answer": "Libra esterlina",
+   "decoys": [
+    "Euro",
+    "Dólar",
+    "Corona"
+   ]
+  },
+  {
+   "id": "gw34",
+   "topic": "geografia",
+   "question": "¿Cuál es la moneda de Perú?",
+   "answer": "Sol",
+   "decoys": [
+    "Peso",
+    "Inti",
+    "Boliviano"
+   ]
+  },
+  {
+   "id": "gw35",
+   "topic": "geografia",
+   "question": "¿Cuál es la moneda de Suiza?",
+   "answer": "Franco suizo",
+   "decoys": [
+    "Euro",
+    "Corona suiza",
+    "Marco"
+   ]
+  },
+  {
+   "id": "gw36",
+   "topic": "geografia",
+   "question": "¿Qué idioma se habla oficialmente en Angola y Mozambique?",
+   "answer": "Portugués",
+   "decoys": [
+    "Francés",
+    "Inglés",
+    "Español"
+   ]
+  },
+  {
+   "id": "gw37",
+   "topic": "geografia",
+   "question": "¿Cuántos idiomas oficiales tiene Suiza?",
+   "answer": "4",
+   "decoys": [
+    "3",
+    "2",
+    "5"
+   ]
+  },
+  {
+   "id": "gw38",
+   "topic": "geografia",
+   "question": "¿Qué país africano tiene el español como idioma oficial?",
+   "answer": "Guinea Ecuatorial",
+   "decoys": [
+    "Marruecos",
+    "Senegal",
+    "Angola"
+   ]
+  },
+  {
+   "id": "gw39",
+   "topic": "geografia",
+   "question": "¿Qué ciudad está dividida entre dos continentes?",
+   "answer": "Estambul",
+   "decoys": [
+    "El Cairo",
+    "Moscú",
+    "Atenas"
+   ]
+  },
+  {
+   "id": "gw40",
+   "topic": "geografia",
+   "question": "¿Qué país tiene más husos horarios, contando sus territorios de ultramar?",
+   "answer": "Francia",
+   "decoys": [
+    "Rusia",
+    "Estados Unidos",
+    "China"
+   ]
+  },
+  {
+   "id": "gw41",
+   "topic": "geografia",
+   "question": "¿Cuál es el país más poblado de África?",
+   "answer": "Nigeria",
+   "decoys": [
+    "Egipto",
+    "Etiopía",
+    "Sudáfrica"
+   ]
+  },
+  {
+   "id": "gw42",
+   "topic": "geografia",
+   "question": "¿Cuál es el país más poblado de Sudamérica?",
+   "answer": "Brasil",
+   "decoys": [
+    "Colombia",
+    "Argentina",
+    "Perú"
+   ]
+  },
+  {
+   "id": "gw43",
+   "topic": "geografia",
+   "question": "¿Qué línea imaginaria divide la Tierra en hemisferio norte y sur?",
+   "answer": "Ecuador",
+   "decoys": [
+    "Meridiano de Greenwich",
+    "Trópico de Cáncer",
+    "Trópico de Capricornio"
+   ]
+  },
+  {
+   "id": "gw44",
+   "topic": "geografia",
+   "question": "¿Qué trópico atraviesa el norte argentino?",
+   "answer": "Trópico de Capricornio",
+   "decoys": [
+    "Trópico de Cáncer",
+    "Ecuador",
+    "Círculo Polar Antártico"
+   ]
+  },
+  {
+   "id": "gw45",
+   "topic": "geografia",
+   "question": "¿Qué ciudad británica da nombre al meridiano cero?",
+   "answer": "Greenwich",
+   "decoys": [
+    "Oxford",
+    "Cambridge",
+    "Liverpool"
+   ]
+  },
+  {
+   "id": "gw46",
+   "topic": "geografia",
+   "question": "¿Cuál es el océano más chico?",
+   "answer": "Ártico",
+   "decoys": [
+    "Índico",
+    "Antártico",
+    "Atlántico"
+   ]
+  },
+  {
+   "id": "gw47",
+   "topic": "geografia",
+   "question": "¿Cuál es la catarata más alta del mundo?",
+   "answer": "Salto Ángel",
+   "decoys": [
+    "Cataratas del Niágara",
+    "Cataratas Victoria",
+    "Cataratas del Iguazú"
+   ]
+  },
+  {
+   "id": "gw48",
+   "topic": "geografia",
+   "question": "¿Entre qué dos países están las cataratas del Niágara?",
+   "answer": "Estados Unidos y Canadá",
+   "decoys": [
+    "Estados Unidos y México",
+    "Canadá y Groenlandia",
+    "Brasil y Argentina"
+   ]
+  },
+  {
+   "id": "gw49",
+   "topic": "geografia",
+   "question": "¿Qué país tiene forma alargada y más de 4.000 km de costa sobre el Pacífico sudamericano?",
+   "answer": "Chile",
+   "decoys": [
+    "Perú",
+    "Ecuador",
+    "Colombia"
+   ]
+  },
+  {
+   "id": "gw50",
+   "topic": "geografia",
+   "question": "¿En qué continente está Australia?",
+   "answer": "Oceanía",
+   "decoys": [
+    "Asia",
+    "África",
+    "Antártida"
+   ]
+  },
+  {
+   "id": "gw51",
+   "topic": "geografia",
+   "question": "¿En qué país está la ciudad de Marrakech?",
+   "answer": "Marruecos",
+   "decoys": [
+    "Argelia",
+    "Túnez",
+    "Egipto"
+   ]
+  },
+  {
+   "id": "gw52",
+   "topic": "geografia",
+   "question": "¿En qué país está la ciudad de Cartagena de Indias?",
+   "answer": "Colombia",
+   "decoys": [
+    "Venezuela",
+    "Panamá",
+    "España"
+   ]
+  },
+  {
+   "id": "gw53",
+   "topic": "geografia",
+   "question": "¿En qué país está Punta Cana?",
+   "answer": "República Dominicana",
+   "decoys": [
+    "Cuba",
+    "Puerto Rico",
+    "México"
+   ]
+  },
+  {
+   "id": "gw54",
+   "topic": "geografia",
+   "question": "¿En qué país está Cancún?",
+   "answer": "México",
+   "decoys": [
+    "Cuba",
+    "República Dominicana",
+    "Belice"
+   ]
+  },
+  {
+   "id": "gw55",
+   "topic": "geografia",
+   "question": "¿En qué país está Florianópolis?",
+   "answer": "Brasil",
+   "decoys": [
+    "Uruguay",
+    "Paraguay",
+    "Portugal"
+   ]
+  }
+ ],
+ "estimates": [
+  {
+   "id": "gz1",
+   "topic": "geografia",
+   "question": "¿Cuántos kilómetros mide el río Nilo, aproximadamente?",
+   "answer": 6650,
+   "unit": "km",
+   "tolerance": 3000
+  },
+  {
+   "id": "gz2",
+   "topic": "geografia",
+   "question": "¿Cuántos países tiene la Unión Europea?",
+   "answer": 27,
+   "unit": "países",
+   "tolerance": 12
+  },
+  {
+   "id": "gz3",
+   "topic": "geografia",
+   "question": "¿Cuántos estados tiene Estados Unidos?",
+   "answer": 50,
+   "unit": "estados",
+   "tolerance": 20
+  },
+  {
+   "id": "gz4",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuántos kilómetros de costa marítima tiene la Argentina continental, aproximadamente?",
+   "answer": 4725,
+   "unit": "km",
+   "tolerance": 3000
+  },
+  {
+   "id": "gz5",
+   "topic": "geografia",
+   "question": "¿Cuántos metros sobre el nivel del mar está La Paz, Bolivia, aproximadamente?",
+   "answer": 3640,
+   "unit": "metros",
+   "tolerance": 2000
+  },
+  {
+   "id": "gz6",
+   "topic": "geografia",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuántos metros mide el glaciar Perito Moreno de alto sobre el agua, aproximadamente?",
+   "answer": 60,
+   "unit": "metros",
+   "tolerance": 40
+  },
+  {
+   "id": "gz7",
+   "topic": "geografia",
+   "question": "¿Cuántos kilómetros mide la circunferencia de la Tierra en el ecuador?",
+   "answer": 40075,
+   "unit": "km",
+   "tolerance": 20000
+  },
+  {
+   "id": "gz8",
+   "topic": "geografia",
+   "question": "¿Qué porcentaje de la superficie de la Tierra está cubierta por agua, aproximadamente?",
+   "answer": 71,
+   "unit": "%",
+   "tolerance": 25
+  },
+  {
+   "id": "gz9",
+   "topic": "geografia",
+   "question": "¿Cuántos metros de profundidad tiene la fosa de las Marianas, aproximadamente?",
+   "answer": 10994,
+   "unit": "metros",
+   "tolerance": 6000
+  },
+  {
+   "id": "gz10",
+   "topic": "geografia",
+   "question": "¿Cuántos países hay en Europa, aproximadamente?",
+   "answer": 44,
+   "unit": "países",
+   "tolerance": 20
+  }
+ ]
+}

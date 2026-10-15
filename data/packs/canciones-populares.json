@@ -1,0 +1,443 @@
+{
+ "songs": [
+  {
+   "id": "tg1",
+   "genre": "tango",
+   "answer": "Caminito",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1926,
+   "decade": "20s",
+   "hint": "Juan de Dios Filiberto le puso música; hoy es el nombre de la calle más fotografiada de La Boca.",
+   "continue": {
+    "previousLine": "Caminito que el tiempo ha borrado",
+    "line": "que juntos un día nos viste pasar",
+    "decoys": [
+     "donde tantas veces te vi llorar",
+     "que en la tarde me viste llorar",
+     "por donde nunca vuelvo a pasar"
+    ]
+   }
+  },
+  {
+   "id": "tg2",
+   "genre": "tango",
+   "answer": "Mi noche triste",
+   "aliases": [
+    "Lita"
+   ],
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1917,
+   "decade": "10s",
+   "hint": "Gardel, 1917: considerado el primer tango-canción. Un hombre abandonado le habla a su «percanta».",
+   "continue": {
+    "previousLine": "Percanta que me amuraste",
+    "line": "en lo mejor de mi vida",
+    "decoys": [
+     "una noche de invierno",
+     "sin decirme ni adiós",
+     "por un bacán de Palermo"
+    ]
+   }
+  },
+  {
+   "id": "tg3",
+   "genre": "tango",
+   "answer": "Silencio",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1932,
+   "decade": "30s",
+   "hint": "Gardel, 1932: una madre que perdió a sus cinco hijos en la Primera Guerra Mundial. Suena un clarín."
+  },
+  {
+   "id": "tg4",
+   "genre": "tango",
+   "answer": "Melodía de arrabal",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1932,
+   "decade": "30s",
+   "hint": "Gardel, 1932: «Barrio plateado por la luna», el homenaje al suburbio porteño de una película suya."
+  },
+  {
+   "id": "tg5",
+   "genre": "tango",
+   "answer": "Golondrinas",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1934,
+   "decade": "30s",
+   "hint": "Gardel y Le Pera, 1934: los pájaros migrantes como metáfora del que se va lejos de su tierra."
+  },
+  {
+   "id": "tg6",
+   "genre": "tango",
+   "answer": "Cuesta abajo",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1934,
+   "decade": "30s",
+   "hint": "Gardel y Le Pera, 1934: «Si arrastré por este mundo la vergüenza de haber sido…»"
+  },
+  {
+   "id": "tg7",
+   "genre": "tango",
+   "answer": "Lejana tierra mía",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1935,
+   "decade": "30s",
+   "hint": "Gardel, 1935: un emigrado sueña con volver a su tierra querida."
+  },
+  {
+   "id": "tg8",
+   "genre": "tango",
+   "answer": "Volvió una noche",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1935,
+   "decade": "30s",
+   "hint": "Gardel y Le Pera, 1935: la mujer que lo dejó regresa una noche… y ya no es la misma."
+  },
+  {
+   "id": "tg9",
+   "genre": "tango",
+   "answer": "Sus ojos se cerraron",
+   "artist": "Carlos Gardel",
+   "artistAliases": [
+    "Gardel"
+   ],
+   "year": 1935,
+   "decade": "30s",
+   "hint": "Gardel, 1935: la muerte de una mujer amada, en una de sus últimas películas."
+  },
+  {
+   "id": "tg10",
+   "genre": "tango",
+   "answer": "Verano porteño",
+   "artist": "Astor Piazzolla",
+   "artistAliases": [
+    "Piazzolla"
+   ],
+   "year": 1965,
+   "decade": "60s",
+   "hint": "Piazzolla, 1965: la primera de sus «Cuatro estaciones porteñas», con calor de Buenos Aires."
+  },
+  {
+   "id": "tg11",
+   "genre": "tango",
+   "answer": "Invierno porteño",
+   "artist": "Astor Piazzolla",
+   "artistAliases": [
+    "Piazzolla"
+   ],
+   "year": 1970,
+   "decade": "70s",
+   "hint": "Piazzolla, 1970: otra de sus «Cuatro estaciones porteñas», la más fría y melancólica."
+  },
+  {
+   "id": "tg12",
+   "genre": "tango",
+   "answer": "Oblivion",
+   "artist": "Astor Piazzolla",
+   "artistAliases": [
+    "Piazzolla"
+   ],
+   "decade": "80s",
+   "hint": "Piazzolla, años 80: una pieza lenta y triste compuesta para una película de Marco Bellocchio. Título en inglés: olvido."
+  },
+  {
+   "id": "tg13",
+   "genre": "tango",
+   "answer": "Chiquilín de Bachín",
+   "artist": "Astor Piazzolla",
+   "artistAliases": [
+    "Piazzolla",
+    "Horacio Ferrer"
+   ],
+   "year": 1968,
+   "decade": "60s",
+   "hint": "Piazzolla y Horacio Ferrer, 1968: un nene que vende rosas entre las mesas de un restaurante porteño."
+  },
+  {
+   "id": "tg14",
+   "genre": "tango",
+   "answer": "Balada para mi muerte",
+   "artist": "Astor Piazzolla",
+   "artistAliases": [
+    "Piazzolla",
+    "Horacio Ferrer"
+   ],
+   "year": 1968,
+   "decade": "60s",
+   "hint": "Piazzolla y Horacio Ferrer, 1968: «Moriré en Buenos Aires, será de madrugada»."
+  },
+  {
+   "id": "tg15",
+   "genre": "tango",
+   "answer": "Santa María (del Buen Ayre)",
+   "aliases": [
+    "Santa María",
+    "Santa Maria del Buen Ayre"
+   ],
+   "artist": "Gotan Project",
+   "year": 2001,
+   "decade": "2000s",
+   "hint": "Gotan Project, 2001: tango electrónico de un trío de París y Buenos Aires; el título es el viejo nombre de la ciudad."
+  },
+  {
+   "id": "tg16",
+   "genre": "tango",
+   "answer": "Pa' bailar",
+   "aliases": [
+    "Pa bailar"
+   ],
+   "artist": "Bajofondo",
+   "artistAliases": [
+    "Bajofondo Tango Club",
+    "Gustavo Santaolalla"
+   ],
+   "year": 2007,
+   "decade": "2000s",
+   "hint": "Bajofondo, de Gustavo Santaolalla, 2007: tango electrónico con violín, ideal para la pista."
+  },
+  {
+   "id": "fk1",
+   "genre": "folklore",
+   "answer": "Como la cigarra",
+   "artist": "Mercedes Sosa",
+   "artistAliases": [
+    "La Negra",
+    "María Elena Walsh"
+   ],
+   "hint": "Escrita por María Elena Walsh y cantada por Mercedes Sosa: alguien que sobrevive y vuelve a cantar.",
+   "continue": {
+    "previousLine": "Tantas veces me mataron",
+    "line": "tantas veces me morí",
+    "decoys": [
+     "tantas veces me caí",
+     "tantas veces me perdí",
+     "tantas veces me escondí"
+    ]
+   }
+  },
+  {
+   "id": "fk2",
+   "genre": "folklore",
+   "answer": "Canción con todos",
+   "artist": "Mercedes Sosa",
+   "artistAliases": [
+    "La Negra",
+    "César Isella"
+   ],
+   "hint": "Tejada Gómez e Isella: considerado el himno de América Latina, «salgo a caminar por la cintura cósmica del sur»."
+  },
+  {
+   "id": "fk3",
+   "genre": "folklore",
+   "answer": "Duerme negrito",
+   "artist": "Mercedes Sosa",
+   "artistAliases": [
+    "La Negra",
+    "Atahualpa Yupanqui"
+   ],
+   "hint": "Una canción de cuna del Caribe colombo-venezolano que recopiló Atahualpa: la mamá está trabajando en el campo."
+  },
+  {
+   "id": "fk4",
+   "genre": "folklore",
+   "answer": "Piedra y camino",
+   "artist": "Atahualpa Yupanqui",
+   "artistAliases": [
+    "Atahualpa",
+    "Don Ata"
+   ],
+   "hint": "Atahualpa Yupanqui: «Del cerro vengo bajando, camino y piedra»…"
+  },
+  {
+   "id": "fk5",
+   "genre": "folklore",
+   "answer": "Kilómetro 11",
+   "aliases": [
+    "Km 11"
+   ],
+   "artist": "Tránsito Cocomarola",
+   "artistAliases": [
+    "Cocomarola"
+   ],
+   "decade": "40s",
+   "hint": "El chamamé más famoso de todos, de Tránsito Cocomarola: el nombre de un paraje del ferrocarril."
+  },
+  {
+   "id": "fk6",
+   "genre": "folklore",
+   "answer": "El cosechero",
+   "artist": "Ramón Ayala",
+   "artistAliases": [
+    "El Mensú"
+   ],
+   "hint": "Ramón Ayala: un trabajador del algodón en el Chaco, con ritmo de litoral."
+  },
+  {
+   "id": "fk7",
+   "genre": "folklore",
+   "answer": "Añoranzas",
+   "artist": "Los Manseros Santiagueños",
+   "artistAliases": [
+    "Manseros Santiagueños"
+   ],
+   "hint": "Una chacarera de Julio Argentino Jerez: el que se fue extraña su Santiago del Estero."
+  },
+  {
+   "id": "fk8",
+   "genre": "folklore",
+   "answer": "Sin principio ni final",
+   "artist": "Abel Pintos",
+   "hint": "Abel Pintos: una canción de amor que no se sabe dónde empieza ni dónde termina."
+  },
+  {
+   "id": "cb1",
+   "genre": "cumbia_cuarteto",
+   "answer": "Corazón valiente",
+   "artist": "Gilda",
+   "decade": "90s",
+   "hint": "Gilda, 1995: el tema que da nombre a su disco más recordado, pura cumbia romántica."
+  },
+  {
+   "id": "cb2",
+   "genre": "cumbia_cuarteto",
+   "answer": "Paisaje",
+   "artist": "Gilda",
+   "hint": "Gilda versionó a cumbia un tema del italiano Franco Simone: un horizonte que se mira de lejos."
+  },
+  {
+   "id": "cb3",
+   "genre": "cumbia_cuarteto",
+   "answer": "Ocho cuarenta",
+   "aliases": [
+    "8:40"
+   ],
+   "artist": "Rodrigo",
+   "artistAliases": [
+    "El Potro",
+    "Potro Rodrigo",
+    "Rodrigo Bueno"
+   ],
+   "decade": "90s",
+   "hint": "El Potro Rodrigo: un cuartetazo con una hora exacta en el título."
+  },
+  {
+   "id": "cb5",
+   "genre": "cumbia_cuarteto",
+   "answer": "La suavecita",
+   "artist": "Los Palmeras",
+   "artistAliases": [
+    "Palmeras"
+   ],
+   "hint": "Los Palmeras, de Santa Fe: una cumbia dedicada a una chica muy tranquila."
+  },
+  {
+   "id": "cb6",
+   "genre": "cumbia_cuarteto",
+   "answer": "Me vas a extrañar",
+   "artist": "Damas Gratis",
+   "artistAliases": [
+    "Pablo Lescano"
+   ],
+   "hint": "Damas Gratis, de Pablo Lescano: un despechado que asegura que ella lo va a añorar."
+  },
+  {
+   "id": "cb7",
+   "genre": "cumbia_cuarteto",
+   "answer": "Llegamos los Pibes Chorros",
+   "artist": "Pibes Chorros",
+   "artistAliases": [
+    "Los Pibes Chorros"
+   ],
+   "hint": "Cumbia villera de principios de los 2000: la banda se presenta con su propio nombre."
+  },
+  {
+   "id": "cb8",
+   "genre": "cumbia_cuarteto",
+   "answer": "Nunca me faltes",
+   "artist": "Antonio Ríos",
+   "artistAliases": [
+    "Antonio Rios"
+   ],
+   "hint": "Antonio Ríos: el clásico romántico de la cumbia argentina, un pedido de que ella siempre esté."
+  },
+  {
+   "id": "cb9",
+   "genre": "cumbia_cuarteto",
+   "answer": "Yo me enamoré",
+   "artist": "Amar Azul",
+   "hint": "Amar Azul: cumbia de los 90 sobre alguien que perdió la cabeza por amor."
+  },
+  {
+   "id": "cb10",
+   "genre": "cumbia_cuarteto",
+   "answer": "Mentirosa",
+   "artist": "Ráfaga",
+   "artistAliases": [
+    "Rafaga"
+   ],
+   "hint": "Ráfaga: cumbia que acusa a una chica de engañar."
+  },
+  {
+   "id": "cb11",
+   "genre": "cumbia_cuarteto",
+   "answer": "Tu misterioso alguien",
+   "artist": "Agapornis",
+   "hint": "Agapornis llevó a la cumbia un tema de Miranda!: alguien secreto del que nadie sabe nada."
+  },
+  {
+   "id": "cb12",
+   "genre": "cumbia_cuarteto",
+   "answer": "Cariñito",
+   "artist": "Los Hijos del Sol",
+   "hint": "Una cumbia peruana de Los Hijos del Sol, de ritmo chicha, que se baila en todas las fiestas."
+  },
+  {
+   "id": "cb13",
+   "genre": "cumbia_cuarteto",
+   "answer": "L-Gante: Bzrp Music Sessions, Vol. 38",
+   "aliases": [
+    "Bzrp Music Sessions 38",
+    "Session 38"
+   ],
+   "artist": "Bizarrap y L-Gante",
+   "artistAliases": [
+    "Bizarrap",
+    "L-Gante"
+   ],
+   "year": 2021,
+   "decade": "2020s",
+   "hint": "Bizarrap, 2021: la sesión con el pibe de General Rodríguez, la cumbia 420 llega a todos lados."
+  },
+  {
+   "id": "cb14",
+   "genre": "cumbia_cuarteto",
+   "answer": "Por lo que yo te quiero",
+   "artist": "Walter Olmos",
+   "hint": "Walter Olmos, cuarteto cordobés: un joven cantante que murió en 2002 dejando este hit romántico."
+  }
+ ]
+}

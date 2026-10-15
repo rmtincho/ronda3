@@ -1,0 +1,2202 @@
+{
+ "trivia": [
+  {
+   "id": "mr1",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué disco de Charly García de 1983 incluye «Los dinosaurios» y «Nos siguen pegando abajo»?",
+   "answer": "Clics modernos",
+   "decoys": [
+    "Piano bar",
+    "Yendo de la cama al living",
+    "Parte de la religión"
+   ]
+  },
+  {
+   "id": "mr2",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué disco de Charly García de 1984 incluye «Demoliendo hoteles»?",
+   "answer": "Piano bar",
+   "decoys": [
+    "Clics modernos",
+    "Tango",
+    "Cómo conseguir chicas"
+   ]
+  },
+  {
+   "id": "mr3",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Cómo se llamaba el disco debut de Soda Stereo, de 1984?",
+   "answer": "Soda Stereo",
+   "decoys": [
+    "Nada personal",
+    "Signos",
+    "Ruido blanco"
+   ]
+  },
+  {
+   "id": "mr4",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Quién era el baterista de Soda Stereo?",
+   "answer": "Charly Alberti",
+   "decoys": [
+    "Zeta Bosio",
+    "Fabián Von Quintiero",
+    "Oscar Moro"
+   ]
+  },
+  {
+   "id": "mr5",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Quién era el bajista de Soda Stereo?",
+   "answer": "Zeta Bosio",
+   "decoys": [
+    "Charly Alberti",
+    "Pedro Aznar",
+    "Daniel Melero"
+   ]
+  },
+  {
+   "id": "mr6",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Cómo se llama el disco en vivo de Soda Stereo grabado en 1987 durante su gira latinoamericana?",
+   "answer": "Ruido blanco",
+   "decoys": [
+    "El último concierto",
+    "Comfort y música para volar",
+    "Doble vida"
+   ]
+  },
+  {
+   "id": "mr7",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿Cómo se llama el Unplugged de Soda Stereo para MTV, editado en 1996?",
+   "answer": "Comfort y música para volar",
+   "decoys": [
+    "Ruido blanco",
+    "Sueño Stereo",
+    "Me verás volver"
+   ]
+  },
+  {
+   "id": "mr8",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "2000s"
+   ],
+   "question": "¿Cómo se llamó la gira de regreso de Soda Stereo en 2007?",
+   "answer": "Me verás volver",
+   "decoys": [
+    "Gracias totales",
+    "El último concierto",
+    "Sueño Stereo"
+   ]
+  },
+  {
+   "id": "mr9",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿De qué país era Luca Prodan, el cantante de Sumo?",
+   "answer": "Italia",
+   "decoys": [
+    "Inglaterra",
+    "Escocia",
+    "Irlanda"
+   ]
+  },
+  {
+   "id": "mr10",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué dos bandas surgieron de los ex Sumo tras la muerte de Luca Prodan?",
+   "answer": "Divididos y Las Pelotas",
+   "decoys": [
+    "La Renga y Divididos",
+    "Las Pelotas y Los Piojos",
+    "Divididos y Los Redondos"
+   ]
+  },
+  {
+   "id": "mr11",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿En qué ciudad nació Virus, la banda de los hermanos Moura?",
+   "answer": "La Plata",
+   "decoys": [
+    "Rosario",
+    "Córdoba",
+    "Mar del Plata"
+   ]
+  },
+  {
+   "id": "mr12",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Quién era el guitarrista de Patricio Rey y sus Redonditos de Ricota?",
+   "answer": "Skay Beilinson",
+   "decoys": [
+    "Pappo",
+    "Ricardo Mollo",
+    "Gustavo Cerati"
+   ]
+  },
+  {
+   "id": "mr13",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Cómo se llama el disco de Los Redondos de 1986, con tapa de Rocambole?",
+   "answer": "Oktubre",
+   "decoys": [
+    "Gulp!",
+    "Un baión para el ojo idiota",
+    "Lobo suelto"
+   ]
+  },
+  {
+   "id": "mr14",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué artista diseñaba las tapas de los discos de Los Redondos?",
+   "answer": "Rocambole",
+   "decoys": [
+    "Quino",
+    "Juan Gatti",
+    "Alfredo Genovese"
+   ]
+  },
+  {
+   "id": "mr15",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Quién era el cantante de Los Abuelos de la Nada?",
+   "answer": "Miguel Abuelo",
+   "decoys": [
+    "Andrés Calamaro",
+    "Cachorro López",
+    "Gustavo Bazterrica"
+   ]
+  },
+  {
+   "id": "mr16",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué trío formaron Pablo Guyot, Willy Iturri y Alfredo Toth, músicos de la banda de Charly García?",
+   "answer": "GIT",
+   "decoys": [
+    "ZAS",
+    "Los Twist",
+    "Virus"
+   ]
+  },
+  {
+   "id": "mr17",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿En qué año salió el disco «Ciudad de pobres corazones», de Fito Páez?",
+   "answer": "1987",
+   "decoys": [
+    "1985",
+    "1989",
+    "1992"
+   ]
+  },
+  {
+   "id": "mr18",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿En qué banda tocaba Fito Páez los teclados a principios de los 80, antes de ser solista?",
+   "answer": "La banda de Charly García",
+   "decoys": [
+    "Los Abuelos de la Nada",
+    "Virus",
+    "Soda Stereo"
+   ]
+  },
+  {
+   "id": "mr20",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Con quién grabó Fito Páez el disco doble «La la la» (1986)?",
+   "answer": "Luis Alberto Spinetta",
+   "decoys": [
+    "Charly García",
+    "León Gieco",
+    "Gustavo Cerati"
+   ]
+  },
+  {
+   "id": "mr21",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué banda de rock nacional de los 80 lideraba Miguel Mateos?",
+   "answer": "ZAS",
+   "decoys": [
+    "GIT",
+    "Los Twist",
+    "Soda Stereo"
+   ]
+  },
+  {
+   "id": "mr22",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué cantante de Los Twist hizo después humor en la tele?",
+   "answer": "Pipo Cipolatti",
+   "decoys": [
+    "Miguel Abuelo",
+    "Fabiana Cantilo",
+    "Luca Prodan"
+   ]
+  },
+  {
+   "id": "mr23",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué cantante, ex Los Twist, grabó «Mi enfermedad», un tema de Calamaro?",
+   "answer": "Fabiana Cantilo",
+   "decoys": [
+    "Celeste Carballo",
+    "Patricia Sosa",
+    "Hilda Lizarazu"
+   ]
+  },
+  {
+   "id": "mr24",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿En qué año se hizo el «Festival de la Solidaridad Latinoamericana», el gran recital de rock durante la guerra de Malvinas?",
+   "answer": "1982",
+   "decoys": [
+    "1983",
+    "1980",
+    "1985"
+   ]
+  },
+  {
+   "id": "mr25",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Cómo se llamó el recital de despedida de Sui Generis en el Luna Park, en 1975?",
+   "answer": "Adiós Sui Generis",
+   "decoys": [
+    "Gracias totales",
+    "El último concierto",
+    "Hasta siempre"
+   ]
+  },
+  {
+   "id": "mr26",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Qué banda formó Spinetta después de Almendra, con «Artaud» como disco cumbre?",
+   "answer": "Pescado Rabioso",
+   "decoys": [
+    "Invisible",
+    "Spinetta Jade",
+    "Color Humano"
+   ]
+  },
+  {
+   "id": "mr27",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Qué grupo formaron Charly García, Gieco, Raúl Porchetto y Nito Mestre en 1976?",
+   "answer": "PorSuiGieco",
+   "decoys": [
+    "Serú Girán",
+    "La Máquina de Hacer Pájaros",
+    "Pastoral"
+   ]
+  },
+  {
+   "id": "mr28",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Qué banda progresiva formó Charly García entre Sui Generis y Serú Girán?",
+   "answer": "La Máquina de Hacer Pájaros",
+   "decoys": [
+    "Invisible",
+    "Aquelarre",
+    "Espíritu"
+   ]
+  },
+  {
+   "id": "mr29",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "70s"
+   ],
+   "question": "¿Qué guitarrista era conocido como «el Carpo»?",
+   "answer": "Pappo",
+   "decoys": [
+    "Skay Beilinson",
+    "David Lebón",
+    "Edelmiro Molinari"
+   ]
+  },
+  {
+   "id": "mr30",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "60s"
+   ],
+   "question": "¿Quién era el cantante de Los Gatos, la banda de «La balsa»?",
+   "answer": "Litto Nebbia",
+   "decoys": [
+    "Moris",
+    "Javier Martínez",
+    "Tanguito"
+   ]
+  },
+  {
+   "id": "mr31",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "60s"
+   ],
+   "question": "¿Con quién compuso Litto Nebbia «La balsa», en el baño de La Perla del Once?",
+   "answer": "Tanguito",
+   "decoys": [
+    "Moris",
+    "Pipo Lernoud",
+    "Javier Martínez"
+   ]
+  },
+  {
+   "id": "mr32",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿De qué barrio porteño es La Renga?",
+   "answer": "Mataderos",
+   "decoys": [
+    "Liniers",
+    "El Palomar",
+    "Floresta"
+   ]
+  },
+  {
+   "id": "mr33",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿De qué zona son Los Piojos?",
+   "answer": "El Palomar",
+   "decoys": [
+    "Mataderos",
+    "Hurlingham",
+    "Quilmes"
+   ]
+  },
+  {
+   "id": "mr34",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "2000s"
+   ],
+   "question": "¿Qué banda de rock nacional lidera Adrián Dárgelos?",
+   "answer": "Babasónicos",
+   "decoys": [
+    "Los Brujos",
+    "Peligrosos Gorriones",
+    "Massacre"
+   ]
+  },
+  {
+   "id": "mr35",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿Quién es el guitarrista y líder de Rata Blanca?",
+   "answer": "Walter Giardino",
+   "decoys": [
+    "Adrián Barilari",
+    "Ricardo Iorio",
+    "Pappo"
+   ]
+  },
+  {
+   "id": "mr36",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿Qué banda pionera del heavy metal argentino lideraba Ricardo Iorio?",
+   "answer": "V8",
+   "decoys": [
+    "Rata Blanca",
+    "Riff",
+    "Los Violadores"
+   ]
+  },
+  {
+   "id": "mr37",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "2000s"
+   ],
+   "question": "¿Cómo se llama el último disco de estudio de Gustavo Cerati, de 2009?",
+   "answer": "Fuerza natural",
+   "decoys": [
+    "Ahí vamos",
+    "Siempre es hoy",
+    "Bocanada"
+   ]
+  },
+  {
+   "id": "mr38",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "90s"
+   ],
+   "question": "¿Qué banda formó Andrés Calamaro en España, la de «Sin documentos»?",
+   "answer": "Los Rodríguez",
+   "decoys": [
+    "Los Abuelos de la Nada",
+    "Hombres G",
+    "Los Secretos"
+   ]
+  },
+  {
+   "id": "mr39",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "2000s"
+   ],
+   "question": "¿Cómo se llama el disco quíntuple que editó Andrés Calamaro en 2000?",
+   "answer": "El salmón",
+   "decoys": [
+    "Honestidad brutal",
+    "Alta suciedad",
+    "Bohemio"
+   ]
+  },
+  {
+   "id": "mi1",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué guitarrista grabó el solo de «Beat It», de Michael Jackson?",
+   "answer": "Eddie Van Halen",
+   "decoys": [
+    "Slash",
+    "Steve Vai",
+    "Brian May"
+   ]
+  },
+  {
+   "id": "mi2",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Cómo se llama el disco de U2 de 1987 que incluye «With or Without You»?",
+   "answer": "The Joshua Tree",
+   "decoys": [
+    "Achtung Baby",
+    "War",
+    "The Unforgettable Fire"
+   ]
+  },
+  {
+   "id": "mi3",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Cómo se llama el disco de Bon Jovi de 1986 que incluye «Livin' on a Prayer»?",
+   "answer": "Slippery When Wet",
+   "decoys": [
+    "New Jersey",
+    "Keep the Faith",
+    "7800° Fahrenheit"
+   ]
+  },
+  {
+   "id": "mi4",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Cómo se llama el disco de Dire Straits de 1985 con una guitarra resonadora en la tapa?",
+   "answer": "Brothers in Arms",
+   "decoys": [
+    "Love over Gold",
+    "Making Movies",
+    "On Every Street"
+   ]
+  },
+  {
+   "id": "mi5",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Quién es el cantante de The Cure?",
+   "answer": "Robert Smith",
+   "decoys": [
+    "Morrissey",
+    "Ian Curtis",
+    "Dave Gahan"
+   ]
+  },
+  {
+   "id": "mi6",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué cantante lideraba The Smiths?",
+   "answer": "Morrissey",
+   "decoys": [
+    "Robert Smith",
+    "Ian McCulloch",
+    "Bono"
+   ]
+  },
+  {
+   "id": "mi7",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué banda formaron los ex Joy Division después de la muerte de Ian Curtis?",
+   "answer": "New Order",
+   "decoys": [
+    "The Cure",
+    "Depeche Mode",
+    "Echo & the Bunnymen"
+   ]
+  },
+  {
+   "id": "mi8",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Quién es el cantante de Depeche Mode?",
+   "answer": "Dave Gahan",
+   "decoys": [
+    "Martin Gore",
+    "Andy Fletcher",
+    "Robert Smith"
+   ]
+  },
+  {
+   "id": "mi9",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Quién era la cantante de Eurythmics?",
+   "answer": "Annie Lennox",
+   "decoys": [
+    "Debbie Harry",
+    "Kim Wilde",
+    "Siouxsie Sioux"
+   ]
+  },
+  {
+   "id": "mi10",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Quién era la cantante de Blondie?",
+   "answer": "Debbie Harry",
+   "decoys": [
+    "Annie Lennox",
+    "Pat Benatar",
+    "Joan Jett"
+   ]
+  },
+  {
+   "id": "mi11",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Quién es el cantante de The Police?",
+   "answer": "Sting",
+   "decoys": [
+    "Andy Summers",
+    "Stewart Copeland",
+    "Mark Knopfler"
+   ]
+  },
+  {
+   "id": "mi12",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Quién es el cantante de Guns N' Roses?",
+   "answer": "Axl Rose",
+   "decoys": [
+    "Slash",
+    "Duff McKagan",
+    "Sebastian Bach"
+   ]
+  },
+  {
+   "id": "mi13",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué guitarrista de Guns N' Roses toca siempre con galera?",
+   "answer": "Slash",
+   "decoys": [
+    "Izzy Stradlin",
+    "Axl Rose",
+    "Duff McKagan"
+   ]
+  },
+  {
+   "id": "mi14",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿De qué país es la banda Europe, la de «The Final Countdown»?",
+   "answer": "Suecia",
+   "decoys": [
+    "Alemania",
+    "Noruega",
+    "Países Bajos"
+   ]
+  },
+  {
+   "id": "mi15",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿De qué país es la banda a-ha, la de «Take On Me»?",
+   "answer": "Noruega",
+   "decoys": [
+    "Suecia",
+    "Dinamarca",
+    "Finlandia"
+   ]
+  },
+  {
+   "id": "mi16",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿De qué país es la banda Scorpions?",
+   "answer": "Alemania",
+   "decoys": [
+    "Suecia",
+    "Austria",
+    "Países Bajos"
+   ]
+  },
+  {
+   "id": "mi17",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué baterista de Def Leppard siguió tocando después de perder un brazo?",
+   "answer": "Rick Allen",
+   "decoys": [
+    "Lars Ulrich",
+    "Tommy Lee",
+    "Phil Collins"
+   ]
+  },
+  {
+   "id": "mi18",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Cómo se llama el disco de Metallica de 1986 considerado una obra maestra del thrash?",
+   "answer": "Master of Puppets",
+   "decoys": [
+    "Ride the Lightning",
+    "...And Justice for All",
+    "Kill 'Em All"
+   ]
+  },
+  {
+   "id": "mi19",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿En qué dos ciudades se hizo el festival Live Aid, en 1985?",
+   "answer": "Londres y Filadelfia",
+   "decoys": [
+    "Londres y Nueva York",
+    "Dublín y Los Ángeles",
+    "París y Chicago"
+   ]
+  },
+  {
+   "id": "mi20",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué músico irlandés organizó Live Aid junto a Midge Ure?",
+   "answer": "Bob Geldof",
+   "decoys": [
+    "Bono",
+    "Sting",
+    "Phil Collins"
+   ]
+  },
+  {
+   "id": "mi21",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué músico tocó en Live Aid en Londres y Filadelfia el mismo día, cruzando el Atlántico en el Concorde?",
+   "answer": "Phil Collins",
+   "decoys": [
+    "Sting",
+    "Elton John",
+    "David Bowie"
+   ]
+  },
+  {
+   "id": "mi22",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué canción benéfica grabaron en 1985 Michael Jackson, Lionel Richie y decenas de estrellas?",
+   "answer": "We Are the World",
+   "decoys": [
+    "Do They Know It's Christmas?",
+    "Heal the World",
+    "Imagine"
+   ]
+  },
+  {
+   "id": "mi23",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué canal de televisión musical salió al aire en 1981 con el video de «Video Killed the Radio Star»?",
+   "answer": "MTV",
+   "decoys": [
+    "VH1",
+    "MuchMusic",
+    "Telefe"
+   ]
+  },
+  {
+   "id": "mi25",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué artista de los 80 se hizo famoso con «Purple Rain» y un símbolo impronunciable?",
+   "answer": "Prince",
+   "decoys": [
+    "Michael Jackson",
+    "Lenny Kravitz",
+    "George Michael"
+   ]
+  },
+  {
+   "id": "mi26",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿En qué año murió Freddie Mercury?",
+   "answer": "1991",
+   "decoys": [
+    "1989",
+    "1993",
+    "1987"
+   ]
+  },
+  {
+   "id": "mi27",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿En qué año fue asesinado John Lennon en Nueva York?",
+   "answer": "1980",
+   "decoys": [
+    "1979",
+    "1982",
+    "1985"
+   ]
+  },
+  {
+   "id": "mi28",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿En qué año se separaron oficialmente los Beatles?",
+   "answer": "1970",
+   "decoys": [
+    "1969",
+    "1971",
+    "1968"
+   ]
+  },
+  {
+   "id": "mi29",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Sobre qué edificio dieron los Beatles su último concierto, en 1969?",
+   "answer": "La terraza de Apple, en Londres",
+   "decoys": [
+    "El Shea Stadium",
+    "El Cavern Club",
+    "El Royal Albert Hall"
+   ]
+  },
+  {
+   "id": "mi30",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Cómo se llama el estudio de Londres que le dio nombre a un disco de los Beatles?",
+   "answer": "Abbey Road",
+   "decoys": [
+    "Olympic",
+    "Air Studios",
+    "Trident"
+   ]
+  },
+  {
+   "id": "mi31",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "60s"
+   ],
+   "question": "¿Quién fue el baterista de los Beatles en su etapa más famosa?",
+   "answer": "Ringo Starr",
+   "decoys": [
+    "Pete Best",
+    "Charlie Watts",
+    "Keith Moon"
+   ]
+  },
+  {
+   "id": "mi32",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "question": "¿Quién es el guitarrista de los Rolling Stones famoso por sus riffs y su vida desenfrenada?",
+   "answer": "Keith Richards",
+   "decoys": [
+    "Ron Wood",
+    "Mick Taylor",
+    "Brian Jones"
+   ]
+  },
+  {
+   "id": "mi33",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué banda grabó el disco «Led Zeppelin IV», con «Stairway to Heaven»?",
+   "answer": "Led Zeppelin",
+   "decoys": [
+    "Deep Purple",
+    "Black Sabbath",
+    "The Who"
+   ]
+  },
+  {
+   "id": "mi34",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué banda grabó la ópera rock «Tommy», sobre un chico sordo, mudo y ciego?",
+   "answer": "The Who",
+   "decoys": [
+    "Pink Floyd",
+    "Genesis",
+    "The Kinks"
+   ]
+  },
+  {
+   "id": "mi35",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué banda de rock se pintaba la cara de demonio, gato, estrella y astronauta?",
+   "answer": "Kiss",
+   "decoys": [
+    "Alice Cooper",
+    "Mötley Crüe",
+    "Twisted Sister"
+   ]
+  },
+  {
+   "id": "mi36",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Cuál era el apodo de Ozzy Osbourne?",
+   "answer": "El Príncipe de las Tinieblas",
+   "decoys": [
+    "El Rey del Metal",
+    "El Dios del Trueno",
+    "El Loco"
+   ]
+  },
+  {
+   "id": "mi37",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿De qué ciudad salió el grunge de Nirvana, Pearl Jam y Soundgarden?",
+   "answer": "Seattle",
+   "decoys": [
+    "Portland",
+    "San Francisco",
+    "Los Ángeles"
+   ]
+  },
+  {
+   "id": "mi38",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿Qué baterista de Nirvana fundó después Foo Fighters?",
+   "answer": "Dave Grohl",
+   "decoys": [
+    "Krist Novoselic",
+    "Chad Smith",
+    "Matt Cameron"
+   ]
+  },
+  {
+   "id": "mi39",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿Qué hermanos lideraban Oasis?",
+   "answer": "Liam y Noel Gallagher",
+   "decoys": [
+    "Chris y Rich Robinson",
+    "Ray y Dave Davies",
+    "Malcolm y Angus Young"
+   ]
+  },
+  {
+   "id": "mi40",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué hermanos fundaron AC/DC?",
+   "answer": "Malcolm y Angus Young",
+   "decoys": [
+    "Liam y Noel Gallagher",
+    "Eddie y Alex Van Halen",
+    "Ray y Dave Davies"
+   ]
+  },
+  {
+   "id": "mi41",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué banda grabó «Rumours» (1977), uno de los discos más vendidos de la historia?",
+   "answer": "Fleetwood Mac",
+   "decoys": [
+    "Eagles",
+    "Steely Dan",
+    "Supertramp"
+   ]
+  },
+  {
+   "id": "mi42",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "70s"
+   ],
+   "question": "¿Qué banda grabó «Breakfast in America» (1979)?",
+   "answer": "Supertramp",
+   "decoys": [
+    "Electric Light Orchestra",
+    "Genesis",
+    "Styx"
+   ]
+  },
+  {
+   "id": "mi43",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿De qué banda era cantante y baterista Phil Collins?",
+   "answer": "Genesis",
+   "decoys": [
+    "Yes",
+    "Pink Floyd",
+    "The Police"
+   ]
+  },
+  {
+   "id": "mi44",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué banda española de los 80 lideraba Enrique Bunbury?",
+   "answer": "Héroes del Silencio",
+   "decoys": [
+    "Hombres G",
+    "Radio Futura",
+    "Duncan Dhu"
+   ]
+  },
+  {
+   "id": "mi45",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿De qué país eran Los Prisioneros, la banda de «El baile de los que sobran»?",
+   "answer": "Chile",
+   "decoys": [
+    "Perú",
+    "Uruguay",
+    "México"
+   ]
+  },
+  {
+   "id": "mi46",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué movimiento cultural de los 80 tuvo como centro a Madrid?",
+   "answer": "La Movida",
+   "decoys": [
+    "El Destape",
+    "La Nueva Ola",
+    "El Under"
+   ]
+  },
+  {
+   "id": "mi47",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Cuál es el disco más vendido de la historia, de 1982?",
+   "answer": "Thriller",
+   "decoys": [
+    "Back in Black",
+    "The Dark Side of the Moon",
+    "Bad"
+   ]
+  },
+  {
+   "id": "mi48",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué cantante de los 80 se presentaba como «The Boss»?",
+   "answer": "Bruce Springsteen",
+   "decoys": [
+    "Bon Jovi",
+    "Billy Idol",
+    "Bryan Adams"
+   ]
+  },
+  {
+   "id": "mi49",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué cantautor canadiense pegó «Summer of '69» en 1985?",
+   "answer": "Bryan Adams",
+   "decoys": [
+    "Rick Springfield",
+    "Bruce Springsteen",
+    "John Mellencamp"
+   ]
+  },
+  {
+   "id": "mi50",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué banda grabó «Don't You (Forget About Me)» para «El club de los cinco»?",
+   "answer": "Simple Minds",
+   "decoys": [
+    "Tears for Fears",
+    "The Cure",
+    "Duran Duran"
+   ]
+  },
+  {
+   "id": "mp1",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué cantante colombiana grabó «Pies descalzos» (1995)?",
+   "answer": "Shakira",
+   "decoys": [
+    "Karol G",
+    "Fanny Lú",
+    "Andrea Echeverri"
+   ]
+  },
+  {
+   "id": "mp2",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿De qué país es Bad Bunny?",
+   "answer": "Puerto Rico",
+   "decoys": [
+    "República Dominicana",
+    "Colombia",
+    "Panamá"
+   ]
+  },
+  {
+   "id": "mp3",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿De qué país es Rosalía?",
+   "answer": "España",
+   "decoys": [
+    "México",
+    "Argentina",
+    "Colombia"
+   ]
+  },
+  {
+   "id": "mp4",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Cómo se llama la gira de Taylor Swift que recorrió todas sus etapas entre 2023 y 2024?",
+   "answer": "The Eras Tour",
+   "decoys": [
+    "Reputation Tour",
+    "1989 World Tour",
+    "Midnights Tour"
+   ]
+  },
+  {
+   "id": "mp5",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué banda de chicos lanzó a Harry Styles?",
+   "answer": "One Direction",
+   "decoys": [
+    "Backstreet Boys",
+    "Jonas Brothers",
+    "Take That"
+   ]
+  },
+  {
+   "id": "mp6",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿De qué país son ABBA?",
+   "answer": "Suecia",
+   "decoys": [
+    "Noruega",
+    "Dinamarca",
+    "Finlandia"
+   ]
+  },
+  {
+   "id": "mp7",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué cantante tiene el apodo de «Queen B»?",
+   "answer": "Beyoncé",
+   "decoys": [
+    "Britney Spears",
+    "Rihanna",
+    "Lady Gaga"
+   ]
+  },
+  {
+   "id": "mp8",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Qué baile hizo famoso Michael Jackson por primera vez en televisión en 1983?",
+   "answer": "El moonwalk",
+   "decoys": [
+    "El robot",
+    "El twist",
+    "El breakdance"
+   ]
+  },
+  {
+   "id": "mp9",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué cantante británica ganó todo con su disco «21» (2011)?",
+   "answer": "Adele",
+   "decoys": [
+    "Amy Winehouse",
+    "Dua Lipa",
+    "Duffy"
+   ]
+  },
+  {
+   "id": "mp10",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Cuál es el verdadero nombre de Lady Gaga?",
+   "answer": "Stefani Germanotta",
+   "decoys": [
+    "Katheryn Hudson",
+    "Robyn Fenty",
+    "Alecia Moore"
+   ]
+  },
+  {
+   "id": "mp11",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante argentina protagonizó la serie de Disney «Violetta»?",
+   "answer": "Tini Stoessel",
+   "decoys": [
+    "Lali Espósito",
+    "María Becerra",
+    "Emilia Mernes"
+   ]
+  },
+  {
+   "id": "mp12",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante argentina saltó a la fama en «Casi ángeles» y después con temas como «Disciplina»?",
+   "answer": "Lali",
+   "decoys": [
+    "Tini",
+    "Emilia",
+    "Nicki Nicole"
+   ]
+  },
+  {
+   "id": "mp13",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿De qué ciudad es Nicki Nicole?",
+   "answer": "Rosario",
+   "decoys": [
+    "Córdoba",
+    "La Plata",
+    "Mendoza"
+   ]
+  },
+  {
+   "id": "mp14",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué trapero argentino es conocido como «el Duko»?",
+   "answer": "Duki",
+   "decoys": [
+    "Paulo Londra",
+    "Trueno",
+    "YSY A"
+   ]
+  },
+  {
+   "id": "mp15",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿De qué ciudad es Paulo Londra, el de «Adán y Eva»?",
+   "answer": "Córdoba",
+   "decoys": [
+    "Rosario",
+    "Buenos Aires",
+    "Tucumán"
+   ]
+  },
+  {
+   "id": "mp16",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿De qué barrio porteño es el rapero Trueno?",
+   "answer": "La Boca",
+   "decoys": [
+    "Palermo",
+    "Flores",
+    "Barracas"
+   ]
+  },
+  {
+   "id": "mp17",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué dúo argentino forman Ale Sergi y Juliana Gattas?",
+   "answer": "Miranda!",
+   "decoys": [
+    "Turf",
+    "Tan Biónica",
+    "Los Látigos"
+   ]
+  },
+  {
+   "id": "mp18",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Quién es el cantante de Tan Biónica?",
+   "answer": "Chano Moreno Charpentier",
+   "decoys": [
+    "Ale Sergi",
+    "Joaquín Levinton",
+    "Pity Álvarez"
+   ]
+  },
+  {
+   "id": "mp19",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [],
+   "question": "¿A qué cantante venezolano le dicen «el Puma»?",
+   "answer": "José Luis Rodríguez",
+   "decoys": [
+    "Ricardo Montaner",
+    "Franco De Vita",
+    "Chayanne"
+   ]
+  },
+  {
+   "id": "mp20",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina",
+    "60s"
+   ],
+   "question": "¿Qué cantante argentino lideró la «Nueva Ola» y grabó «La felicidad»?",
+   "answer": "Palito Ortega",
+   "decoys": [
+    "Sandro",
+    "Leonardo Favio",
+    "Johnny Tedesco"
+   ]
+  },
+  {
+   "id": "mp21",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina",
+    "60s"
+   ],
+   "question": "¿A qué cantante le decían «el Gitano»?",
+   "answer": "Sandro",
+   "decoys": [
+    "Palito Ortega",
+    "Leonardo Favio",
+    "Raphael"
+   ]
+  },
+  {
+   "id": "mp22",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante romántico argentino grabó «Rosa, Rosa» y «Dame fuego»?",
+   "answer": "Sandro",
+   "decoys": [
+    "Leonardo Favio",
+    "Sergio Denis",
+    "Cacho Castaña"
+   ]
+  },
+  {
+   "id": "mp23",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante y director de cine grabó «Fuiste mía un verano»?",
+   "answer": "Leonardo Favio",
+   "decoys": [
+    "Sandro",
+    "Palito Ortega",
+    "Sergio Denis"
+   ]
+  },
+  {
+   "id": "mp24",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué cantante español es conocido como «el Ruiseñor de Linares»?",
+   "answer": "Raphael",
+   "decoys": [
+    "Julio Iglesias",
+    "Camilo Sesto",
+    "Nino Bravo"
+   ]
+  },
+  {
+   "id": "mp25",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué cantante mexicano era conocido como «el Divo de Juárez»?",
+   "answer": "Juan Gabriel",
+   "decoys": [
+    "Luis Miguel",
+    "Vicente Fernández",
+    "José José"
+   ]
+  },
+  {
+   "id": "mp26",
+   "topic": "musica",
+   "subtopic": "pop_hits",
+   "question": "¿Qué cantante es conocido como «el Sol de México»?",
+   "answer": "Luis Miguel",
+   "decoys": [
+    "Juan Gabriel",
+    "Alejandro Fernández",
+    "Cristian Castro"
+   ]
+  },
+  {
+   "id": "mtg1",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué letrista escribía los tangos de Gardel como «Por una cabeza» y «Volver»?",
+   "answer": "Alfredo Le Pera",
+   "decoys": [
+    "Homero Manzi",
+    "Enrique Santos Discépolo",
+    "Celedonio Flores"
+   ]
+  },
+  {
+   "id": "mtg2",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina",
+    "30s"
+   ],
+   "question": "¿En qué ciudad murió Carlos Gardel en un accidente de avión, en 1935?",
+   "answer": "Medellín",
+   "decoys": [
+    "Bogotá",
+    "Cali",
+    "Caracas"
+   ]
+  },
+  {
+   "id": "mtg3",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿A qué director de orquesta le decían «Pichuco»?",
+   "answer": "Aníbal Troilo",
+   "decoys": [
+    "Osvaldo Pugliese",
+    "Juan D'Arienzo",
+    "Carlos Di Sarli"
+   ]
+  },
+  {
+   "id": "mtg4",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿A qué director de orquesta le decían «el Rey del Compás»?",
+   "answer": "Juan D'Arienzo",
+   "decoys": [
+    "Aníbal Troilo",
+    "Osvaldo Pugliese",
+    "Francisco Canaro"
+   ]
+  },
+  {
+   "id": "mtg5",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuál es el tango más emblemático de Osvaldo Pugliese, compuesto por él en 1946?",
+   "answer": "La yumba",
+   "decoys": [
+    "Recuerdo",
+    "Malandraca",
+    "Negracha"
+   ]
+  },
+  {
+   "id": "mtg6",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué poeta escribió las letras de «Sur» y «Malena»?",
+   "answer": "Homero Manzi",
+   "decoys": [
+    "Alfredo Le Pera",
+    "Cátulo Castillo",
+    "Horacio Ferrer"
+   ]
+  },
+  {
+   "id": "mtg8",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿A qué cantante le decían «la Novia de América»?",
+   "answer": "Libertad Lamarque",
+   "decoys": [
+    "Tita Merello",
+    "Mercedes Simone",
+    "Nelly Omar"
+   ]
+  },
+  {
+   "id": "mtg9",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantor grabó «Sur» con la orquesta de Aníbal Troilo en 1948?",
+   "answer": "Edmundo Rivero",
+   "decoys": [
+    "Roberto Goyeneche",
+    "Julio Sosa",
+    "Alberto Marino"
+   ]
+  },
+  {
+   "id": "mtg10",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿A qué cantor de tango le decían «el Varón del Tango»?",
+   "answer": "Julio Sosa",
+   "decoys": [
+    "Roberto Goyeneche",
+    "Edmundo Rivero",
+    "Alberto Castillo"
+   ]
+  },
+  {
+   "id": "mtg11",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué uruguayo compuso «La cumparsita», originalmente como una marcha de carnaval estudiantil?",
+   "answer": "Gerardo Matos Rodríguez",
+   "decoys": [
+    "Francisco Canelo",
+    "Pintín Castellanos",
+    "Julio Sosa"
+   ]
+  },
+  {
+   "id": "mtg12",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué día se celebra el Día Nacional del Tango en Argentina?",
+   "answer": "11 de diciembre",
+   "decoys": [
+    "24 de junio",
+    "11 de noviembre",
+    "9 de julio"
+   ]
+  },
+  {
+   "id": "mfk1",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué grupo folklórico salteño fue conocido como «la Universidad del Folklore»?",
+   "answer": "Los Chalchaleros",
+   "decoys": [
+    "Los Fronterizos",
+    "Los Nocheros",
+    "Los Tucu Tucu"
+   ]
+  },
+  {
+   "id": "mfk2",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante salteño es conocido como «el Chaqueño»?",
+   "answer": "Oscar Palavecino",
+   "decoys": [
+    "Jorge Rojas",
+    "Abel Pintos",
+    "Facundo Toro"
+   ]
+  },
+  {
+   "id": "mfk3",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿De qué ciudad santafesina es Soledad Pastorutti?",
+   "answer": "Arequito",
+   "decoys": [
+    "Rafaela",
+    "Venado Tuerto",
+    "Esperanza"
+   ]
+  },
+  {
+   "id": "mfk4",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ritmo folklórico se asocia sobre todo con Corrientes?",
+   "answer": "Chamamé",
+   "decoys": [
+    "Chacarera",
+    "Zamba",
+    "Cueca"
+   ]
+  },
+  {
+   "id": "mfk5",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué ritmo folklórico se baila con pañuelo, en pareja suelta y con mucho galanteo?",
+   "answer": "Zamba",
+   "decoys": [
+    "Chamamé",
+    "Malambo",
+    "Carnavalito"
+   ]
+  },
+  {
+   "id": "mfk6",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué danza folklórica es un zapateo solo de hombres, en competencia?",
+   "answer": "Malambo",
+   "decoys": [
+    "Gato",
+    "Escondido",
+    "Chacarera"
+   ]
+  },
+  {
+   "id": "mfk7",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿En qué provincia nació Mercedes Sosa?",
+   "answer": "Tucumán",
+   "decoys": [
+    "Salta",
+    "Santiago del Estero",
+    "Jujuy"
+   ]
+  },
+  {
+   "id": "mfk8",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué instrumento de percusión es típico de la chacarera santiagueña?",
+   "answer": "Bombo legüero",
+   "decoys": [
+    "Cajón peruano",
+    "Tambor de candombe",
+    "Pandero"
+   ]
+  },
+  {
+   "id": "mfk9",
+   "topic": "musica",
+   "subtopic": "folklore",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué festival folklórico se hace cada enero en Jesús María, Córdoba?",
+   "answer": "Festival de Doma y Folklore",
+   "decoys": [
+    "Festival de la Chaya",
+    "Fiesta Nacional del Chamamé",
+    "Festival de la Vendimia"
+   ]
+  },
+  {
+   "id": "mcb1",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué músico es el creador de Damas Gratis y referente de la cumbia villera?",
+   "answer": "Pablo Lescano",
+   "decoys": [
+    "Ricky Maravilla",
+    "Antonio Ríos",
+    "Leo Mattioli"
+   ]
+  },
+  {
+   "id": "mcb2",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿A qué cantante de cuarteto le dicen «la Mona»?",
+   "answer": "Carlos Jiménez",
+   "decoys": [
+    "Ulises Bueno",
+    "Rodrigo Bueno",
+    "Carlos «la Pepa» Brizuela"
+   ]
+  },
+  {
+   "id": "mcb3",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante de cuarteto es el hermano de Rodrigo «el Potro» Bueno?",
+   "answer": "Ulises Bueno",
+   "decoys": [
+    "La Mona Jiménez",
+    "Damián Córdoba",
+    "Walter Olmos"
+   ]
+  },
+  {
+   "id": "mcb4",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante tropical es conocido como «el Lobo» romántico?",
+   "answer": "Leo Mattioli",
+   "decoys": [
+    "Antonio Ríos",
+    "Ricky Maravilla",
+    "Pocho la Pantera"
+   ]
+  },
+  {
+   "id": "mcb5",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿A qué cantante de cumbia le dicen «la Princesita»?",
+   "answer": "Karina",
+   "decoys": [
+    "Gilda",
+    "Lía Crucet",
+    "Gladys la Bomba Tucumana"
+   ]
+  },
+  {
+   "id": "mcb6",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿De qué país viene originalmente la cumbia?",
+   "answer": "Colombia",
+   "decoys": [
+    "Perú",
+    "México",
+    "Cuba"
+   ]
+  },
+  {
+   "id": "mcb7",
+   "topic": "musica",
+   "subtopic": "cumbia_cuarteto",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Qué cantante tropical hizo famoso el «Qué tendrá el petiso»?",
+   "answer": "Ricky Maravilla",
+   "decoys": [
+    "Pocho la Pantera",
+    "Alcides",
+    "Lía Crucet"
+   ]
+  }
+ ],
+ "estimates": [
+  {
+   "id": "mz1",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿En qué año se editó «Clics modernos», de Charly García?",
+   "answer": 1983,
+   "tolerance": 10,
+   "format": "plain"
+  },
+  {
+   "id": "mz2",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "80s"
+   ],
+   "question": "¿En qué año murió Luca Prodan?",
+   "answer": 1987,
+   "tolerance": 10,
+   "format": "plain"
+  },
+  {
+   "id": "mz3",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿En qué año fue el festival Live Aid?",
+   "answer": 1985,
+   "tolerance": 10,
+   "format": "plain"
+  },
+  {
+   "id": "mz4",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "90s"
+   ],
+   "question": "¿Cuántos años tenía Kurt Cobain cuando murió?",
+   "answer": 27,
+   "unit": "años",
+   "tolerance": 12
+  },
+  {
+   "id": "mz5",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "question": "¿Cuántas cuerdas tiene una guitarra eléctrica estándar?",
+   "answer": 6,
+   "unit": "cuerdas",
+   "tolerance": 4
+  },
+  {
+   "id": "mz6",
+   "topic": "musica",
+   "subtopic": "tango",
+   "tags": [
+    "argentina"
+   ],
+   "question": "¿Cuántos botones tiene, aproximadamente, un bandoneón tradicional?",
+   "answer": 71,
+   "unit": "botones",
+   "tolerance": 40
+  },
+  {
+   "id": "mz7",
+   "topic": "musica",
+   "subtopic": "rock_internacional",
+   "tags": [
+    "80s"
+   ],
+   "question": "¿Cuántas personas fueron al estadio de Wembley para Live Aid, aproximadamente?",
+   "answer": 72000,
+   "unit": "personas",
+   "tolerance": 40000
+  },
+  {
+   "id": "mz8",
+   "topic": "musica",
+   "subtopic": "rock_nacional",
+   "tags": [
+    "argentina",
+    "2000s"
+   ],
+   "question": "¿En qué año murió Gustavo Cerati?",
+   "answer": 2014,
+   "tolerance": 10,
+   "format": "plain"
+  }
+ ]
+}

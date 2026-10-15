@@ -1,0 +1,46 @@
+{
+  "topics": {
+    "musica":    { "label": "Música",               "emoji": "🎵", "questionLabel": "Pregunta musical" },
+    "cine":      { "label": "Cine y series",        "emoji": "🎬", "questionLabel": "Pregunta de cine" },
+    "deportes":  { "label": "Deportes",             "emoji": "⚽", "questionLabel": "Pregunta deportiva" },
+    "historia":  { "label": "Historia",             "emoji": "🏛️", "questionLabel": "Pregunta de historia" },
+    "geografia": { "label": "Geografía",            "emoji": "🌎", "questionLabel": "Pregunta de geografía" },
+    "arte":      { "label": "Arte y literatura",    "emoji": "🎨", "questionLabel": "Pregunta de arte" },
+    "ciencia":   { "label": "Ciencia y naturaleza", "emoji": "🔬", "questionLabel": "Pregunta de ciencia" }
+  },
+
+  "subtopics": {
+    "rock_nacional": "🎸 Rock nacional",
+    "rock_internacional": "🤘 Rock internacional",
+    "pop_hits": "📻 Hits y comerciales",
+    "tango": "🪗 Tango",
+    "cumbia_cuarteto": "💃 Cumbia y cuarteto",
+    "folklore": "🪕 Folklore",
+    "peliculas": "🎬 Películas",
+    "series": "📺 Series",
+    "mundiales": "🏆 Mundiales",
+    "futbol": "⚽ Fútbol",
+    "libertadores": "🏟️ Copa Libertadores",
+    "champions": "⭐ Champions League",
+    "nba": "🏀 NBA",
+    "deportes_varios": "🏅 Más deportes"
+  },
+
+  "modes": [
+    { "id": "todo", "name": "Todo mezclado", "emoji": "🎲", "description": "Un poco de cada tema", "include": ["all"] },
+    { "id": "musica", "name": "Solo música", "emoji": "🎵", "description": "Todos los géneros", "include": ["musica"] },
+    { "id": "rock", "name": "Rock", "emoji": "🎸", "description": "Nacional e internacional", "include": ["rock_nacional", "rock_internacional"] },
+    { "id": "rock_nacional", "name": "Rock nacional", "emoji": "☀️", "description": "De Los Gatos a Cerati", "include": ["rock_nacional"] },
+    { "id": "rock_80s", "name": "Rock de los 80", "emoji": "📼", "description": "Hombreras y sintetizadores", "include": ["rock_nacional", "rock_internacional"], "require": ["80s"] },
+    { "id": "argentino", "name": "Bien argentino", "emoji": "🧉", "description": "Música, cine, historia y fútbol de acá", "include": ["argentina"] },
+    { "id": "cine", "name": "Cine y series", "emoji": "🍿", "description": "Escenas, personajes y títulos", "include": ["cine"] },
+    { "id": "musica_cine", "name": "Música y cine", "emoji": "🎤", "description": "El combo para la sobremesa", "include": ["musica", "cine"] },
+    { "id": "mundiales", "name": "Mundiales", "emoji": "🏆", "description": "De Uruguay 1930 a Qatar 2022", "include": ["mundiales"] },
+    { "id": "libertadores", "name": "Copa Libertadores", "emoji": "🏟️", "description": "La gloria eterna de América", "include": ["libertadores"] },
+    { "id": "champions", "name": "Champions League", "emoji": "⭐", "description": "De Di Stéfano al PSG", "include": ["champions"] },
+    { "id": "nba", "name": "NBA", "emoji": "🏀", "description": "De Jordan a Manu y Wembanyama", "include": ["nba"] },
+    { "id": "deportes", "name": "Deportes", "emoji": "⚽", "description": "Fútbol y mucho más", "include": ["deportes"] },
+    { "id": "cultura", "name": "Cultura general", "emoji": "🧠", "description": "Historia, geografía, arte y ciencia", "include": ["historia", "geografia", "arte", "ciencia"] },
+    { "id": "cifras", "name": "Cifras y estimaciones", "emoji": "📏", "description": "Gana el que más se acerca", "include": ["estimaciones"] }
+  ]
+}

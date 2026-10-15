@@ -1,0 +1,62 @@
+{
+  "_leeme": "Nivel de las preguntas generales y estimaciones, por id. Lo que no figura acá es de nivel medio. También se puede poner \"level\": 1, 2 o 3 directamente en la pregunta (eso manda sobre este archivo). Las canciones y pelis se adaptan solas: según el nivel cambia el tipo de pregunta y lo parecidas que son las opciones.",
+
+  "faciles": [
+    "aq2", "aq3", "aq10", "aq20", "lq2", "lq9", "lq23", "lq28", "lq39", "lq40", "la13", "la14", "la15",
+    "ar1", "ar2", "ar3", "ar4", "ar5", "ar9", "ar12", "ar13", "ar16", "ar19", "ar21", "ar22", "ar25", "ar30", "ar41",
+
+    "cq4", "cq10", "cq15", "cq16", "cq37", "cq38", "cq42", "cq45", "cq67", "cq70",
+    "ci1", "ci2", "ci9", "ci10", "ci11", "ci13", "ci14", "ci16", "ci20", "ci24", "ci27", "ci28", "ci29", "ci30", "ci32", "ci38", "ci39",
+
+    "kq1", "kq10", "kq11", "kq12", "kq14", "kq15", "kq21", "kq30", "kq31", "kq35", "kq36", "kq38", "kq39", "kq40", "kq42", "kq44", "kq45", "kq46", "kq48", "kq50",
+    "ks7", "ks10", "ks14", "ks15", "ks18",
+    "ct2", "ct4", "ct5", "ct8", "ct9", "ct10", "ct11", "ct12", "ct13", "ct14", "ct17", "ct21", "ct22",
+
+    "fb5", "fb24", "fb25", "fb26", "fb27", "fb31", "fb38", "fb45",
+    "dw5", "dw7", "dw26", "dw28", "dw31", "dw32", "dw33", "dw34",
+    "fu2", "fu6", "fu10", "fu11", "fu12", "fu16", "fu18",
+    "dv1", "dv4", "dv5", "dv8", "dv9", "dv15", "dv16", "dv17", "dv18", "dv20",
+
+    "gq1", "gq2", "gq5", "gq7", "gq24", "gq25", "gq26",
+    "gp3", "gp9", "gp11", "gp17", "gp20", "gp23", "gp26",
+    "gw2", "gw5", "gw6", "gw7", "gw14", "gw22", "gw23", "gw24", "gw25", "gw26", "gw27", "gw32", "gw33", "gw42", "gw43", "gw50", "gw53", "gw54", "gw55",
+    "ge10", "ge11", "ge12", "ge13", "ge14", "ge16", "ge17", "ge26", "ge37", "ge42", "ge43", "ge44", "ge47", "ge48",
+
+    "hi1", "hi3", "hi12", "hi16", "hi17", "hi18", "hi20", "hi21", "hi31", "hi43", "hi44", "hi45",
+    "hw16", "hw31", "hw47", "hw48", "hw49",
+
+    "mt3", "mt5", "mt6", "mt7", "mt17", "mt18", "mt19", "mt20", "mt21", "mt26", "mt27", "mt28", "mt29", "mt32", "mt33", "mt35", "mt36", "mt38", "mt39", "mt41", "mt42",
+    "mp1", "mp2", "mp3", "mp6", "mp7", "mp9", "mp21", "mp26", "mi12", "mi13", "mi22", "mi31", "mi47", "mcb6",
+
+    "mu1", "mu2", "mu3", "mu4", "mu5", "mu9", "mu10", "mu11", "mu14", "mu15", "mu16", "mu17", "mu18", "mu19", "mu20", "mu22", "mu23", "mu24", "mu29", "mu39", "mu40",
+    "ma23", "ma24", "ma25", "mw22", "mw44"
+  ],
+
+  "dificiles": [
+    "aq8", "aq12", "aq17", "aq22", "aq23", "aq24", "aq25", "lq26", "lq37", "lq38",
+    "la7", "la8", "la10", "la12", "la18", "la19", "la22", "la24", "mq5", "mq9", "mq11", "ar38", "ar45",
+
+    "cq2", "cq7", "cq13", "cq31", "cq35", "cq43", "cq52", "cq53", "cq54", "cq57", "cq59", "cq62",
+    "ci5", "ci8", "ci26", "ci36", "ci40",
+
+    "kq22", "kq26", "kq29", "kq34", "ka5", "ka6", "ka10", "ka15", "ka16", "ks3", "ks17", "ks25", "ks26", "ks28", "ct15",
+
+    "fb10", "fb11", "fb12", "fb16", "fb18", "fb20", "fb21", "fb39", "fb43",
+    "dw1", "dw3", "dw20", "dw22", "dw23", "dw36", "fu15", "fu20", "dv13",
+
+    "gq6", "gq8", "gq11", "gq12", "gq27", "gq29",
+    "gp2", "gp6", "gp19", "gp22", "gp28", "gp31",
+    "gw1", "gw8", "gw11", "gw12", "gw13", "gw16", "gw21", "gw31", "gw37", "gw38", "gw40", "gw46", "gw47",
+    "ge6", "ge8", "ge19", "ge20", "ge34", "ge35", "ge45",
+
+    "hx3", "hx4", "hx6", "hx12", "hx14", "hx20", "hx26", "hx38", "hx40", "hx41", "hx42", "hx44",
+    "hw12", "hw13", "hw21", "hi10", "hi34", "hi39", "hi42",
+
+    "mr2", "mr3", "mr6", "mr7", "mr11", "mr16", "mr17", "mr20", "mr23", "mr27", "mr28", "mr31", "mr36", "mr39",
+    "mi1", "mi3", "mi4", "mi6", "mi8", "mi17", "mi19", "mi20", "mi21", "mi29", "mi42", "mp10", "mp16",
+    "mtg1", "mtg4", "mtg5", "mtg6", "mtg9", "mtg11", "mtg12", "mfk3", "mfk8", "mfk9", "mcb4",
+
+    "mw1", "mw2", "mw3", "mw4", "mw11", "mw12", "mw13", "mw15", "mw17", "mw26", "mw32", "mw35", "mw38", "mw39", "mw40",
+    "mw42", "mw43", "mw45", "mw46", "mw48", "mw52", "ma2", "ma3", "ma11", "ma15", "ma16", "ma20", "ma30", "mu25", "mu37"
+  ]
+}

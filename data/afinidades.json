@@ -1,0 +1,233 @@
+{
+  "_leeme": "En tango, ojo con poner cantores que grabaron los mismos temas que hay en el banco (Goyeneche, Julio Sosa…): serían respuestas correctas también. Sirve para que las opciones falsas sean del mismo palo. «escenas»: artistas que se confunden entre sí (misma movida y época); pueden figurar artistas que no tienen canciones en el banco. «temas»: otros títulos conocidos de cada artista, para las preguntas de «¿Nombre de la canción?». «grupos»: pelis y series parecidas, por id.",
+
+  "escenas": {
+    "rock_nac_pioneros": {
+      "decadas": ["60s", "70s"],
+      "artistas": ["Los Gatos", "Almendra", "Manal", "Vox Dei", "Pescado Rabioso", "Sui Generis", "Aquelarre", "Color Humano", "Arco Iris", "Pappo's Blues", "Moris", "Litto Nebbia", "La Joven Guardia", "Invisible", "León Gieco", "Serú Girán", "Crucis", "Luis Alberto Spinetta", "La Máquina de Hacer Pájaros", "Billy Bond y La Pesada"]
+    },
+    "rock_nac_80": {
+      "decadas": ["80s"],
+      "artistas": ["Soda Stereo", "Virus", "Sumo", "Los Abuelos de la Nada", "GIT", "Los Twist", "Miguel Mateos", "Enanitos Verdes", "Los Fabulosos Cadillacs", "Patricio Rey y sus Redonditos de Ricota", "Suéter", "Viudas e Hijas de Roque Enroll", "Los Violadores", "Rata Blanca", "Fito Páez", "Charly García", "Celeste Carballo", "Los Encargados", "Don Cornelio y la Zona", "Los Ratones Paranoicos", "Instrucción Cívica", "Fricción", "Charly García y Luis Alberto Spinetta", "Spinetta Jade", "Metrópoli", "Los Pericos"]
+    },
+    "rock_nac_90": {
+      "decadas": ["90s", "2000s"],
+      "artistas": ["Los Piojos", "La Renga", "Divididos", "Bersuit Vergarabat", "Babasónicos", "Attaque 77", "Los Auténticos Decadentes", "Los Pericos", "Los Caballeros de la Quema", "Las Pelotas", "Catupecu Machu", "Andrés Calamaro", "Gustavo Cerati", "Viejas Locas", "Intoxicados", "Callejeros", "La 25", "Árbol", "Turf", "Illya Kuryaki and the Valderramas", "Massacre", "Los Tipitos", "Las Pastillas del Abuelo", "Guasones", "Ciro y los Persas", "Los Rodríguez", "Los Fabulosos Cadillacs", "Rata Blanca"]
+    },
+
+    "rock_int_clasico": {
+      "decadas": ["60s", "70s"],
+      "artistas": ["The Beatles", "The Rolling Stones", "Led Zeppelin", "Pink Floyd", "The Doors", "The Who", "Deep Purple", "Black Sabbath", "The Jimi Hendrix Experience", "Creedence Clearwater Revival", "Steppenwolf", "Eagles", "Lynyrd Skynyrd", "Derek and the Dominos", "Cream", "The Kinks", "Queen", "David Bowie", "Fleetwood Mac", "Yes", "Genesis", "Kiss", "AC/DC", "Aerosmith", "Supertramp", "John Lennon", "The Animals", "Queen y David Bowie", "Dire Straits", "The Clash"]
+    },
+    "rock_int_new_wave": {
+      "decadas": ["80s"],
+      "artistas": ["The Cure", "Joy Division", "New Order", "Depeche Mode", "Soft Cell", "The Human League", "Duran Duran", "Tears for Fears", "Eurythmics", "Simple Minds", "Talking Heads", "Blondie", "The Police", "U2", "The Smiths", "INXS", "Spandau Ballet", "Culture Club", "Pet Shop Boys", "Echo & the Bunnymen", "Ultravox", "a-ha", "Dire Straits", "The Clash", "Men at Work"]
+    },
+    "rock_int_hard_80": {
+      "decadas": ["80s"],
+      "artistas": ["Guns N' Roses", "Bon Jovi", "Van Halen", "Europe", "Def Leppard", "Whitesnake", "Scorpions", "Metallica", "Aerosmith", "Mötley Crüe", "Poison", "Iron Maiden", "Twisted Sister", "Skid Row", "Cinderella", "AC/DC"]
+    },
+    "rock_int_aor": {
+      "decadas": ["80s"],
+      "artistas": ["Survivor", "Journey", "Toto", "Bruce Springsteen", "Joan Jett & the Blackhearts", "Rick Springfield", "Bonnie Tyler", "Huey Lewis and the News", "Kenny Loggins", "Foreigner", "REO Speedwagon", "Billy Idol", "Boston", "Night Ranger", "Pat Benatar", "Bryan Adams", "Bon Jovi"]
+    },
+    "rock_int_90": {
+      "decadas": ["90s"],
+      "artistas": ["Nirvana", "Pearl Jam", "Red Hot Chili Peppers", "Oasis", "Blur", "Radiohead", "The Cranberries", "The Verve", "Green Day", "R.E.M.", "Goo Goo Dolls", "Soundgarden", "Alice in Chains", "Foo Fighters", "Stone Temple Pilots", "Bush", "The Smashing Pumpkins", "Pulp", "Weezer", "The Offspring", "Metallica"]
+    },
+    "rock_int_2000": {
+      "decadas": ["2000s", "2010s"],
+      "artistas": ["The White Stripes", "The Killers", "Linkin Park", "Coldplay", "Kings of Leon", "Arctic Monkeys", "The Strokes", "Franz Ferdinand", "Muse", "Kasabian", "Snow Patrol", "Keane", "Interpol", "Yeah Yeah Yeahs", "Evanescence", "System of a Down", "Green Day", "Foo Fighters", "Red Hot Chili Peppers"]
+    },
+    "rock_castellano": {
+      "decadas": ["80s", "90s"],
+      "artistas": ["Los Prisioneros", "Hombres G", "Héroes del Silencio", "Nacha Pop", "La Unión", "Radio Futura", "Loquillo y los Trogloditas", "Duncan Dhu", "Maná", "Café Tacvba", "Mecano", "Los Toreros Muertos", "Gabinete Caligari", "Los Secretos", "Alaska y Dinarama", "El Último de la Fila", "Caifanes", "Aterciopelados", "La Ley", "Los Tres", "Enanitos Verdes", "Soda Stereo", "Los Rodríguez"]
+    },
+
+    "pop_anglo_clasico": {
+      "decadas": ["70s", "80s"],
+      "artistas": ["Michael Jackson", "Madonna", "Cyndi Lauper", "ABBA", "Whitney Houston", "George Michael", "Wham!", "Village People", "Bee Gees", "Gloria Gaynor", "Donna Summer", "Earth, Wind & Fire", "Prince", "Cher", "a-ha", "Lionel Richie", "Phil Collins", "Tina Turner", "Olivia Newton-John", "Kool & the Gang", "Boney M.", "Rick Astley", "Kylie Minogue", "Bananarama", "Celine Dion"]
+    },
+    "pop_anglo_90_2000": {
+      "decadas": ["90s", "2000s"],
+      "artistas": ["Spice Girls", "Britney Spears", "Backstreet Boys", "*NSYNC", "Christina Aguilera", "Aqua", "Vanilla Ice", "MC Hammer", "OutKast", "Eminem", "Celine Dion", "Beyoncé", "Rihanna", "Destiny's Child", "Nelly Furtado", "The Black Eyed Peas", "Justin Timberlake", "Gwen Stefani", "Avril Lavigne", "Cher", "Lady Gaga", "Santana", "Gipsy Kings", "Whitney Houston"]
+    },
+    "pop_anglo_actual": {
+      "decadas": ["2010s", "2020s"],
+      "artistas": ["Adele", "Ed Sheeran", "The Weeknd", "Billie Eilish", "Miley Cyrus", "Mark Ronson y Bruno Mars", "Pharrell Williams", "Daft Punk", "Taylor Swift", "Dua Lipa", "Harry Styles", "PSY", "Bruno Mars", "Katy Perry", "Sia", "Justin Bieber", "Olivia Rodrigo", "Sam Smith", "Imagine Dragons", "Maroon 5", "Shawn Mendes", "Lady Gaga", "Rihanna", "Beyoncé"]
+    },
+    "pop_latino_clasico": {
+      "decadas": ["80s", "90s", "2000s"],
+      "artistas": ["Shakira", "Ricky Martin", "Enrique Iglesias", "Carlos Vives y Shakira", "Elvis Crespo", "Juanes", "Alejandro Sanz", "Marc Anthony", "Los del Río", "Gipsy Kings", "Los Lobos", "Chayanne", "Luis Miguel", "Thalía", "Paulina Rubio", "Gloria Estefan", "Carlos Vives", "Laura Pausini", "Eros Ramazzotti", "La Oreja de Van Gogh", "Jennifer Lopez", "Miranda!", "La Mosca Tsé-Tsé", "Mecano", "Maná", "Santana", "Ricardo Arjona"]
+    },
+    "urbano_latino": {
+      "decadas": ["2000s", "2010s", "2020s"],
+      "artistas": ["Luis Fonsi y Daddy Yankee", "Daddy Yankee", "J Balvin y Willy William", "J Balvin", "Bad Bunny", "Karol G", "Karol G y Nicki Minaj", "Manuel Turizo", "Maluma", "Don Omar", "Romeo Santos", "Bizarrap y Quevedo", "Bizarrap y Shakira", "Bizarrap y Nathy Peluso", "Eslabon Armado", "Tini", "C. Tangana", "Rosalía", "Ozuna", "Anuel AA", "Rauw Alejandro", "Sebastián Yatra", "Camilo", "Nicky Jam", "Wisin & Yandel", "Feid", "Peso Pluma", "María Becerra", "Duki", "Nicki Nicole", "Emilia", "Lali", "Paulo Londra", "Trueno"]
+    },
+
+    "tango_clasico": {
+      "decadas": ["10s", "20s", "30s", "40s", "50s", "70s", "80s"],
+      "artistas": ["Carlos Gardel", "Gerardo Matos Rodríguez", "Enrique Santos Discépolo", "Aníbal Troilo", "Cacho Castaña", "Mariano Mores", "Francisco Canaro", "Ángel Villoldo", "Enrique Cadícamo", "Homero Manzi", "Juan Carlos Cobián", "Osvaldo Fresedo"]
+    },
+    "tango_nuevo": {
+      "decadas": ["60s", "70s", "2000s"],
+      "artistas": ["Astor Piazzolla", "Gotan Project", "Bajofondo", "Tanghetto", "Otros Aires", "Narcotango", "Orquesta Típica Fernández Fierro", "Amelita Baltar"]
+    },
+    "cumbia_villera": {
+      "decadas": ["2000s", "2020s"],
+      "artistas": ["Damas Gratis", "Pibes Chorros", "Yerba Brava", "Flor de Piedra", "Mala Fama", "Supermerk2", "Meta Guacha", "Los Gedes", "Altos Cumbieros", "Repiola", "El Original", "Bizarrap y L-Gante", "L-Gante", "El Noba", "Callejero Fino", "Perro Primo"]
+    },
+    "cumbia_romantica": {
+      "decadas": ["90s", "2000s", "2010s"],
+      "artistas": ["Gilda", "Amar Azul", "Los Palmeras", "Antonio Ríos", "Ráfaga", "Los Hijos del Sol", "Agapornis", "Leo Mattioli", "Grupo Sombras", "Karina", "Los Charros", "Grupo Green", "Commanche", "Gladys la Bomba Tucumana", "Lía Crucet", "Ricky Maravilla", "Los Ángeles Azules", "Pibes Chorros", "Daniel Agostini", "Los del Fuego"]
+    },
+    "cuarteto": {
+      "decadas": ["80s", "90s", "2000s"],
+      "artistas": ["La Mona Jiménez", "Rodrigo", "Walter Olmos", "Ulises Bueno", "Banda XXI", "Trulalá", "Chébere", "Sabroso", "La Barra", "Jean Carlos", "Damián Córdoba", "Gary", "Carlitos Rolán"]
+    },
+    "folklore": {
+      "decadas": ["50s", "60s", "70s", "80s", "90s", "2000s"],
+      "artistas": ["Mercedes Sosa", "Atahualpa Yupanqui", "Jorge Cafrune", "Soledad Pastorutti", "Ramón Sixto Ríos", "Daniel Toro", "Los Chalchaleros", "Tránsito Cocomarola", "Ramón Ayala", "Los Manseros Santiagueños", "Abel Pintos", "Los Nocheros", "Los Fronterizos", "Horacio Guarany", "Chaqueño Palavecino", "Los Tekis", "Jorge Rojas", "Los Carabajal", "Peteco Carabajal", "Los Huayra", "Teresa Parodi", "Antonio Tormo", "Los Cantores del Alba"]
+    }
+  },
+
+  "temas": {
+    "Soda Stereo": ["Persiana americana", "Nada personal", "Cuando pase el temblor", "Prófugos", "En la ciudad de la furia", "Signos", "Trátame suavemente", "Té para tres", "Un millón de años luz", "Sobredosis de TV", "Zoom", "Corazón delator", "Hombre al agua", "De música ligera", "Música ligera"],
+    "Charly García": ["Demoliendo hoteles", "Nos siguen pegando abajo", "Cerca de la revolución", "Yendo de la cama al living", "No voy en tren", "Inconsciente colectivo", "Raros peinados nuevos", "Fanky", "Promesas sobre el bidet", "Pasajera en trance", "Los dinosaurios", "Chipi chipi"],
+    "Virus": ["Wadu wadu", "Amor descartable", "Pronta entrega", "Imágenes paganas", "Una luna de miel en la mano", "Encuentro con el diablo"],
+    "Sumo": ["La rubia tarada", "Mañana en el Abasto", "Divididos por la felicidad", "Los viejos vinagres", "Heroína", "El ojo blindado", "Crua chan", "Next Week"],
+    "Patricio Rey y sus Redonditos de Ricota": ["Ji ji ji", "Un poco de amor francés", "Mi perro dinamita", "Vencedores vencidos", "Todo un palo", "Juguetes perdidos", "Nuestro amo juega al esclavo", "Ya nadie va a escuchar tu remera", "Mariposa pontiac", "Pabellón séptimo", "Esa estrella era mi lujo"],
+    "Los Abuelos de la Nada": ["Mil horas", "Lunes por la madrugada", "Así es el calor", "Chalamán", "Costumbres argentinas", "Tristeza de la ciudad", "Sintonía americana", "No se desesperen", "Himno de mi corazón"],
+    "Los Fabulosos Cadillacs": ["Matador", "Vasos vacíos", "Mal bicho", "El satánico Dr. Cadillac", "Siguiendo la luna", "Manuel Santillán, el León", "Carmela", "Demasiada presión", "Yo no me sentaría en tu mesa", "Calaveras y diablitos"],
+    "Fito Páez": ["Mariposa Tecknicolor", "11 y 6", "Dar es dar", "A rodar mi vida", "Ciudad de pobres corazones", "El amor después del amor", "Un vestido y un amor", "Y dale alegría a mi corazón", "Tumbas de la gloria", "Brillante sobre el mic", "Circo Beat"],
+    "Andrés Calamaro": ["Flaca", "Crímenes perfectos", "Loco", "Los aviones", "Paloma", "Te quiero igual", "El salmón", "Estadio Azteca", "Alta suciedad", "Donde manda marinero"],
+    "Gustavo Cerati": ["Puente", "Crimen", "Adiós", "Rapto", "Lago en el cielo", "Fuerza natural", "Deja vu", "Bocanada", "Engaña"],
+    "Luis Alberto Spinetta": ["Seguir viviendo sin tu amor", "Ella también", "Alma de diamante", "Barro tal vez", "Durazno sangrando", "Bajan", "Todas las hojas son del viento"],
+    "Los Piojos": ["Tan solo", "Muchacho", "El farolito", "Babilonia", "Ruleta", "Fumigator", "Verano del 92", "Al atardecer", "Como Alí", "Maradó", "Desde lejos no se ve", "Bicho de ciudad"],
+    "La Renga": ["Hablando de la libertad", "El final es en donde partí", "La razón que te demora", "Balada del diablo y la muerte", "Panic Show", "Oscuro diamante", "El revelde", "Veneno", "Al que he sangrado"],
+    "Divididos": ["El 38", "Paisano de Hurlingham", "Spaghetti del rock", "Qué ves", "Sábado", "Ala delta", "Par mil"],
+    "Bersuit Vergarabat": ["Señor Cobranza", "La bolsa", "Se viene", "Yo tomo", "Un pacto", "Mi caramelo", "Toco y me voy", "Hociquito de ratón", "Desconexión sideral", "Murguita del sur"],
+    "Babasónicos": ["Irresponsables", "El loco", "Putita", "Yegua", "Pijamas", "Los calientes", "Microdancing", "La pregunta", "Carismático", "Deléctrico", "Ingrato"],
+    "Enanitos Verdes": ["Lamento boliviano", "La muralla verde", "Guitarras blancas", "Luz de día", "Tus viejas cartas", "Por el resto", "Amores lejanos", "Eterno"],
+    "Los Auténticos Decadentes": ["La guitarra", "Los piratas", "Loco (tu forma de ser)", "Siga el baile", "Entregá el marrón", "Veo veo", "Corazón"],
+    "Attaque 77": ["Hacelo por mí", "Donde las águilas se atreven", "Arrancacorazones", "Western", "Chicos y perros", "Beber de tu sangre"],
+    "Miguel Mateos": ["Tirá para arriba", "Mi novia se cayó en un pozo ciego", "Cuando seas grande", "Llámame si me necesitas", "Obsesión", "Atado a un sentimiento", "Un mundo diferente"],
+    "Rata Blanca": ["Mujer amante", "La leyenda del hada y el mago", "Guerrero del arco iris", "Abrazando al rock and roll", "El sueño de la gitana", "Días duros", "Volviendo a casa"],
+    "León Gieco": ["Sólo le pido a Dios", "Cinco siglos igual", "La memoria", "El ángel de la bicicleta", "Pensar en nada", "Ojo con los Orozco", "Hombres de hierro", "En el país de la libertad", "Bandidos rurales"],
+    "Serú Girán": ["Seminare", "Viernes 3 AM", "Canción de Alicia en el país", "Eiti Leda", "Peperina", "Música del alma", "Cinema verité", "Llorando en el espejo", "Mientras miro las nuevas olas", "No llores por mí, Argentina", "Esperando nacer"],
+    "Sui Generis": ["Rasguña las piedras", "Canción para mi muerte", "Aprendizaje", "Confesiones de invierno", "Instituciones", "Bienvenidos al tren", "Natalio Ruiz, el hombrecito del sombrero gris", "Mr. Jones o pequeña semblanza de una familia tipo", "Cuando ya me empiece a quedar solo", "Tango en segunda"],
+    "Almendra": ["Muchacha (ojos de papel)", "Ana no duerme", "Laura va", "Plegaria para un niño dormido", "Color humano", "A estos hombres tristes", "Hermano perro", "Fermín"],
+    "Los Gatos": ["La balsa", "Ayer nomás", "Seremos amigos", "Viento dile a la lluvia", "Rufino"],
+    "Manal": ["Jugo de tomate frío", "Avellaneda blues", "Una casa con diez pinos", "Del otro lado de la ciudad", "Todo el día me pregunto", "Elena"],
+    "Pescado Rabioso": ["Me gusta ese tajo", "Post-crucifixión", "Despiértate nena", "Bajan", "Todas las hojas son del viento", "Cementerio club", "Poseído del alba", "Credulidad", "Cantata de puentes amarillos"],
+
+    "The Beatles": ["Yesterday", "Let It Be", "Hey Jude", "Help!", "Come Together", "Something", "Here Comes the Sun", "Yellow Submarine", "Penny Lane", "Strawberry Fields Forever", "A Hard Day's Night", "Twist and Shout", "All You Need Is Love", "Eleanor Rigby", "In My Life", "Get Back", "Ob-La-Di, Ob-La-Da", "Love Me Do", "She Loves You", "I Want to Hold Your Hand"],
+    "The Rolling Stones": ["Paint It Black", "Angie", "Sympathy for the Devil", "Start Me Up", "Brown Sugar", "Gimme Shelter", "Wild Horses", "Miss You", "Jumpin' Jack Flash", "Honky Tonk Women", "(I Can't Get No) Satisfaction"],
+    "Queen": ["Bohemian Rhapsody", "We Will Rock You", "We Are the Champions", "Don't Stop Me Now", "Another One Bites the Dust", "Radio Ga Ga", "I Want to Break Free", "Somebody to Love", "Killer Queen", "The Show Must Go On", "Love of My Life", "Who Wants to Live Forever", "Crazy Little Thing Called Love", "A Kind of Magic", "Innuendo"],
+    "Led Zeppelin": ["Stairway to Heaven", "Whole Lotta Love", "Kashmir", "Black Dog", "Immigrant Song", "Rock and Roll", "Since I've Been Loving You", "Dazed and Confused", "Good Times Bad Times", "Communication Breakdown", "Ramble On"],
+    "Pink Floyd": ["Another Brick in the Wall", "Wish You Were Here", "Comfortably Numb", "Money", "Time", "Shine On You Crazy Diamond", "Hey You", "Us and Them", "Breathe", "Learning to Fly", "High Hopes"],
+    "Nirvana": ["Smells Like Teen Spirit", "Come as You Are", "Lithium", "In Bloom", "Heart-Shaped Box", "All Apologies", "Polly", "About a Girl", "Something in the Way"],
+    "U2": ["With or Without You", "One", "Sunday Bloody Sunday", "Where the Streets Have No Name", "I Still Haven't Found What I'm Looking For", "Beautiful Day", "Pride (In the Name of Love)", "Vertigo", "Elevation", "New Year's Day", "Mysterious Ways"],
+    "Guns N' Roses": ["Sweet Child o' Mine", "Welcome to the Jungle", "November Rain", "Paradise City", "Don't Cry", "Patience", "Civil War", "Estranged", "You Could Be Mine"],
+    "Bon Jovi": ["Livin' on a Prayer", "It's My Life", "Always", "Bed of Roses", "You Give Love a Bad Name", "Wanted Dead or Alive", "Bad Medicine", "Born to Be My Baby", "Have a Nice Day", "Runaway", "Keep the Faith"],
+    "Metallica": ["Enter Sandman", "Nothing Else Matters", "One", "Master of Puppets", "The Unforgiven", "Fade to Black", "Seek & Destroy", "Sad but True", "For Whom the Bell Tolls"],
+    "AC/DC": ["Highway to Hell", "Back in Black", "Thunderstruck", "You Shook Me All Night Long", "T.N.T.", "Hells Bells", "Shoot to Thrill", "It's a Long Way to the Top", "Let There Be Rock", "Dirty Deeds Done Dirt Cheap"],
+    "Dire Straits": ["Sultans of Swing", "Money for Nothing", "Walk of Life", "Brothers in Arms", "Romeo and Juliet", "Private Investigations", "So Far Away", "Lady Writer", "Tunnel of Love"],
+    "The Police": ["Every Breath You Take", "Roxanne", "Message in a Bottle", "Walking on the Moon", "So Lonely", "Don't Stand So Close to Me", "Every Little Thing She Does Is Magic", "King of Pain", "Wrapped Around Your Finger"],
+    "Oasis": ["Wonderwall", "Don't Look Back in Anger", "Champagne Supernova", "Live Forever", "Stop Crying Your Heart Out", "Supersonic", "Some Might Say", "Stand by Me", "Whatever", "Morning Glory", "Little by Little"],
+    "Radiohead": ["Creep", "Karma Police", "No Surprises", "Paranoid Android", "High and Dry", "Fake Plastic Trees", "Street Spirit (Fade Out)", "Everything in Its Right Place", "Just", "Lucky", "There There"],
+    "Coldplay": ["Yellow", "The Scientist", "Clocks", "Fix You", "Viva la Vida", "Paradise", "Speed of Sound", "Trouble", "In My Place", "A Sky Full of Stars", "Hymn for the Weekend", "Adventure of a Lifetime"],
+    "Depeche Mode": ["Enjoy the Silence", "Personal Jesus", "Just Can't Get Enough", "Never Let Me Down Again", "People Are People", "Policy of Truth", "Strangelove", "Master and Servant", "I Feel You", "Precious"],
+    "The Cure": ["Boys Don't Cry", "Friday I'm in Love", "Lovesong", "Just Like Heaven", "Close to Me", "Lullaby", "A Forest", "In Between Days", "Pictures of You", "The Lovecats"],
+    "Duran Duran": ["Hungry Like the Wolf", "Rio", "Girls on Film", "The Reflex", "Ordinary World", "A View to a Kill", "Save a Prayer", "Notorious", "Come Undone", "The Wild Boys"],
+    "Tears for Fears": ["Everybody Wants to Rule the World", "Shout", "Mad World", "Head over Heels", "Sowing the Seeds of Love", "Pale Shelter", "Woman in Chains"],
+    "Eurythmics": ["Sweet Dreams (Are Made of This)", "There Must Be an Angel", "Here Comes the Rain Again", "Love Is a Stranger", "Would I Lie to You?", "Thorn in My Side"],
+    "Simple Minds": ["Don't You (Forget About Me)", "Alive and Kicking", "Belfast Child", "Promised You a Miracle", "Sanctify Yourself", "Mandela Day", "Waterfront"],
+    "Red Hot Chili Peppers": ["Californication", "Under the Bridge", "Scar Tissue", "Otherside", "Can't Stop", "By the Way", "Give It Away", "Dani California", "Snow (Hey Oh)", "Soul to Squeeze"],
+    "Pearl Jam": ["Alive", "Jeremy", "Black", "Even Flow", "Last Kiss", "Daughter", "Better Man", "Yellow Ledbetter", "Rearviewmirror"],
+    "Green Day": ["Basket Case", "Boulevard of Broken Dreams", "American Idiot", "Good Riddance (Time of Your Life)", "Wake Me Up When September Ends", "When I Come Around", "Holiday", "Longview", "21 Guns", "Minority"],
+    "The Killers": ["Mr. Brightside", "Somebody Told Me", "When You Were Young", "Human", "All These Things That I've Done", "Read My Mind", "Smile Like You Mean It", "Runaways"],
+    "Linkin Park": ["In the End", "Numb", "Crawling", "Faint", "What I've Done", "Somewhere I Belong", "Breaking the Habit", "One Step Closer", "Papercut", "Bleed It Out", "Shadow of the Day"],
+    "Arctic Monkeys": ["Do I Wanna Know?", "R U Mine?", "I Bet You Look Good on the Dancefloor", "Fluorescent Adolescent", "505", "Why'd You Only Call Me When You're High?", "Brianstorm", "Arabella", "Mardy Bum", "Crying Lightning"],
+    "David Bowie": ["Heroes", "Space Oddity", "Starman", "Let's Dance", "Life on Mars?", "Changes", "Rebel Rebel", "Ashes to Ashes", "Ziggy Stardust", "China Girl", "Modern Love"],
+    "The Doors": ["Light My Fire", "Riders on the Storm", "Break On Through (To the Other Side)", "Roadhouse Blues", "People Are Strange", "The End", "L.A. Woman", "Love Her Madly", "Hello, I Love You", "Touch Me"],
+    "Eagles": ["Hotel California", "Take It Easy", "Desperado", "Life in the Fast Lane", "One of These Nights", "Lyin' Eyes", "Tequila Sunrise", "Witchy Woman", "New Kid in Town", "Heartache Tonight"],
+    "Deep Purple": ["Smoke on the Water", "Highway Star", "Child in Time", "Hush", "Perfect Strangers", "Burn", "Black Night", "Space Truckin'", "Lazy"],
+    "Black Sabbath": ["Paranoid", "Iron Man", "War Pigs", "N.I.B.", "Children of the Grave", "Sweet Leaf", "Fairies Wear Boots"],
+    "Aerosmith": ["Dream On", "I Don't Want to Miss a Thing", "Walk This Way", "Crazy", "Cryin'", "Amazing", "Sweet Emotion", "Janie's Got a Gun", "Livin' on the Edge", "Love in an Elevator"],
+    "Scorpions": ["Wind of Change", "Still Loving You", "Rock You Like a Hurricane", "Send Me an Angel", "Holiday", "No One Like You", "Big City Nights", "Always Somewhere"],
+    "Europe": ["The Final Countdown", "Carrie", "Rock the Night", "Cherokee", "Superstitious"],
+    "Van Halen": ["Jump", "Panama", "Runnin' with the Devil", "Eruption", "Hot for Teacher", "Why Can't This Be Love", "Dreams", "Ain't Talkin' 'bout Love", "Dance the Night Away", "When It's Love"],
+    "Def Leppard": ["Pour Some Sugar on Me", "Love Bites", "Photograph", "Hysteria", "Animal", "Rock of Ages", "Armageddon It", "Foolin'"],
+    "Whitesnake": ["Here I Go Again", "Is This Love", "Still of the Night", "Love Ain't No Stranger", "Fool for Your Loving"],
+    "Bruce Springsteen": ["Born in the U.S.A.", "Dancing in the Dark", "Born to Run", "Streets of Philadelphia", "The River", "Thunder Road", "Glory Days", "I'm on Fire", "Hungry Heart", "Secret Garden"],
+    "Hombres G": ["Devuélveme a mi chica", "Venecia", "Marta tiene un marcapasos", "Te quiero", "Visite nuestro bar", "Indiana", "Voy a pasármelo bien", "Temblando", "Lo noto"],
+    "Héroes del Silencio": ["Entre dos tierras", "La chispa adecuada", "Maldito duende", "Héroe de leyenda", "Avalancha", "Mar adentro", "Iberia sumergida", "Flor venenosa", "Senda", "Con nombre de guerra"],
+    "Los Prisioneros": ["El baile de los que sobran", "Tren al sur", "Muevan las industrias", "¿Quién mató a Marilyn?", "Sexo", "We Are Sudamerican Rockers", "La voz de los '80", "Por qué no se van", "Estrechez de corazón"],
+    "Nacha Pop": ["Chica de ayer", "Lucha de gigantes", "Grité una noche", "Una décima de segundo", "Agárrate a mí, María", "Relojes en la oscuridad"],
+    "La Unión": ["Lobo-hombre en París", "Sildavia", "Fueron los celos", "Vivir al este del Edén", "Más y más"],
+    "Radio Futura": ["Escuela de calor", "Enamorado de la moda juvenil", "La negra flor", "Annabel Lee", "Veneno en la piel", "Semilla negra"],
+    "Duncan Dhu": ["En algún lugar", "Cien gaviotas", "Jardín de rosas", "Esos ojos negros", "Entre salitre y sudor", "A tu lado"],
+    "Maná": ["Rayando el sol", "Oye mi amor", "Vivir sin aire", "Clavado en un bar", "En el muelle de San Blas", "Labios compartidos", "Mariposa traicionera", "Corazón espinado", "Te lloré un río", "Eres mi religión", "Me vale", "Cómo te deseo"],
+    "Café Tacvba": ["Eres", "Las flores", "La ingrata", "María", "El baile y el salón", "Chilanga banda", "Déjate caer", "Ojalá que llueva café", "Quiero ver"],
+    "Mecano": ["Hijo de la luna", "Cruz de navajas", "Me cuesta tanto olvidarte", "Mujer contra mujer", "La fuerza del destino", "Me colé en una fiesta", "Hoy no me puedo levantar", "Una rosa es una rosa", "Barco a Venus", "Aire", "Dalai Lama"],
+
+    "Gilda": ["No me arrepiento de este amor", "Fuiste", "Corazón valiente", "Se me ha perdido un corazón", "Paisaje", "Noches vacías", "Ámame suavecito", "No es mi despedida"],
+    "Rodrigo": ["Soy cordobés", "Lo mejor del amor", "Cómo le digo", "La mano de Dios", "Amor clasificado", "Y voló, voló", "Ocho cuarenta", "Fuego y pasión"],
+    "La Mona Jiménez": ["Beso a beso", "Quién se ha tomado todo el vino", "El agite"],
+    "Damas Gratis": ["Se te ve la tanga", "No te creas tan importante", "Me vas a extrañar", "El humo de mi fumanchú", "Alza las manos"],
+    "Pibes Chorros": ["Llegamos los pibes chorros", "Duraznito"],
+    "Mercedes Sosa": ["Gracias a la vida", "Alfonsina y el mar", "Todo cambia", "Canción con todos", "Como la cigarra", "Zamba para no morir", "La maza", "Volver a los 17", "Duerme negrito", "Razón de vivir"],
+    "Carlos Gardel": ["Volver", "Por una cabeza", "Mi Buenos Aires querido", "El día que me quieras", "Mano a mano", "Silencio", "Cuesta abajo", "Golondrinas", "Melodía de arrabal", "Sus ojos se cerraron", "Soledad", "Caminito", "Mi noche triste"],
+    "Astor Piazzolla": ["Libertango", "Adiós Nonino", "Oblivion", "Balada para un loco", "Verano porteño", "Invierno porteño", "Muerte del ángel", "Chiquilín de Bachín", "Fuga y misterio"],
+
+    "Michael Jackson": ["Thriller", "Billie Jean", "Beat It", "Bad", "Smooth Criminal", "Black or White", "Man in the Mirror", "Don't Stop 'Til You Get Enough", "Rock with You", "Heal the World", "You Are Not Alone", "They Don't Care About Us", "The Way You Make Me Feel", "Remember the Time", "Earth Song"],
+    "Madonna": ["Like a Virgin", "Like a Prayer", "Material Girl", "Vogue", "La isla bonita", "Papa Don't Preach", "Holiday", "Into the Groove", "Frozen", "Hung Up", "Music", "Express Yourself"],
+    "Shakira": ["Hips Don't Lie", "Whenever, Wherever", "Waka Waka", "Ojos así", "Estoy aquí", "Pies descalzos, sueños blancos", "La tortura", "Ciega, sordomuda", "Inevitable", "Loca", "Chantaje", "Te felicito", "Suerte"],
+    "ABBA": ["Dancing Queen", "Mamma Mia", "Waterloo", "Chiquitita", "Gimme! Gimme! Gimme!", "Fernando", "The Winner Takes It All", "SOS", "Money, Money, Money", "Take a Chance on Me", "Knowing Me, Knowing You", "Super Trouper"],
+    "Ricky Martin": ["Livin' la vida loca", "La copa de la vida", "María", "Vuelve", "She Bangs", "Fuego de noche, nieve de día", "Tal vez", "La mordidita", "Vente pa' ca"],
+    "Daddy Yankee": ["Gasolina", "Rompe", "Limbo", "Con calma", "Lo que pasó, pasó", "Dura", "Llamado de emergencia", "Shaky Shaky"],
+    "Bad Bunny": ["Tití me preguntó", "Dákiti", "Me porto bonito", "Callaíta", "Yo perreo sola", "Safaera", "Ojitos lindos", "Moscow Mule", "Monaco", "Vete", "Soy peor"],
+    "Karol G": ["Tusa", "Bichota", "Provenza", "Mamiii", "Si antes te hubiera conocido", "Ocean", "Mi ex tenía razón", "Contigo"],
+    "Adele": ["Hello", "Rolling in the Deep", "Someone Like You", "Set Fire to the Rain", "Skyfall", "Easy on Me", "When We Were Young", "Chasing Pavements", "Rumour Has It"],
+    "Ed Sheeran": ["Shape of You", "Perfect", "Thinking Out Loud", "Photograph", "The A Team", "Castle on the Hill", "Bad Habits", "Shivers", "Galway Girl", "I See Fire"],
+    "Taylor Swift": ["Shake It Off", "Blank Space", "Love Story", "Anti-Hero", "Bad Blood", "Cruel Summer", "You Belong with Me", "We Are Never Ever Getting Back Together", "Style", "Cardigan", "Look What You Made Me Do"],
+    "Whitney Houston": ["I Will Always Love You", "I Wanna Dance with Somebody", "Greatest Love of All", "How Will I Know", "Saving All My Love for You", "I Have Nothing", "One Moment in Time", "Run to You"],
+    "Bee Gees": ["Stayin' Alive", "How Deep Is Your Love", "Night Fever", "Tragedy", "You Should Be Dancing", "More Than a Woman", "Too Much Heaven", "Jive Talkin'", "Massachusetts"],
+    "Britney Spears": ["...Baby One More Time", "Oops!... I Did It Again", "Toxic", "Lucky", "Sometimes", "Womanizer", "Circus", "Gimme More", "I'm a Slave 4 U", "Stronger"],
+    "Lady Gaga": ["Poker Face", "Bad Romance", "Just Dance", "Alejandro", "Born This Way", "Shallow", "Paparazzi", "Telephone", "Rain on Me", "Applause", "Million Reasons"],
+    "Dua Lipa": ["Levitating", "Don't Start Now", "New Rules", "One Kiss", "Physical", "Houdini", "Dance the Night", "IDGAF", "Break My Heart", "Training Season"],
+    "The Weeknd": ["Blinding Lights", "Save Your Tears", "Starboy", "The Hills", "Can't Feel My Face", "Earned It", "Die for You", "I Feel It Coming", "Call Out My Name"],
+    "Billie Eilish": ["Bad Guy", "Ocean Eyes", "When the Party's Over", "Lovely", "Happier Than Ever", "What Was I Made For?", "Birds of a Feather", "Everything I Wanted", "Lunch"],
+    "Enrique Iglesias": ["Bailando", "Héroe", "Experiencia religiosa", "Bailamos", "Escape", "Nunca te olvidaré", "Súbeme la radio", "El perdedor", "Duele el corazón"],
+    "Alejandro Sanz": ["Corazón partío", "Amiga mía", "Y, ¿si fuera ella?", "Mi soledad y yo", "Cuando nadie me ve", "No es lo mismo", "Quisiera ser", "Looking for Paradise"],
+    "Juanes": ["La camisa negra", "A Dios le pido", "Es por ti", "Fotografía", "Me enamora", "Volverte a ver", "Nada valgo sin tu amor", "Para tu amor", "Yerbatero"],
+    "Miranda!": ["Don", "Yo te diré", "Prisionero", "Mentía", "Perfecta", "Tu misterioso alguien", "Enamorada", "Ritmo y decepción", "Fantasmas"],
+    "Tini": ["Miénteme", "Bar", "Cupido", "La triple T", "Fresa"]
+  },
+
+  "grupos": {
+    "animacion": ["m11", "m12", "m18", "m39", "m40", "m41", "pm23", "pm24", "pm25", "pm26", "pm27", "pm36", "pm37", "pm38", "pm39", "pm40", "pa12", "pa22"],
+    "ciencia_ficcion": ["m10", "m14", "m15", "m16", "m30", "m35", "m37", "pm8", "pm9", "pm30", "pm31", "pm49", "pm50"],
+    "sagas_y_superheroes": ["m17", "m38", "m46", "pm22", "pm34", "pm35", "pm51", "pm29"],
+    "accion": ["m29", "m32", "m34", "m42", "pm13", "pm41", "pm42", "pm43", "m35", "pm49"],
+    "clasicos": ["m9", "m31", "pm1", "pm2", "pm3", "pm4", "pm5", "pm6", "pm7", "pm44", "m44", "m15", "m32"],
+    "policiales_y_mafia": ["m9", "m28", "m36", "pm17", "pm18", "pm32", "pm33", "pm44", "pm45", "pm46", "pm48", "pm29"],
+    "dramas": ["m8", "m13", "pm16", "pm19", "pm20", "pm47", "m47", "m48", "pm28", "pm21", "pm52"],
+    "musicales_y_romanticas": ["m43", "m44", "m50", "pm4", "pm5", "pm7", "pm14", "pm15", "pm28", "pm52", "m49", "pm21", "m8"],
+    "familiares_80": ["m10", "m30", "m33", "m45", "pm10", "pm11", "pm12", "m42", "m43"],
+    "arg_comedias": ["m5", "m7", "m21", "m23", "m26", "m27", "pa7", "pa9", "pa11", "pa13", "pa14", "pa19", "m25", "pa22"],
+    "arg_dramas": ["m4", "m6", "m19", "m20", "m22", "pa1", "pa2", "pa6", "pa8", "pa10", "pa16", "pa17", "pa18", "pa20", "pa21", "m25"],
+    "arg_policiales": ["m1", "m2", "m3", "m24", "pa3", "pa4", "pa5", "pa15", "pa6"],
+
+    "series_arg_comedias": ["v5", "v19", "v36", "v37", "v23", "ps33", "ps38", "ps39", "ps35", "ps37", "ps36", "v3"],
+    "series_arg_juveniles": ["v20", "v21", "v22", "ps31", "ps32", "ps38"],
+    "series_arg_dramas": ["v3", "v4", "v11", "ps34", "ps40", "ps41", "ps36"],
+    "sitcoms": ["v2", "v7", "v12", "v13", "v29", "v30", "ps4", "ps13", "ps27", "ps28", "ps29", "ps12"],
+    "animadas": ["v14", "ps45", "ps18", "ps46"],
+    "series_clasicas": ["ps18", "ps19", "ps20", "ps21", "v24", "ps22", "ps23", "ps24", "ps25"],
+    "series_drama": ["v1", "v6", "v9", "v15", "v16", "v25", "v28", "v34", "ps1", "ps11", "ps10", "ps6", "ps16", "ps5", "v27", "v18", "v26", "ps43"],
+    "series_juveniles": ["ps7", "ps8", "ps14", "ps15", "ps26", "ps30", "ps17", "ps42", "ps2", "ps9", "v35"],
+    "series_misterio_y_ciencia_ficcion": ["v8", "v10", "v17", "ps3", "ps47", "ps43", "ps44", "v33", "v32", "ps5", "v31"]
+  }
+}

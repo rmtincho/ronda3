@@ -1,0 +1,302 @@
+{
+  "movies": [
+    { "id": "pm1", "kind": "movie", "answer": "Casablanca", "year": 1942,
+      "hint": "Bogart, Ingrid Bergman, un bar en Marruecos durante la guerra y «Tócala otra vez, Sam» (que en realidad nunca se dice así).",
+      "characters": [
+        { "prompt": "En «Casablanca», ¿cómo se llama el dueño del bar que interpreta Humphrey Bogart?", "answer": "Rick Blaine", "aliases": ["Rick"] },
+        { "prompt": "En «Casablanca», ¿cómo se llama el personaje de Ingrid Bergman?", "answer": "Ilsa Lund", "aliases": ["Ilsa"] }
+      ] },
+    { "id": "pm2", "kind": "movie", "answer": "El mago de Oz", "year": 1939,
+      "hint": "Una nena de Kansas, un tornado, zapatos de rubí y un camino de baldosas amarillas.",
+      "characters": [
+        { "prompt": "En «El mago de Oz», ¿cómo se llama la nena que interpreta Judy Garland?", "answer": "Dorothy Gale", "aliases": ["Dorothy"] }
+      ] },
+    { "id": "pm3", "kind": "movie", "answer": "Psicosis", "year": 1960,
+      "hint": "Hitchcock, un motel al costado de la ruta y la escena de la ducha más famosa del cine.",
+      "characters": [
+        { "prompt": "En «Psicosis», ¿cómo se llama el dueño del motel?", "answer": "Norman Bates", "aliases": ["Norman"] }
+      ] },
+    { "id": "pm4", "kind": "movie", "answer": "Cantando bajo la lluvia", "year": 1952,
+      "hint": "Gene Kelly baila colgado de un farol, con paraguas, en plena tormenta. El cine mudo se pasa al sonoro." },
+    { "id": "pm5", "kind": "movie", "answer": "La novicia rebelde", "year": 1965,
+      "hint": "Julie Andrews, una monja aprendiz que cuida a los siete hijos de un capitán austríaco y les enseña «Do-Re-Mi».",
+      "characters": [
+        { "prompt": "En «La novicia rebelde», ¿cómo se apellida el capitán viudo con siete hijos?", "answer": "Von Trapp", "aliases": ["Georg von Trapp", "Capitán von Trapp"] }
+      ] },
+    { "id": "pm6", "kind": "movie", "answer": "El exorcista", "year": 1973,
+      "hint": "Una nena poseída, una cabeza que gira y dos curas en Washington. Terror puro de los 70.",
+      "characters": [
+        { "prompt": "En «El exorcista», ¿cómo se llama la nena poseída?", "answer": "Regan MacNeil", "aliases": ["Regan"] }
+      ] },
+    { "id": "pm7", "kind": "movie", "answer": "Fiebre de sábado por la noche", "year": 1977,
+      "hint": "John Travolta de traje blanco en una pista que se ilumina, con los Bee Gees de fondo.",
+      "characters": [
+        { "prompt": "En «Fiebre de sábado por la noche», ¿cómo se llama el bailarín que interpreta John Travolta?", "answer": "Tony Manero", "aliases": ["Tony"] }
+      ] },
+    { "id": "pm8", "kind": "movie", "answer": "Alien, el octavo pasajero", "aliases": ["Alien"], "year": 1979,
+      "hint": "Ridley Scott, una nave de carga y una criatura que sale del pecho de un tripulante. «En el espacio nadie puede oír tus gritos».",
+      "characters": [
+        { "prompt": "En «Alien, el octavo pasajero», ¿cómo se llama la oficial que interpreta Sigourney Weaver?", "answer": "Ellen Ripley", "aliases": ["Ripley"] }
+      ] },
+    { "id": "pm9", "kind": "movie", "answer": "Blade Runner", "year": 1982,
+      "hint": "Harrison Ford persigue androides en un Los Ángeles lluvioso del futuro. «Lágrimas en la lluvia».",
+      "characters": [
+        { "prompt": "En «Blade Runner», ¿cómo se llama el cazador de replicantes que interpreta Harrison Ford?", "answer": "Rick Deckard", "aliases": ["Deckard"] }
+      ] },
+    { "id": "pm10", "kind": "movie", "answer": "Los Goonies", "year": 1985,
+      "hint": "Una banda de chicos busca el tesoro del pirata Willy el Tuerto para salvar su barrio.",
+      "characters": [
+        { "prompt": "En «Los Goonies», ¿cómo se llama el grandote deforme que se hace amigo de Gordi?", "answer": "Sloth", "aliases": ["Sloth Fratelli"] }
+      ] },
+    { "id": "pm11", "kind": "movie", "answer": "Gremlins", "year": 1984,
+      "hint": "Una mascota adorable con tres reglas: no mojarla, no exponerla a la luz y no darle de comer después de medianoche.",
+      "characters": [
+        { "prompt": "En «Gremlins», ¿cómo se llama el mogwai bueno?", "answer": "Gizmo" }
+      ] },
+    { "id": "pm12", "kind": "movie", "answer": "Karate Kid", "year": 1984,
+      "hint": "«Dar cera, pulir cera»: un chico aprende artes marciales de un portero japonés.",
+      "characters": [
+        { "prompt": "En «Karate Kid», ¿cómo se llama el maestro japonés?", "answer": "Señor Miyagi", "aliases": ["Miyagi", "Sr. Miyagi"] },
+        { "prompt": "En «Karate Kid», ¿cómo se llama el alumno que interpreta Ralph Macchio?", "answer": "Daniel LaRusso", "aliases": ["Daniel"] }
+      ] },
+    { "id": "pm13", "kind": "movie", "answer": "Duro de matar", "year": 1988,
+      "hint": "Bruce Willis, descalzo y en musculosa, contra terroristas en un rascacielos durante una fiesta de Navidad.",
+      "characters": [
+        { "prompt": "En «Duro de matar», ¿cómo se llama el policía que interpreta Bruce Willis?", "answer": "John McClane", "aliases": ["McClane"] },
+        { "prompt": "En «Duro de matar», ¿cómo se llama el villano que interpreta Alan Rickman?", "answer": "Hans Gruber", "aliases": ["Gruber"] }
+      ] },
+    { "id": "pm14", "kind": "movie", "answer": "Mujer bonita", "year": 1990,
+      "hint": "Julia Roberts y Richard Gere: un empresario millonario contrata a una chica de Hollywood Boulevard por una semana.",
+      "characters": [
+        { "prompt": "En «Mujer bonita», ¿cómo se llama el personaje de Julia Roberts?", "answer": "Vivian Ward", "aliases": ["Vivian"] },
+        { "prompt": "En «Mujer bonita», ¿cómo se llama el empresario que interpreta Richard Gere?", "answer": "Edward Lewis", "aliases": ["Edward"] }
+      ] },
+    { "id": "pm15", "kind": "movie", "answer": "Ghost, la sombra del amor", "aliases": ["Ghost"], "year": 1990,
+      "hint": "Patrick Swayze, Demi Moore, un torno de cerámica y Whoopi Goldberg como médium.",
+      "characters": [
+        { "prompt": "En «Ghost, la sombra del amor», ¿cómo se llama la médium que interpreta Whoopi Goldberg?", "answer": "Oda Mae Brown", "aliases": ["Oda Mae"] }
+      ] },
+    { "id": "pm16", "kind": "movie", "answer": "Sueños de libertad", "aliases": ["The Shawshank Redemption", "Sueños de fuga"], "year": 1994,
+      "hint": "Un banquero condenado injustamente pasa casi veinte años en la cárcel cavando con un martillito detrás de un póster.",
+      "characters": [
+        { "prompt": "En «Sueños de libertad», ¿cómo se llama el banquero preso que interpreta Tim Robbins?", "answer": "Andy Dufresne", "aliases": ["Andy"] }
+      ] },
+    { "id": "pm17", "kind": "movie", "answer": "El club de la pelea", "aliases": ["Fight Club"], "year": 1999,
+      "hint": "Primera regla: no se habla de él. Brad Pitt, Edward Norton y peleas en un sótano.",
+      "characters": [
+        { "prompt": "En «El club de la pelea», ¿cómo se llama el vendedor de jabón que interpreta Brad Pitt?", "answer": "Tyler Durden", "aliases": ["Tyler"] }
+      ] },
+    { "id": "pm18", "kind": "movie", "answer": "Sexto sentido", "aliases": ["El sexto sentido"], "year": 1999,
+      "hint": "Un nene le confiesa a Bruce Willis: «En ocasiones veo muertos»." },
+    { "id": "pm19", "kind": "movie", "answer": "Rescatando al soldado Ryan", "year": 1998,
+      "hint": "Spielberg arranca con el desembarco de Normandía y Tom Hanks sale a buscar a un paracaidista." },
+    { "id": "pm20", "kind": "movie", "answer": "La vida es bella", "year": 1997,
+      "hint": "Roberto Benigni convence a su hijo de que el campo de concentración es un juego para ganar un tanque.",
+      "characters": [
+        { "prompt": "En «La vida es bella», ¿cómo se llama el padre que interpreta Roberto Benigni?", "answer": "Guido Orefice", "aliases": ["Guido"] }
+      ] },
+    { "id": "pm21", "kind": "movie", "answer": "Amélie", "aliases": ["Amelie", "El fabuloso destino de Amélie Poulain"], "year": 2001,
+      "hint": "Una moza de Montmartre decide arreglar en secreto la vida de los demás. París, en verde y rojo." },
+    { "id": "pm22", "kind": "movie", "answer": "Piratas del Caribe: la maldición del Perla Negra", "aliases": ["Piratas del Caribe"], "year": 2003,
+      "hint": "Johnny Depp, un capitán borrachín, y una tripulación maldita que se vuelve esqueleto a la luz de la luna.",
+      "characters": [
+        { "prompt": "En «Piratas del Caribe», ¿cómo se llama el herrero que interpreta Orlando Bloom?", "answer": "Will Turner", "aliases": ["Will"] },
+        { "prompt": "En «Piratas del Caribe», ¿cómo se llama la hija del gobernador que interpreta Keira Knightley?", "answer": "Elizabeth Swann", "aliases": ["Elizabeth"] }
+      ] },
+    { "id": "pm23", "kind": "movie", "answer": "Mi villano favorito", "year": 2010,
+      "hint": "Un malvado quiere robar la Luna, pero adopta a tres nenas. Debut de los Minions.",
+      "characters": [
+        { "prompt": "En «Mi villano favorito», ¿cómo se llama el villano protagonista?", "answer": "Gru" }
+      ] },
+    { "id": "pm24", "kind": "movie", "answer": "Up: una aventura de altura", "aliases": ["Up"], "year": 2009,
+      "hint": "Un viudo cascarrabias ata miles de globos a su casa y se va volando a Sudamérica con un scout de colado.",
+      "characters": [
+        { "prompt": "En «Up», ¿cómo se llama el viejito protagonista?", "answer": "Carl Fredricksen", "aliases": ["Carl"] },
+        { "prompt": "En «Up», ¿cómo se llama el perro que habla con un collar?", "answer": "Dug" }
+      ] },
+    { "id": "pm25", "kind": "movie", "answer": "Los increíbles", "year": 2004,
+      "hint": "Una familia de superhéroes retirados tiene que volver a la acción. «¡Nada de capas!»",
+      "characters": [
+        { "prompt": "En «Los increíbles», ¿cómo se llama la diseñadora de trajes bajita y de anteojos?", "answer": "Edna Moda", "aliases": ["Edna"] }
+      ] },
+    { "id": "pm26", "kind": "movie", "answer": "Monsters, Inc.", "aliases": ["Monsters Inc"], "year": 2001,
+      "hint": "Una fábrica que produce energía con los gritos de los chicos, hasta que una nena se cuela en el mundo de los monstruos.",
+      "characters": [
+        { "prompt": "En «Monsters, Inc.», ¿cómo se llama el monstruo verde de un solo ojo?", "answer": "Mike Wazowski", "aliases": ["Mike"] },
+        { "prompt": "En «Monsters, Inc.», ¿cómo se llama la nena que entra al mundo de los monstruos?", "answer": "Boo" }
+      ] },
+    { "id": "pm27", "kind": "movie", "answer": "WALL·E", "aliases": ["Wall-E", "WALL-E"], "year": 2008,
+      "hint": "Un robot que compacta basura en una Tierra abandonada se enamora de una robot exploradora llamada EVA." },
+    { "id": "pm28", "kind": "movie", "answer": "La La Land", "year": 2016,
+      "hint": "Una actriz y un pianista de jazz se enamoran en Los Ángeles. Emma Stone y Ryan Gosling bailan sobre la ciudad.",
+      "characters": [
+        { "prompt": "En «La La Land», ¿cómo se llama el pianista de jazz que interpreta Ryan Gosling?", "answer": "Sebastian Wilder", "aliases": ["Sebastian", "Seb"] }
+      ] },
+    { "id": "pm29", "kind": "movie", "answer": "Guasón", "aliases": ["Joker"], "year": 2019,
+      "hint": "Joaquin Phoenix, un comediante fracasado que baila en unas escaleras del Bronx con traje rojo.",
+      "characters": [
+        { "prompt": "En «Guasón» (2019), ¿cuál es el nombre real del protagonista?", "answer": "Arthur Fleck", "aliases": ["Arthur"] }
+      ] },
+    { "id": "pm30", "kind": "movie", "answer": "El origen", "aliases": ["Inception"], "year": 2010,
+      "hint": "Christopher Nolan: ladrones que se meten en los sueños de otros. Un trompo que gira al final.",
+      "characters": [
+        { "prompt": "En «El origen», ¿cómo se llama el ladrón de sueños que interpreta Leonardo DiCaprio?", "answer": "Dom Cobb", "aliases": ["Cobb"] }
+      ] },
+    { "id": "pm31", "kind": "movie", "answer": "Interestelar", "aliases": ["Interstellar"], "year": 2014,
+      "hint": "Christopher Nolan: un piloto deja a su hija para buscar otro planeta a través de un agujero de gusano.",
+      "characters": [
+        { "prompt": "En «Interestelar», ¿cómo se llama la hija del protagonista?", "answer": "Murph", "aliases": ["Murphy Cooper", "Murphy"] }
+      ] },
+    { "id": "pm32", "kind": "movie", "answer": "Kill Bill", "aliases": ["Kill Bill: Volumen 1", "Kill Bill Vol. 1"], "year": 2003,
+      "hint": "Tarantino: Uma Thurman en mono amarillo y con katana busca venganza contra su ex jefe.",
+      "characters": [
+        { "prompt": "En «Kill Bill», ¿cómo le dicen a la protagonista que interpreta Uma Thurman?", "answer": "La Novia", "aliases": ["Beatrix Kiddo", "Black Mamba"] }
+      ] },
+    { "id": "pm33", "kind": "movie", "answer": "El lobo de Wall Street", "year": 2013,
+      "hint": "Scorsese y DiCaprio: un corredor de bolsa estafador, drogas, yates y un discurso con micrófono.",
+      "characters": [
+        { "prompt": "En «El lobo de Wall Street», ¿cómo se llama el corredor de bolsa que interpreta DiCaprio?", "answer": "Jordan Belfort", "aliases": ["Jordan"] }
+      ] },
+    { "id": "pm34", "kind": "movie", "answer": "Los juegos del hambre", "year": 2012,
+      "hint": "Jennifer Lawrence se ofrece como tributo en lugar de su hermana en un reality a muerte.",
+      "characters": [
+        { "prompt": "En «Los juegos del hambre», ¿cómo se llama la protagonista?", "answer": "Katniss Everdeen", "aliases": ["Katniss"] }
+      ] },
+    { "id": "pm35", "kind": "movie", "answer": "Crepúsculo", "aliases": ["Crepusculo", "Twilight"], "year": 2008,
+      "hint": "Una chica se muda a un pueblo lluvioso y se enamora de un vampiro que brilla al sol.",
+      "characters": [
+        { "prompt": "En «Crepúsculo», ¿cómo se llama el vampiro que interpreta Robert Pattinson?", "answer": "Edward Cullen", "aliases": ["Edward"] },
+        { "prompt": "En «Crepúsculo», ¿cómo se llama la protagonista que interpreta Kristen Stewart?", "answer": "Bella Swan", "aliases": ["Bella"] }
+      ] },
+    { "id": "pm36", "kind": "movie", "answer": "Aladdín", "aliases": ["Aladdin"], "year": 1992,
+      "hint": "Disney: un ladronzuelo de Agrabah, un mono, una alfombra voladora y un genio con la voz de Robin Williams.",
+      "characters": [
+        { "prompt": "En «Aladdín», ¿cómo se llama el visir malvado?", "answer": "Jafar" },
+        { "prompt": "En «Aladdín», ¿cómo se llama el mono?", "answer": "Abú", "aliases": ["Abu"] }
+      ] },
+    { "id": "pm37", "kind": "movie", "answer": "La sirenita", "year": 1989,
+      "hint": "Disney: una princesa del mar cambia su voz por un par de piernas. «Bajo el mar»…",
+      "characters": [
+        { "prompt": "En «La sirenita», ¿cómo se llama el cangrejo consejero del rey?", "answer": "Sebastián", "aliases": ["Sebastian"] },
+        { "prompt": "En «La sirenita», ¿cómo se llama la bruja del mar?", "answer": "Úrsula", "aliases": ["Ursula"] }
+      ] },
+    { "id": "pm38", "kind": "movie", "answer": "La bella y la bestia", "year": 1991,
+      "hint": "Disney: una chica que ama los libros queda encerrada en un castillo con un príncipe hechizado y una rosa.",
+      "characters": [
+        { "prompt": "En «La bella y la bestia», ¿cómo se llama el candelabro del castillo?", "answer": "Lumière", "aliases": ["Lumiere"] },
+        { "prompt": "En «La bella y la bestia», ¿cómo se llama el cazador presumido que quiere casarse con Bella?", "answer": "Gastón", "aliases": ["Gaston"] }
+      ] },
+    { "id": "pm39", "kind": "movie", "answer": "Ratatouille", "year": 2007,
+      "hint": "Pixar: una rata que sueña con ser chef en París cocina escondida bajo el gorro de un ayudante.",
+      "characters": [
+        { "prompt": "En «Ratatouille», ¿cómo se llama la rata cocinera?", "answer": "Remy" }
+      ] },
+    { "id": "pm40", "kind": "movie", "answer": "Encanto", "year": 2021,
+      "hint": "Disney: una familia colombiana con poderes mágicos y la única de los nietos que no recibió ninguno. «No se habla de Bruno».",
+      "characters": [
+        { "prompt": "En «Encanto», ¿cómo se llama la protagonista sin poderes?", "answer": "Mirabel Madrigal", "aliases": ["Mirabel"] }
+      ] },
+    { "id": "pm41", "kind": "movie", "answer": "Rápido y furioso", "aliases": ["The Fast and the Furious", "Rapido y furioso"], "year": 2001,
+      "hint": "Vin Diesel, picadas callejeras en Los Ángeles y un policía infiltrado que se hace parte de la «familia».",
+      "characters": [
+        { "prompt": "En «Rápido y furioso», ¿cómo se llama el personaje de Vin Diesel?", "answer": "Dominic Toretto", "aliases": ["Dom Toretto", "Toretto"] }
+      ] },
+    { "id": "pm42", "kind": "movie", "answer": "Misión imposible", "aliases": ["Mission: Impossible", "Mision imposible"], "year": 1996,
+      "hint": "Tom Cruise colgado de cables en una bóveda de la CIA. «Este mensaje se autodestruirá».",
+      "characters": [
+        { "prompt": "En «Misión imposible», ¿cómo se llama el agente que interpreta Tom Cruise?", "answer": "Ethan Hunt", "aliases": ["Ethan"] }
+      ] },
+    { "id": "pm43", "kind": "movie", "answer": "Rambo", "aliases": ["First Blood", "Rambo: acorralado"], "year": 1982,
+      "hint": "Stallone, un veterano de Vietnam maltratado por el sheriff de un pueblo, sobrevive en el bosque con un cuchillo." },
+    { "id": "pm44", "kind": "movie", "answer": "Taxi Driver", "year": 1976,
+      "hint": "Scorsese y De Niro: un taxista insomne de Nueva York. «¿Me hablás a mí?»",
+      "characters": [
+        { "prompt": "En «Taxi Driver», ¿cómo se llama el taxista que interpreta Robert De Niro?", "answer": "Travis Bickle", "aliases": ["Travis"] }
+      ] },
+    { "id": "pm45", "kind": "movie", "answer": "Caracortada", "aliases": ["Scarface", "Cara cortada"], "year": 1983,
+      "hint": "Al Pacino, un inmigrante cubano que se vuelve narco en Miami. «Say hello to my little friend».",
+      "characters": [
+        { "prompt": "En «Caracortada», ¿cómo se llama el narco que interpreta Al Pacino?", "answer": "Tony Montana", "aliases": ["Tony"] }
+      ] },
+    { "id": "pm46", "kind": "movie", "answer": "Buenos muchachos", "aliases": ["Goodfellas"], "year": 1990,
+      "hint": "Scorsese: «Desde que tengo memoria, siempre quise ser gánster». Ray Liotta, De Niro y Joe Pesci.",
+      "characters": [
+        { "prompt": "En «Buenos muchachos», ¿cómo se llama el protagonista que interpreta Ray Liotta?", "answer": "Henry Hill", "aliases": ["Henry"] }
+      ] },
+    { "id": "pm47", "kind": "movie", "answer": "Náufrago", "aliases": ["Naufrago", "Cast Away"], "year": 2000,
+      "hint": "Tom Hanks, empleado de FedEx, queda varado en una isla desierta y se hace amigo de una pelota de vóley.",
+      "characters": [
+        { "prompt": "En «Náufrago», ¿cómo se llama la pelota de vóley que acompaña a Tom Hanks?", "answer": "Wilson" }
+      ] },
+    { "id": "pm48", "kind": "movie", "answer": "Atrápame si puedes", "aliases": ["Atrapame si puedes", "Catch Me If You Can"], "year": 2002,
+      "hint": "DiCaprio se hace pasar por piloto, médico y abogado mientras Tom Hanks lo persigue. Historia real.",
+      "characters": [
+        { "prompt": "En «Atrápame si puedes», ¿cómo se llama el falsificador que interpreta DiCaprio?", "answer": "Frank Abagnale", "aliases": ["Frank"] }
+      ] },
+    { "id": "pm49", "kind": "movie", "answer": "Mad Max: furia en el camino", "aliases": ["Mad Max: Fury Road", "Mad Max"], "year": 2015,
+      "hint": "Una persecución de dos horas por el desierto, con un guitarrista que escupe fuego arriba de un camión.",
+      "characters": [
+        { "prompt": "En «Mad Max: furia en el camino», ¿cómo se llama la guerrera que interpreta Charlize Theron?", "answer": "Furiosa" }
+      ] },
+    { "id": "pm50", "kind": "movie", "answer": "Duna", "aliases": ["Dune"], "year": 2021,
+      "hint": "Denis Villeneuve: un joven noble llega a un planeta desértico con gusanos gigantes y una especia valiosísima.",
+      "characters": [
+        { "prompt": "En «Duna», ¿cómo se llama el protagonista que interpreta Timothée Chalamet?", "answer": "Paul Atreides", "aliases": ["Paul"] }
+      ] },
+    { "id": "pm51", "kind": "movie", "answer": "Avengers: Endgame", "aliases": ["Endgame", "Vengadores: Endgame"], "year": 2019,
+      "hint": "Marvel: los héroes que quedaron viajan en el tiempo para deshacer el chasquido de Thanos." },
+    { "id": "pm52", "kind": "movie", "answer": "Bohemian Rhapsody", "year": 2018,
+      "hint": "Rami Malek gana el Oscar con dientes postizos, recreando el Live Aid de 1985." },
+
+    { "id": "pa1", "kind": "movie", "answer": "La tregua", "year": 1974, "tags": ["argentina"],
+      "hint": "Sergio Renán adapta a Benedetti: un viudo a punto de jubilarse se enamora de una compañera joven. Primera argentina nominada al Oscar." },
+    { "id": "pa2", "kind": "movie", "answer": "Mundo grúa", "year": 1999, "tags": ["argentina"],
+      "hint": "Pablo Trapero, en blanco y negro: un ex bajista de rock busca trabajo como operario de una máquina de obra." },
+    { "id": "pa3", "kind": "movie", "answer": "Pizza, birra, faso", "year": 1998, "tags": ["argentina"],
+      "hint": "Caetano y Stagnaro: pibes que viven de changas y robos en Buenos Aires, con una escena memorable adentro del Obelisco." },
+    { "id": "pa4", "kind": "movie", "answer": "El aura", "year": 2005, "tags": ["argentina"],
+      "hint": "Fabián Bielinsky, su última peli: Darín es un taxidermista epiléptico que planea un robo perfecto en el sur." },
+    { "id": "pa5", "kind": "movie", "answer": "Carancho", "year": 2010, "tags": ["argentina"],
+      "hint": "Trapero: Darín es un abogado que vive de los accidentes de tránsito; Martina Gusmán, una médica de guardia." },
+    { "id": "pa6", "kind": "movie", "answer": "Elefante blanco", "year": 2012, "tags": ["argentina"],
+      "hint": "Trapero: dos curas trabajan en una villa porteña al lado de un hospital gigante que nunca se terminó." },
+    { "id": "pa7", "kind": "movie", "answer": "La odisea de los giles", "year": 2019, "tags": ["argentina"],
+      "hint": "Un pueblo bonaerense pierde sus ahorros en el corralito de 2001 y los vecinos planean recuperarlos.",
+      "characters": [
+        { "prompt": "En «La odisea de los giles», ¿cómo se llama el ex futbolista que interpreta Ricardo Darín?", "answer": "Fermín Perlassi", "aliases": ["Perlassi", "Fermín"] }
+      ] },
+    { "id": "pa8", "kind": "movie", "answer": "La noche de los lápices", "year": 1986, "tags": ["argentina"],
+      "hint": "Héctor Olivera: estudiantes secundarios de La Plata secuestrados en 1976 por pedir el boleto estudiantil." },
+    { "id": "pa9", "kind": "movie", "answer": "Valentín", "year": 2002, "tags": ["argentina"],
+      "hint": "Alejandro Agresti: un chico de 9 años que vive con su abuela en los 60 quiere ser astronauta." },
+    { "id": "pa10", "kind": "movie", "answer": "Kamchatka", "year": 2002, "tags": ["argentina"],
+      "hint": "Marcelo Piñeyro: una familia se esconde en una quinta en 1976; el nene juega al TEG y elige siempre la misma región." },
+    { "id": "pa11", "kind": "movie", "answer": "Luna de Avellaneda", "year": 2004, "tags": ["argentina"],
+      "hint": "Campanella: Darín y Mercedes Morán intentan salvar un club de barrio del sur del conurbano." },
+    { "id": "pa12", "kind": "movie", "answer": "Metegol", "year": 2013, "tags": ["argentina"],
+      "hint": "Campanella, animada: los muñequitos de un futbolín cobran vida para ayudar a un pibe de pueblo." },
+    { "id": "pa13", "kind": "movie", "answer": "Corazón de león", "year": 2013, "tags": ["argentina"],
+      "hint": "Francella mide 1,36 m y Julieta Díaz se enamora de él después de que le devuelve un celular perdido." },
+    { "id": "pa14", "kind": "movie", "answer": "Papeles en el viento", "year": 2015, "tags": ["argentina"],
+      "hint": "Basada en Sacheri: tres amigos tratan de vender a un jugador de fútbol para mantener a la hija del amigo que murió." },
+    { "id": "pa15", "kind": "movie", "answer": "El robo del siglo", "year": 2020, "tags": ["argentina"],
+      "hint": "Ariel Winograd: el asalto al Banco Río de Acassuso en 2006. «En barrio de ricachones, sin armas ni rencores…»",
+      "characters": [
+        { "prompt": "En «El robo del siglo», ¿cómo se llama el ladrón artista que interpreta Diego Peretti?", "answer": "Fernando Araujo", "aliases": ["Araujo"] }
+      ] },
+    { "id": "pa16", "kind": "movie", "answer": "Granizo", "year": 2022, "tags": ["argentina"],
+      "hint": "Netflix: Francella es un meteorólogo estrella de la tele que no anticipa una tormenta fuertísima en Buenos Aires." },
+    { "id": "pa17", "kind": "movie", "answer": "Hombre mirando al sudeste", "year": 1986, "tags": ["argentina"],
+      "hint": "Eliseo Subiela: un hombre aparece en un neuropsiquiátrico y dice venir de otro planeta. Mira siempre hacia el mismo punto cardinal." },
+    { "id": "pa18", "kind": "movie", "answer": "Tango feroz", "aliases": ["Tango feroz: la leyenda de Tanguito"], "year": 1993, "tags": ["argentina"],
+      "hint": "Marcelo Piñeyro: la vida de Tanguito, el músico de los comienzos del rock nacional. Fernán Mirás y Cecilia Dopazo." },
+    { "id": "pa19", "kind": "movie", "answer": "Caballos salvajes", "year": 1995, "tags": ["argentina"],
+      "hint": "Piñeyro: Héctor Alterio, un viejo anarquista, y Leonardo Sbaraglia escapan al sur con plata robada a una financiera." },
+    { "id": "pa20", "kind": "movie", "answer": "Un lugar en el mundo", "year": 1992, "tags": ["argentina"],
+      "hint": "Adolfo Aristarain: Federico Luppi y Cecilia Roth en un pueblito de San Luis; un chico recuerda su infancia." },
+    { "id": "pa21", "kind": "movie", "answer": "Puan", "year": 2023, "tags": ["argentina"],
+      "hint": "María Alché y Benjamín Naishtat: un profesor de filosofía de la UBA compite por una cátedra con un colega canchero. Marcelo Subiotto y Leonardo Sbaraglia." },
+    { "id": "pa22", "kind": "movie", "answer": "Dibu: la película", "aliases": ["Dibu"], "year": 1997, "tags": ["argentina"],
+      "hint": "El dibujito animado que vivía con una familia de carne y hueso en la tele salta a la pantalla grande." }
+  ]
+}

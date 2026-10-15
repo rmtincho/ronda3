@@ -1,0 +1,6 @@
+node_modules/
+data/history.json
+data/audio/*
+!data/audio/LEEME.md
+data/images/*
+!data/images/LEEME.md
