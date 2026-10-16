@@ -297,6 +297,8 @@
     if (p.joinUrl) {
       state.joinUrl = p.joinUrl;
       $('#joinUrl').textContent = p.joinUrl.replace(/^https?:\/\//, '');
+      // Online no hace falta estar en la misma Wi-Fi.
+      $('#joinStep1').textContent = p.joinUrl.startsWith('https:') ? 'Abrí la cámara del celu' : 'Conectate a la Wi-Fi de la casa';
     }
     if (p.qrDataUrl) $('#qr').src = p.qrDataUrl;
     if (state.roomCode) {
@@ -396,20 +398,20 @@
     if (selection.mode !== CUSTOM_MODE && !catalog.modes.some((m) => m.id === selection.mode)) {
       selection.mode = catalog.modes[0]?.id || 'todo';
     }
-    const card = (id, emoji, name, detail, count) => h('button', {
+    const card = (id, emoji, name, count) => h('button', {
       class: `mode-card ${selection.mode === id ? 'on' : ''}`.trim(),
-      title: detail || name,
+      title: name,
       disabled: count === 0,
       onclick: () => {
         selection.mode = id;
         saveSelection();
         renderModes();
       },
-    }, h('span', { class: 'mode-emoji' }, emoji), h('span', { class: 'mode-name' }, name), h('span', { class: 'mode-count' }, detail));
+    }, h('span', { class: 'mode-emoji' }, emoji), h('span', { class: 'mode-name' }, name));
 
     $('#modeGrid').replaceChildren(
-      ...catalog.modes.map((m) => card(m.id, m.emoji, m.name, `${m.count} preguntas`, m.count)),
-      card(CUSTOM_MODE, '🎛️', 'Personalizado', 'Elegí los temas', null),
+      ...catalog.modes.map((m) => card(m.id, m.emoji, m.name, m.count)),
+      card(CUSTOM_MODE, '🎛️', 'Personalizado', null),
     );
 
     const chips = $('#topicChips');
@@ -423,7 +425,7 @@
         saveSelection();
         renderModes();
       },
-    }, `${t.emoji} ${t.label}`, h('small', null, t.count))));
+    }, `${t.emoji} ${t.label}`)));
     updateStartButton();
   }
 
