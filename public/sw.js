@@ -1,6 +1,6 @@
 // Service worker mínimo: hace instalable la app y deja abrir la pantalla de entrar aunque la red tarde.
 // Siempre va primero a la red (el juego necesita conexión); el caché es solo para emergencias.
-const CACHE = 'ronda3-v1';
+const CACHE = 'ronda3-v2';
 const SHELL = [
   '/play',
   '/shared/base.css',

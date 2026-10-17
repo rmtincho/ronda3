@@ -3,7 +3,7 @@ const path = require('path');
 const express = require('express');
 const { WebSocketServer } = require('ws');
 const rooms = require('./rooms');
-const { sendError } = require('./game');
+const { send, sendError } = require('./game');
 const { getLanAddress, isLocalHost } = require('./network');
 const { describeBank } = require('./questions');
 
@@ -37,6 +37,9 @@ function joinBaseFor(req) {
 
 async function handleMessage(ws, type, payload) {
   switch (type) {
+    case 'ping':
+      ws.isAlive = true;
+      return send(ws, 'pong');
     case 'tv:create': {
       ws.room?.handleDisconnect(ws);
       const room = await rooms.createRoom(ws.joinBase);

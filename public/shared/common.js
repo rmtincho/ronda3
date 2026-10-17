@@ -18,13 +18,22 @@
   }
 
   // WebSocket con reconexión automática (backoff hasta 5 s y reintento al volver a la pestaña).
+  // En el celu la conexión puede quedar "muerta" sin cerrarse (pantalla bloqueada, Wi-Fi → datos):
+  // mandamos un ping cada tanto y si el servidor no contesta, reconectamos sin esperar al sistema.
+  const PING_EVERY_MS = 8000;
+  const DEAD_AFTER_MS = 20000;
+  const PROBE_MS = 3500;
+
   function connect({ onOpen, onMessage, onStatus }) {
     let ws = null;
     let attempt = 0;
     let retryTimer = 0;
+    let probeTimer = 0;
+    let lastHeard = 0;
 
     function open() {
       clearTimeout(retryTimer);
+      clearTimeout(probeTimer);
       const protocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
       const sock = new WebSocket(`${protocol}//${location.host}/ws`);
       ws = sock;
@@ -32,12 +41,17 @@
       sock.onopen = () => {
         if (ws !== sock) return;
         attempt = 0;
+        lastHeard = Date.now();
         onStatus?.('online');
         onOpen?.();
       };
       sock.onmessage = (event) => {
+        if (ws !== sock) return;
+        lastHeard = Date.now();
+        clearTimeout(probeTimer);
         let msg;
         try { msg = JSON.parse(event.data); } catch { return; }
+        if (msg.type === 'pong') return;
         const payload = msg.payload || {};
         clock.sync(payload.serverNow);
         onMessage?.(msg.type, payload);
@@ -50,12 +64,41 @@
       };
     }
 
+    // Abandona el socket actual (sin esperar a que el sistema lo cierre) y abre uno nuevo ya.
+    function reopen() {
+      const old = ws;
+      ws = null;
+      if (old) { try { old.close(); } catch { /* ya estaba cerrado */ } }
+      attempt = 0;
+      open();
+    }
+
+    function ping() {
+      if (ws && ws.readyState === 1) ws.send('{"type":"ping"}');
+    }
+
+    // Al volver a la pantalla o a la red: si el socket parece abierto, lo probamos; si no contesta, reconectamos.
+    function check() {
+      if (!ws || ws.readyState > 1) return reopen();
+      if (ws.readyState !== 1) return undefined;
+      ping();
+      clearTimeout(probeTimer);
+      probeTimer = setTimeout(reopen, PROBE_MS);
+      return undefined;
+    }
+
+    setInterval(() => {
+      if (!ws || ws.readyState !== 1 || document.visibilityState !== 'visible') return;
+      if (Date.now() - lastHeard > DEAD_AFTER_MS) return reopen();
+      ping();
+      return undefined;
+    }, PING_EVERY_MS);
+
     document.addEventListener('visibilitychange', () => {
-      if (document.visibilityState === 'visible' && (!ws || ws.readyState > 1)) {
-        attempt = 0;
-        open();
-      }
+      if (document.visibilityState === 'visible') check();
     });
+    window.addEventListener('online', check);
+    window.addEventListener('pageshow', (e) => { if (e.persisted) check(); });
 
     open();
     return {
