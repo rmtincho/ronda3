@@ -45,11 +45,11 @@
   ],
 
   "estimates": [
-    { "id": "mx1", "topic": "musica", "subtopic": "rock_nacional", "tags": ["argentina"], "question": "¿En qué año dio Soda Stereo «El último concierto»?", "answer": 1997, "tolerance": 20, "format": "plain" },
-    { "id": "mx2", "topic": "musica", "subtopic": "rock_internacional", "question": "¿Cuántos discos de estudio grabaron los Beatles en el Reino Unido?", "answer": 13, "unit": "discos", "tolerance": 8 },
-    { "id": "mx3", "topic": "musica", "question": "¿Cuántas teclas tiene un piano estándar?", "answer": 88, "unit": "teclas", "tolerance": 40 },
-    { "id": "mx4", "topic": "musica", "subtopic": "pop_hits", "question": "¿En qué año se editó el disco «Thriller» de Michael Jackson?", "answer": 1982, "tolerance": 25, "format": "plain" },
-    { "id": "mx5", "topic": "musica", "subtopic": "rock_nacional", "tags": ["argentina"], "question": "¿En qué año salió «La balsa», de Los Gatos?", "answer": 1967, "tolerance": 25, "format": "plain" },
-    { "id": "mx6", "topic": "musica", "subtopic": "tango", "question": "¿En qué año murió Carlos Gardel?", "answer": 1935, "tolerance": 30, "format": "plain" }
+    { "id": "mxe1", "topic": "musica", "subtopic": "rock_nacional", "tags": ["argentina"], "question": "¿En qué año dio Soda Stereo «El último concierto»?", "answer": 1997, "tolerance": 20, "format": "plain" },
+    { "id": "mxe2", "topic": "musica", "subtopic": "rock_internacional", "question": "¿Cuántos discos de estudio grabaron los Beatles en el Reino Unido?", "answer": 13, "unit": "discos", "tolerance": 8 },
+    { "id": "mxe3", "topic": "musica", "question": "¿Cuántas teclas tiene un piano estándar?", "answer": 88, "unit": "teclas", "tolerance": 40 },
+    { "id": "mxe4", "topic": "musica", "subtopic": "pop_hits", "question": "¿En qué año se editó el disco «Thriller» de Michael Jackson?", "answer": 1982, "tolerance": 25, "format": "plain" },
+    { "id": "mxe5", "topic": "musica", "subtopic": "rock_nacional", "tags": ["argentina"], "question": "¿En qué año salió «La balsa», de Los Gatos?", "answer": 1967, "tolerance": 25, "format": "plain" },
+    { "id": "mxe6", "topic": "musica", "subtopic": "tango", "question": "¿En qué año murió Carlos Gardel?", "answer": 1935, "tolerance": 30, "format": "plain" }
   ]
 }

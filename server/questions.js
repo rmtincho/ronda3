@@ -416,10 +416,16 @@ function artistDecoys(song, ctx) {
 function titleDecoys(song, ctx) {
   const accepted = [song.answer, ...list(song.aliases)];
   const me = songProfile(song, ctx);
+  const sameArtist = (name) => overlapsName(name, [song.artist || '', ...list(song.artistAliases)]);
+  // Títulos que este artista también canta, aunque figuren a nombre de otro (covers): tampoco sirven de opción falsa.
+  const ownTitles = new Set([
+    ...ctx.bank.songs.filter((s) => s.artist && sameArtist(s.artist)).map((s) => normalize(s.answer)),
+    ...ctx.affinity.titlesOf.filter(({ artist }) => sameArtist(artist)).flatMap(({ titles }) => titles.map(normalize)),
+  ]);
   const candidates = [];
   const add = (title, artistName) => {
     const artistKey = normalize(artistName || '');
-    if (!artistKey || overlapsName(artistName, [song.artist || '', ...list(song.artistAliases)])) return;
+    if (!artistKey || sameArtist(artistName) || ownTitles.has(normalize(title))) return;
     const profile = ctx.artists.get(artistKey) || { scenes: new Set(), eras: new Set(), genres: new Set() };
     candidates.push({ text: title, score: musicScore(me, song, profile, profile.genres) });
   };
