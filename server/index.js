@@ -16,7 +16,7 @@ const lanAddress = getLanAddress();
 
 const app = express();
 app.disable('x-powered-by');
-app.get('/', (req, res) => res.redirect('/tv'));
+app.get('/', (req, res) => res.sendFile(path.join(PUBLIC_DIR, 'home', 'index.html')));
 app.get('/tv', (req, res) => res.sendFile(path.join(PUBLIC_DIR, 'tv', 'index.html')));
 app.get(['/play', '/play/:roomCode([A-Za-z]{4})'], (req, res) => res.sendFile(path.join(PUBLIC_DIR, 'play', 'index.html')));
 app.use('/audio', express.static(AUDIO_DIR, { fallthrough: false }));

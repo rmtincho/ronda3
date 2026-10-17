@@ -1,0 +1,18 @@
+{
+  "id": "/play",
+  "name": "Ronda3",
+  "short_name": "Ronda3",
+  "description": "Juego de preguntas para la sobremesa: el tele muestra la pregunta y cada uno responde desde su celular.",
+  "lang": "es-AR",
+  "start_url": "/play",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12082a",
+  "theme_color": "#12082a",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

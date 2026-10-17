@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#12082a">
+  <title>Ronda3 · Preguntas para la sobremesa</title>
+  <meta name="description" content="Juego de preguntas para la cena: el tele muestra la pregunta y cada uno responde desde su celular. Música, cine, fútbol, historia y más.">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon-192.png">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-title" content="Ronda3">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:wght@700;800;900&display=swap">
+  <link rel="stylesheet" href="/shared/base.css">
+  <link rel="stylesheet" href="/home/home.css">
+</head>
+<body class="home">
+  <main class="h-main">
+
+    <!-- Portada -->
+    <section class="hero">
+      <div class="logo hero-logo">RONDA<b>3</b></div>
+      <h1>El juego de preguntas para la sobremesa</h1>
+      <p class="lead">El tele muestra la pregunta, cada uno responde desde su celular. Canciones, pelis, fútbol, historia y mucho más.</p>
+
+      <div class="install" id="install">
+        <!-- Android con instalación de un toque -->
+        <div data-mode="prompt" hidden>
+          <button class="cta" id="installBtn" type="button">📲 Instalar Ronda3</button>
+          <p class="hint">Gratis, sin tienda de apps. Ocupa menos que una foto.</p>
+        </div>
+
+        <!-- iPhone -->
+        <div data-mode="ios" hidden>
+          <p class="install-title">Instalala en tu iPhone</p>
+          <ol class="steps-inline">
+            <li><span class="n">1</span> <span>Tocá <b>Compartir</b> <svg class="share-ic" viewBox="0 0 24 24" aria-label="ícono de compartir"><path d="M12 3v12M8 7l4-4 4 4" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 11H5v10h14V11h-1" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg> abajo en Safari</span></li>
+            <li><span class="n">2</span> <span>Elegí <b>Agregar a pantalla de inicio</b></span></li>
+            <li><span class="n">3</span> <span>Tocá <b>Agregar</b> y listo</span></li>
+          </ol>
+        </div>
+
+        <!-- Android sin aviso automático (Firefox, o ya lo descartaron) -->
+        <div data-mode="android" hidden>
+          <p class="install-title">Instalala en tu celu</p>
+          <ol class="steps-inline">
+            <li><span class="n">1</span> <span>Abrí el menú <b>⋮</b> del navegador</span></li>
+            <li><span class="n">2</span> <span>Elegí <b>Instalar app</b> o <b>Agregar a pantalla principal</b></span></li>
+          </ol>
+        </div>
+
+        <!-- Compu o Smart TV: acá se pone el tele -->
+        <div data-mode="desktop" hidden>
+          <a class="cta tv-cta" href="/tv">📺 Armar partida en este tele</a>
+          <p class="hint">Los jugadores entran desde el celular con el código que aparece en pantalla.</p>
+          <p class="install-title">¿Vas a jugar? Abrí esto en el celu</p>
+          <p class="url-chip" id="siteUrl"></p>
+        </div>
+
+        <!-- Ya instalada -->
+        <div data-mode="installed" hidden>
+          <p class="install-title">✅ ¡Ya tenés Ronda3 en el celu!</p>
+          <p class="hint">Buscá el ícono <img class="mini-icon" src="/icons/icon-192.png" alt=""> en tu pantalla de inicio.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Entrar a una partida -->
+    <section class="card join-now">
+      <h2>¿Ya hay partida?</h2>
+      <p class="muted">Poné las 4 letras que aparecen en el tele.</p>
+      <form id="codeForm" class="code-form" autocomplete="off">
+        <input id="codeInput" maxlength="4" autocapitalize="characters" spellcheck="false" placeholder="ABCD" aria-label="Código de sala" enterkeyhint="go">
+        <button class="cta small" type="submit">Entrar</button>
+      </form>
+      <p class="form-error" id="codeError" role="alert"></p>
+    </section>
+
+    <!-- Cómo se juega -->
+    <section class="how">
+      <h2>Cómo se juega</h2>
+      <ol class="how-steps">
+        <li>
+          <span class="big-n">1</span>
+          <div><b>Alguien pone el tele.</b> Abre Ronda3 en la compu o el Smart TV y elige el modo: todo mezclado, rock nacional, Mundiales…</div>
+        </li>
+        <li>
+          <span class="big-n">2</span>
+          <div><b>Los demás entran con el código.</b> Abren la app, ponen las 4 letras del tele y su nombre.</div>
+        </li>
+        <li>
+          <span class="big-n">3</span>
+          <div><b>¡A responder!</b> Casi todo es A, B, C o D. Cuando hay que adivinar un año o una cifra, gana el que más se acerca.</div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- Así se ve -->
+    <section class="demo" aria-label="Ejemplo de pregunta">
+      <div class="phone">
+        <p class="phone-q">¿Qué banda grabó «De música ligera»?</p>
+        <div class="phone-opts">
+          <span class="d-opt" style="--c: var(--opt-0)"><i>A</i>Los Redondos</span>
+          <span class="d-opt is-ok" style="--c: var(--opt-1)"><i>B</i>Soda Stereo</span>
+          <span class="d-opt" style="--c: var(--opt-2)"><i>C</i>Virus</span>
+          <span class="d-opt" style="--c: var(--opt-3)"><i>D</i>Los Abuelos</span>
+        </div>
+      </div>
+      <p class="demo-cap">Así se ve en tu celu: tocás y listo. Los más rápidos suman más.</p>
+    </section>
+
+    <!-- Temas -->
+    <section class="topics">
+      <h2>Más de 2000 preguntas</h2>
+      <ul class="chips">
+        <li style="--c: var(--pink)">🎵 Música</li>
+        <li style="--c: var(--cyan)">🎬 Cine y series</li>
+        <li style="--c: #3ddc84">⚽ Deportes</li>
+        <li style="--c: #ff9f43">🏛️ Historia</li>
+        <li style="--c: #4d8bff">🌎 Geografía</li>
+        <li style="--c: #c86bff">🎨 Arte y literatura</li>
+        <li style="--c: #b8f34a">🔬 Ciencia</li>
+      </ul>
+      <p class="muted">Con fragmentos de canciones y escenas de pelis que se ven en el tele.</p>
+    </section>
+
+    <footer class="h-foot">
+      <p><b>¿Vos ponés el tele?</b> Abrí <a href="/tv" id="tvLink">esta página/tv</a> en la compu conectada al tele.</p>
+      <p class="muted"><a href="/play">Jugar desde el navegador sin instalar</a></p>
+    </footer>
+  </main>
+
+  <script src="/shared/pwa.js"></script>
+  <script src="/home/home.js"></script>
+</body>
+</html>

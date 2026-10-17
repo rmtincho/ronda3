@@ -1,6 +1,6 @@
 # Ronda3 🎉
 
-Juego de preguntas para la cena. El tele muestra la mesa y cada uno juega desde su celular, entrando por el navegador. No se instala nada en los celulares.
+Juego de preguntas para la cena. El tele muestra la mesa y cada uno juega desde su celular, entrando por el navegador. Si quieren, la pueden instalar como app desde la portada (`/`), así la próxima vez solo ponen el código de 4 letras.
 
 Todo se responde con opciones **A, B, C, D**. Lo único que se escribe son cifras: estimaciones, años y temporadas.
 
@@ -24,6 +24,8 @@ Para usar otro puerto: `PORT=4000 npm start` (en PowerShell: `$env:PORT=4000; np
 En la compu conectada al tele, abrí **http://localhost:3000/tv** y poné pantalla completa con el botón ⛶ o con F11. En el lobby elegís el modo y la cantidad de rondas.
 
 ## Unirse desde el celular
+
+> **Instalar como app:** en la portada (`/`) hay un botón para instalar Ronda3 (Android) o las instrucciones para agregarla a la pantalla de inicio (iPhone). Necesita HTTPS, así que funciona con el servidor en Render, no por IP en la red de la casa. La app recuerda el nombre: en la próxima partida alcanza con poner el código.
 
 1. Conectá el celular a la **misma Wi-Fi** que la compu.
 2. Escaneá el QR del tele, o entrá a la dirección que aparece en pantalla (por ejemplo `http://192.168.0.12:3000/play/ABCD`).

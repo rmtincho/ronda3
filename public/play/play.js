@@ -6,6 +6,7 @@
   const LETTERS = ['A', 'B', 'C', 'D'];
   const pathCode = (location.pathname.match(/\/play\/([A-Za-z]{4})\/?$/) || [])[1];
   const storageKey = (code) => `ronda3:player:${code}`;
+  const LAST_NAME_KEY = 'ronda3:lastName';
 
   const state = {
     code: pathCode ? pathCode.toUpperCase() : '',
@@ -28,6 +29,8 @@
     state.name = saved.name;
     state.token = saved.token || '';
   }
+  // En una sala nueva, el nombre de la última vez ya viene puesto: solo falta el código.
+  const lastName = state.name || local.get(LAST_NAME_KEY) || '';
 
   // ---------- Conexión ----------
   const socket = connect({
@@ -51,6 +54,7 @@
       state.token = p.token;
       state.score = p.score;
       local.set(storageKey(state.code), { name: p.name, token: p.token });
+      local.set(LAST_NAME_KEY, p.name);
       renderMe();
       keepAwake();
       if (p.reconnected) toast(`¡Volviste, ${p.name}! Seguís con ${formatInt(p.score)} puntos.`);
@@ -122,7 +126,7 @@
     showScreen('screen-join');
     $('#codeField').hidden = !askCode;
     $('#codeInput').value = state.code;
-    $('#nameInput').value = state.name;
+    $('#nameInput').value = state.name || lastName;
     const error = $('#joinError');
     error.textContent = message || '';
     if (message) {
