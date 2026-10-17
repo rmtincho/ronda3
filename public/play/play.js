@@ -19,9 +19,10 @@
     question: null,
     sending: false,
     score: 0,
+    pending: null, // respuesta tocada sin señal: sale apenas vuelve la conexión
   };
   let timerFrame = 0;
-  let wakeLock = null;
+  let statusTimer = 0;
 
   // Si ya entraste antes a esta sala desde este celular, volvés solo.
   const saved = state.code ? local.get(storageKey(state.code)) : null;
@@ -37,7 +38,12 @@
     onOpen() {
       if (state.code && state.name) join();
     },
-    onStatus(status) { $('#status').dataset.state = status; },
+    onStatus(status) {
+      // Un corte de un segundo no tiene por qué asustar: el punto se pone rojo solo si dura.
+      clearTimeout(statusTimer);
+      if (status === 'online') $('#status').dataset.state = status;
+      else statusTimer = setTimeout(() => { $('#status').dataset.state = status; }, 2500);
+    },
     onMessage(type, payload) { handlers[type]?.(payload); },
   });
 
@@ -57,7 +63,9 @@
       local.set(LAST_NAME_KEY, p.name);
       renderMe();
       keepAwake();
-      if (p.reconnected) toast(`¡Volviste, ${p.name}! Seguís con ${formatInt(p.score)} puntos.`);
+      // El cartel solo al reabrir la página; las reconexiones solas durante la partida no se anuncian.
+      if (p.reconnected && !state.welcomed) toast(`¡Volviste, ${p.name}! Seguís con ${formatInt(p.score)} puntos.`);
+      state.welcomed = true;
     },
     'room:state'(p) {
       state.players = p.players || [];
@@ -68,6 +76,10 @@
         case 'intro': return showIntro(p.intro);
         case 'listening': return showListen(p.intro);
         case 'question':
+          if (!p.you?.answered && state.pending?.roundId === p.question?.roundId && state.question?.roundId === p.question?.roundId) {
+            // Tocaste justo cuando se cortó: la reenviamos y te quedás en la misma pantalla.
+            return socket.send('player:answer', state.pending);
+          }
           if (p.you?.answered) {
             state.question = p.question;
             return showSent(p.you.answer);
@@ -88,10 +100,11 @@
     'round:intro': (p) => showIntro(p),
     'round:listen': () => showListen(),
     'round:start': (p) => showQuestion(p),
-    'answer:ack': (p) => showSent(p.value),
+    'answer:ack': (p) => { state.pending = null; showSent(p.value); },
     'round:reveal': (p) => showResult(p),
     'game:over': (p) => showOver(p),
     error(p) {
+      if (['ALREADY_ANSWERED', 'ROUND_CLOSED', 'INVALID_ANSWER'].includes(p.code)) state.pending = null;
       switch (p.code) {
         case 'ROOM_NOT_FOUND':
           local.remove(storageKey(state.code));
@@ -261,10 +274,10 @@
   function submit(value) {
     if (state.sending || !state.question) return;
     setSending(true);
-    if (!socket.send('player:answer', { roundId: state.question.roundId, value })) {
-      setSending(false);
-      toast('Sin conexión… reintentá en un segundo.');
-    }
+    // Queda guardada hasta que el servidor confirme: si se corta en el medio, sale sola al reconectar.
+    state.pending = { roundId: state.question.roundId, value };
+    if (!socket.send('player:answer', state.pending)) toast('Se cortó un segundo… tu respuesta sale apenas vuelva 📶');
+    else socket.check(); // si la conexión estaba muerta sin saberlo, reconecta en segundos y la reenvía
   }
 
   function setSending(sending) {
@@ -422,18 +435,44 @@
     window.scrollTo(0, 0);
   }
 
-  // Evita que el celular se duerma en medio de la partida (solo en contextos seguros).
+  // La pantalla no se apaga en toda la partida: si se bloquea, el celu corta la conexión.
+  // Primero el bloqueo nativo (Wake Lock); si no hay o falla (iPhone viejo, app instalada en algunos iOS),
+  // un video mudo de 1 segundo en loop, que es lo que mantiene despiertos a esos navegadores.
+  let wakeLock = null;
+  let awakeVideo = null;
   async function keepAwake() {
+    if (!state.joined || document.visibilityState !== 'visible') return;
+    if (wakeLock) return;
     try {
-      if ('wakeLock' in navigator && document.visibilityState === 'visible' && !wakeLock) {
+      if ('wakeLock' in navigator) {
         wakeLock = await navigator.wakeLock.request('screen');
         wakeLock.addEventListener('release', () => { wakeLock = null; });
+        return;
       }
-    } catch { /* no disponible */ }
+    } catch { /* sin permiso o no soportado: probamos con el video */ }
+    playAwakeVideo();
+  }
+  function playAwakeVideo() {
+    if (!awakeVideo) {
+      awakeVideo = h('video', { muted: true, playsinline: true, loop: true, 'aria-hidden': 'true',
+        style: 'position:fixed;width:1px;height:1px;opacity:0;pointer-events:none;left:0;top:0' },
+      h('source', { src: '/shared/despierto.webm', type: 'video/webm' }),
+      h('source', { src: '/shared/despierto.mp4', type: 'video/mp4' }));
+      awakeVideo.muted = true;
+      awakeVideo.setAttribute('playsinline', '');
+      document.body.append(awakeVideo);
+    }
+    if (awakeVideo.paused) awakeVideo.play().catch(() => { /* necesita un toque: lo reintentamos en el próximo */ });
   }
   document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'visible' && state.joined) keepAwake();
+    if (document.visibilityState === 'visible') keepAwake();
   });
+  // Algunos navegadores solo lo permiten después de un toque: cada toque lo reafirma si se había soltado.
+  document.addEventListener('pointerdown', () => {
+    if (!state.joined) return;
+    if (awakeVideo) playAwakeVideo();
+    else keepAwake();
+  }, { passive: true });
 
   // ---------- Arranque ----------
   if (state.code && state.name) {

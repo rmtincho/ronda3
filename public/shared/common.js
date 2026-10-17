@@ -102,6 +102,7 @@
 
     open();
     return {
+      check, // para cuando importa saber ya si la conexión está viva (por ejemplo, al responder)
       send(type, payload = {}) {
         if (ws && ws.readyState === 1) {
           ws.send(JSON.stringify({ type, payload }));
