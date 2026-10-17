@@ -67,7 +67,7 @@
 
     "tango_clasico": {
       "decadas": ["10s", "20s", "30s", "40s", "50s", "70s", "80s"],
-      "artistas": ["Carlos Gardel", "Gerardo Matos Rodríguez", "Enrique Santos Discépolo", "Aníbal Troilo", "Cacho Castaña", "Mariano Mores", "Francisco Canaro", "Ángel Villoldo", "Enrique Cadícamo", "Homero Manzi", "Juan Carlos Cobián", "Osvaldo Fresedo"]
+      "artistas": ["Carlos Gardel", "Gerardo Matos Rodríguez", "Enrique Santos Discépolo", "Aníbal Troilo", "Cacho Castaña", "Mariano Mores", "Francisco Canaro", "Ángel Villoldo", "Enrique Cadícamo", "Homero Manzi", "Juan Carlos Cobián", "Osvaldo Fresedo", "Osvaldo Pugliese", "Carlos Di Sarli", "Juan D'Arienzo", "Tita Merello", "Alberto Castillo"]
     },
     "tango_nuevo": {
       "decadas": ["60s", "70s", "2000s"],
@@ -78,16 +78,20 @@
       "artistas": ["Damas Gratis", "Pibes Chorros", "Yerba Brava", "Flor de Piedra", "Mala Fama", "Supermerk2", "Meta Guacha", "Los Gedes", "Altos Cumbieros", "Repiola", "El Original", "Bizarrap y L-Gante", "L-Gante", "El Noba", "Callejero Fino", "Perro Primo"]
     },
     "cumbia_romantica": {
-      "decadas": ["90s", "2000s", "2010s"],
-      "artistas": ["Gilda", "Amar Azul", "Los Palmeras", "Antonio Ríos", "Ráfaga", "Los Hijos del Sol", "Agapornis", "Leo Mattioli", "Grupo Sombras", "Karina", "Los Charros", "Grupo Green", "Commanche", "Gladys la Bomba Tucumana", "Lía Crucet", "Ricky Maravilla", "Los Ángeles Azules", "Pibes Chorros", "Daniel Agostini", "Los del Fuego"]
+      "decadas": ["90s", "2000s", "2010s", "2020s"],
+      "artistas": ["Gilda", "Amar Azul", "Los Palmeras", "Antonio Ríos", "Ráfaga", "Los Hijos del Sol", "Agapornis", "Leo Mattioli", "Grupo Sombras", "Karina", "Los Charros", "Grupo Green", "Commanche", "Gladys la Bomba Tucumana", "Lía Crucet", "Ricky Maravilla", "Los Ángeles Azules", "Pibes Chorros", "Daniel Agostini", "Los del Fuego", "La Nueva Luna", "Ke Personajes"]
     },
     "cuarteto": {
-      "decadas": ["80s", "90s", "2000s"],
+      "decadas": ["80s", "90s", "2000s", "70s"],
       "artistas": ["La Mona Jiménez", "Rodrigo", "Walter Olmos", "Ulises Bueno", "Banda XXI", "Trulalá", "Chébere", "Sabroso", "La Barra", "Jean Carlos", "Damián Córdoba", "Gary", "Carlitos Rolán"]
+    },
+    "cuarteto_nuevo": {
+      "decadas": ["2010s", "2020s"],
+      "artistas": ["Ulises Bueno", "Q' Lokura", "La K'onga", "Luck Ra", "Dale Q' Va", "Euge Quevedo", "Damián Córdoba", "Banda XXI"]
     },
     "folklore": {
       "decadas": ["50s", "60s", "70s", "80s", "90s", "2000s"],
-      "artistas": ["Mercedes Sosa", "Atahualpa Yupanqui", "Jorge Cafrune", "Soledad Pastorutti", "Ramón Sixto Ríos", "Daniel Toro", "Los Chalchaleros", "Tránsito Cocomarola", "Ramón Ayala", "Los Manseros Santiagueños", "Abel Pintos", "Los Nocheros", "Los Fronterizos", "Horacio Guarany", "Chaqueño Palavecino", "Los Tekis", "Jorge Rojas", "Los Carabajal", "Peteco Carabajal", "Los Huayra", "Teresa Parodi", "Antonio Tormo", "Los Cantores del Alba"]
+      "artistas": ["Mercedes Sosa", "Atahualpa Yupanqui", "Jorge Cafrune", "Soledad Pastorutti", "Ramón Sixto Ríos", "Daniel Toro", "Los Chalchaleros", "Tránsito Cocomarola", "Ramón Ayala", "Los Manseros Santiagueños", "Abel Pintos", "Los Nocheros", "Los Fronterizos", "Horacio Guarany", "Chaqueño Palavecino", "Los Tekis", "Jorge Rojas", "Los Carabajal", "Peteco Carabajal", "Los Huayra", "Teresa Parodi", "Antonio Tormo", "Los Cantores del Alba", "Facundo Cabral", "Raly Barrionuevo", "Eduardo Falú"]
     }
   },
 
@@ -180,6 +184,53 @@
     "Mercedes Sosa": ["Gracias a la vida", "Alfonsina y el mar", "Todo cambia", "Canción con todos", "Como la cigarra", "Zamba para no morir", "La maza", "Volver a los 17", "Duerme negrito", "Razón de vivir"],
     "Carlos Gardel": ["Volver", "Por una cabeza", "Mi Buenos Aires querido", "El día que me quieras", "Mano a mano", "Silencio", "Cuesta abajo", "Golondrinas", "Melodía de arrabal", "Sus ojos se cerraron", "Soledad", "Caminito", "Mi noche triste"],
     "Astor Piazzolla": ["Libertango", "Adiós Nonino", "Oblivion", "Balada para un loco", "Verano porteño", "Invierno porteño", "Muerte del ángel", "Chiquilín de Bachín", "Fuga y misterio"],
+    "Osvaldo Pugliese": ["La yumba", "Recuerdo", "Gallo ciego", "Negracha"],
+    "Carlos Di Sarli": ["Bahía Blanca", "Comme il faut", "Verdemar", "Indio manso"],
+    "Juan D'Arienzo": ["Paciencia", "El flete", "Pensalo bien"],
+    "Mariano Mores": ["Taquito militar", "Tanguera", "Cuartito azul"],
+    "Tita Merello": ["Se dice de mí", "Arrabalera", "Niño bien"],
+    "Alberto Castillo": ["Así se baila el tango", "Los cien barrios porteños", "Siga el baile"],
+    "Cacho Castaña": ["Café La Humedad", "Garganta con arena", "Ojalá que no puedas", "Septiembre del 88"],
+    "Gotan Project": ["Época", "Santa María (del Buen Ayre)", "Diferente", "Queremos paz"],
+    "Francisco Canaro": ["Poema", "Milonga sentimental", "Milonga brava"],
+    "Horacio Guarany": ["Si se calla el cantor", "Volver en vino", "Puerto de Santa Cruz", "Caballo que no galopa"],
+    "Chaqueño Palavecino": ["La ley y la trampa", "Juan de la calle"],
+    "Los Nocheros": ["Entre la tierra y el cielo", "Roja boca", "Mamá, mamá"],
+    "Soledad Pastorutti": ["Brindis", "Tren del cielo", "Tengo derecho a ser feliz"],
+    "Los Tekis": ["Ay vidita", "Carnaval del norte"],
+    "Peteco Carabajal": ["A mis viejos", "Volveré a Salavina"],
+    "Abel Pintos": ["Aventura", "La llave", "Oncemil"],
+    "Teresa Parodi": ["Pedro Canoero", "Apurate José"],
+    "Antonio Tormo": ["El rancho 'e la Cambicha", "Ocultame esos ojos", "Linyera soy"],
+    "Facundo Cabral": ["Pobrecito mi patrón", "Vuele bajo"],
+    "Jorge Cafrune": ["Virgen india", "El orejano", "Zamba para decir adiós"],
+    "Los Manseros Santiagueños": ["Eterno amor", "Canto a Monte Quemado"],
+    "Raly Barrionuevo": ["Zamba de usted", "La ocasión"],
+    "Karina": ["Corazón mentiroso", "Con la misma moneda", "Sin vergüenza"],
+    "Leo Mattioli": ["Llorarás más de diez veces", "Tramposa y mentirosa", "Gata malvada"],
+    "Yerba Brava": ["La cumbia de los trapos", "Pibe cantina"],
+    "Flor de Piedra": ["Sos botón", "La cumbia de los vagos", "El pibe villero"],
+    "Los Palmeras": ["El bombón asesino", "La suavecita", "Soy sabalero", "La cola"],
+    "Antonio Ríos": ["Nunca me faltes", "Yo me estoy enamorando"],
+    "Amar Azul": ["Yo me enamoré", "Yo tomo licor", "El polvito del amor"],
+    "La Nueva Luna": ["Y ahora te vas", "Hojita seca"],
+    "Commanche": ["Tonta", "Nada le di"],
+    "Ke Personajes": ["Pobre corazón", "Adiós amor"],
+    "Los Charros": ["Amores como el nuestro", "La dominguera"],
+    "Supermerk2": ["La resaka", "La lata"],
+    "Ulises Bueno": ["Dos amantes", "Dale vieja dale", "Infiel", "Intento"],
+    "Walter Olmos": ["Adicto a ti", "Chico de la calle"],
+    "La Barra": ["Y no voy a llorar", "Te felicito", "Un millón de rosas"],
+    "Trulalá": ["Si no voy al baile me muero", "Aventurera"],
+    "Damián Córdoba": ["Te pido que la dejes", "Fuiste cobarde", "Qué tal"],
+    "Banda XXI": ["Chica sexy", "Qué bonito", "Cintura de fuego"],
+    "Jean Carlos": ["Quiéreme", "Piensa en mí", "Tú vas a volar"],
+    "Chébere": ["Aún es joven señora", "Hoy me han visto llorar", "Sueño contigo"],
+    "Q' Lokura": ["Tu foto", "Yo era", "Noche con arte"],
+    "La K'onga": ["Universo paralelo", "El mismo aire", "Ya me enteré"],
+    "Luck Ra": ["Hola perdida", "La morocha", "Toco y me voy"],
+    "Carlitos Rolán": ["Sacame el nene a pasear", "La chiva de Panchito"],
+    "Dale Q' Va": ["Miedo bonito", "Tres noches"],
 
     "Michael Jackson": ["Thriller", "Billie Jean", "Beat It", "Bad", "Smooth Criminal", "Black or White", "Man in the Mirror", "Don't Stop 'Til You Get Enough", "Rock with You", "Heal the World", "You Are Not Alone", "They Don't Care About Us", "The Way You Make Me Feel", "Remember the Time", "Earth Song"],
     "Madonna": ["Like a Virgin", "Like a Prayer", "Material Girl", "Vogue", "La isla bonita", "Papa Don't Preach", "Holiday", "Into the Groove", "Frozen", "Hung Up", "Music", "Express Yourself"],

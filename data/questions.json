@@ -593,7 +593,7 @@
     },
 
     {
-      "id": "c1", "genre": "cumbia_cuarteto", "answer": "No me arrepiento de este amor", "artist": "Gilda",
+      "id": "c1", "genre": "cumbia", "answer": "No me arrepiento de este amor", "artist": "Gilda",
       "aliases": ["No me arrepiento"], "year": 1995, "decade": "90s",
       "hint": "Gilda, la «santa» de la cumbia, 1995: un amor que no se lamenta, se defiende.",
       "continue": {
@@ -603,11 +603,11 @@
       }
     },
     {
-      "id": "c2", "genre": "cumbia_cuarteto", "answer": "Fuiste", "artist": "Gilda", "decade": "90s",
+      "id": "c2", "genre": "cumbia", "answer": "Fuiste", "artist": "Gilda", "decade": "90s",
       "hint": "Gilda le habla a alguien que ya es parte del pasado. El título es un verbo de una sola palabra."
     },
     {
-      "id": "c3", "genre": "cumbia_cuarteto", "answer": "Soy cordobés", "artist": "Rodrigo",
+      "id": "c3", "genre": "cuarteto", "answer": "Soy cordobés", "artist": "Rodrigo",
       "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno"],
       "hint": "El Potro Rodrigo, orgulloso de dónde viene: vino, joda y tonada.",
       "continue": {
@@ -617,46 +617,46 @@
       }
     },
     {
-      "id": "c4", "genre": "cumbia_cuarteto", "answer": "La mano de Dios", "artist": "Rodrigo",
+      "id": "c4", "genre": "cuarteto", "artistDecoys": ["Ulises Bueno", "La Mona Jiménez", "Damián Córdoba"], "answer": "La mano de Dios", "artist": "Rodrigo",
       "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno"],
       "hint": "El Potro Rodrigo le canta la vida de Maradona, del potrero de Fiorito a la gloria."
     },
     {
-      "id": "c5", "genre": "cumbia_cuarteto", "answer": "Amor clasificado", "artist": "Rodrigo",
+      "id": "c5", "genre": "cuarteto", "answer": "Amor clasificado", "artist": "Rodrigo",
       "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno", "Ulises Bueno"],
       "hint": "El Potro Rodrigo busca el amor en los avisos del diario."
     },
     {
-      "id": "c6", "genre": "cumbia_cuarteto", "answer": "Quién se tomó todo el vino", "artist": "La Mona Jiménez",
+      "id": "c6", "genre": "cuarteto", "answer": "Quién se tomó todo el vino", "artist": "La Mona Jiménez",
       "artistAliases": ["La Mona", "Mona Jiménez", "Carlos Jiménez"],
       "hint": "La Mona Jiménez pregunta en plena fiesta quién vació la damajuana."
     },
     {
-      "id": "c7", "genre": "cumbia_cuarteto", "answer": "Se te ve la tanga", "artist": "Damas Gratis",
+      "id": "c7", "genre": "cumbia", "answer": "Se te ve la tanga", "artist": "Damas Gratis",
       "artistAliases": ["Pablo Lescano"], "decade": "2000s",
       "hint": "Damas Gratis y Pablo Lescano: un piropo cumbiero a una prenda que asoma del pantalón."
     },
     {
-      "id": "c8", "genre": "cumbia_cuarteto", "answer": "Una cerveza", "artist": "Ráfaga", "decade": "2000s",
+      "id": "c8", "genre": "cumbia", "answer": "Una cerveza", "artist": "Ráfaga", "decade": "2000s",
       "hint": "Ráfaga: ahogar las penas de amor con una birra… y otra, y otra."
     },
     {
-      "id": "c9", "genre": "cumbia_cuarteto", "answer": "El bombón asesino", "artist": "Los Palmeras",
+      "id": "c9", "genre": "cumbia", "answer": "El bombón asesino", "artist": "Los Palmeras",
       "artistAliases": ["Palmeras"],
       "hint": "Los Palmeras, cumbia santafesina: una chica tan dulce como peligrosa."
     },
     {
-      "id": "c10", "genre": "cumbia_cuarteto", "answer": "La pollera amarilla", "artist": "Gladys la Bomba Tucumana",
+      "id": "c10", "genre": "cumbia", "answer": "La pollera amarilla", "artist": "Gladys la Bomba Tucumana",
       "artistAliases": ["Gladys", "La Bomba Tucumana", "La Bomba"],
       "hint": "Gladys, la Bomba Tucumana: todos miran una prenda de un color muy llamativo."
     },
     {
-      "id": "c11", "genre": "cumbia_cuarteto", "answer": "Lo mejor del amor", "artist": "Rodrigo",
+      "id": "c11", "genre": "cuarteto", "answer": "Lo mejor del amor", "artist": "Rodrigo",
       "artistAliases": ["El Potro", "Potro Rodrigo", "Rodrigo Bueno"],
       "hint": "El Potro Rodrigo le canta a lo más lindo de estar enamorado."
     },
     {
-      "id": "c12", "genre": "cumbia_cuarteto", "answer": "Cómo te voy a olvidar", "artist": "Los Ángeles Azules",
+      "id": "c12", "genre": "cumbia", "answer": "Cómo te voy a olvidar", "artist": "Los Ángeles Azules",
       "artistAliases": ["Ángeles Azules"],
       "hint": "Cumbia sonidera mexicana que se baila en todos los casamientos: una pregunta sin respuesta sobre el olvido."
     },

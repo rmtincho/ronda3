@@ -6,7 +6,7 @@ Todo se responde con opciones **A, B, C, D**. Lo único que se escribe son cifra
 
 **Temas:** 🎵 Música · 🎬 Cine y series · ⚽ Deportes · 🏛️ Historia · 🌎 Geografía · 🎨 Arte y literatura · 🔬 Ciencia y naturaleza.
 
-**Modos:** Todo mezclado, Solo música, Rock, Rock nacional, Rock de los 80, Bien argentino, Cine y series, Música y cine, Mundiales, Deportes, Cultura general, Cifras y estimaciones… y **Personalizado**, para combinar temas a gusto.
+**Modos:** Todo mezclado, Solo música, Rock, Rock nacional, Rock de los 80, Bien argentino, Música argentina, Tango, Folklore, Cumbia y cuarteto, Cine y series, Música y cine, Mundiales, Deportes, Cultura general, Cifras y estimaciones… y **Personalizado**, para combinar temas a gusto.
 
 ## Arrancar
 

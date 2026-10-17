@@ -17,7 +17,7 @@ const LEVELS_FILE = path.join(DATA_DIR, 'niveles.json');
 
 const BANK_TYPES = ['songs', 'movies', 'trivia', 'estimates'];
 // Géneros musicales que cuentan como "Bien argentino".
-const ARGENTINE_GENRES = new Set(['rock_nacional', 'tango', 'cumbia_cuarteto', 'folklore']);
+const ARGENTINE_GENRES = new Set(['rock_nacional', 'tango', 'cumbia', 'cuarteto', 'folklore']);
 // En "Todo mezclado", la música (que tiene audio) y el cine salen un poco más seguido.
 const TOPIC_WEIGHTS = { musica: 2, cine: 1.5 };
 

@@ -315,7 +315,7 @@
   },
   {
    "id": "cb1",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Corazón valiente",
    "artist": "Gilda",
    "decade": "90s",
@@ -323,14 +323,14 @@
   },
   {
    "id": "cb2",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Paisaje",
    "artist": "Gilda",
    "hint": "Gilda versionó a cumbia un tema del italiano Franco Simone: un horizonte que se mira de lejos."
   },
   {
    "id": "cb3",
-   "genre": "cumbia_cuarteto",
+   "genre": "cuarteto", "artistDecoys": ["Ulises Bueno", "La Mona Jiménez", "La Barra"],
    "answer": "Ocho cuarenta",
    "aliases": [
     "8:40"
@@ -346,7 +346,7 @@
   },
   {
    "id": "cb5",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "La suavecita",
    "artist": "Los Palmeras",
    "artistAliases": [
@@ -356,7 +356,7 @@
   },
   {
    "id": "cb6",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Me vas a extrañar",
    "artist": "Damas Gratis",
    "artistAliases": [
@@ -366,7 +366,7 @@
   },
   {
    "id": "cb7",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Llegamos los Pibes Chorros",
    "artist": "Pibes Chorros",
    "artistAliases": [
@@ -376,7 +376,7 @@
   },
   {
    "id": "cb8",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Nunca me faltes",
    "artist": "Antonio Ríos",
    "artistAliases": [
@@ -386,14 +386,14 @@
   },
   {
    "id": "cb9",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Yo me enamoré",
    "artist": "Amar Azul",
    "hint": "Amar Azul: cumbia de los 90 sobre alguien que perdió la cabeza por amor."
   },
   {
    "id": "cb10",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Mentirosa",
    "artist": "Ráfaga",
    "artistAliases": [
@@ -403,21 +403,21 @@
   },
   {
    "id": "cb11",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Tu misterioso alguien",
    "artist": "Agapornis",
    "hint": "Agapornis llevó a la cumbia un tema de Miranda!: alguien secreto del que nadie sabe nada."
   },
   {
    "id": "cb12",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "Cariñito",
    "artist": "Los Hijos del Sol",
    "hint": "Una cumbia peruana de Los Hijos del Sol, de ritmo chicha, que se baila en todas las fiestas."
   },
   {
    "id": "cb13",
-   "genre": "cumbia_cuarteto",
+   "genre": "cumbia",
    "answer": "L-Gante: Bzrp Music Sessions, Vol. 38",
    "aliases": [
     "Bzrp Music Sessions 38",
@@ -434,7 +434,7 @@
   },
   {
    "id": "cb14",
-   "genre": "cumbia_cuarteto",
+   "genre": "cuarteto", "artistDecoys": ["Ulises Bueno", "La Mona Jiménez", "Jean Carlos"],
    "answer": "Por lo que yo te quiero",
    "artist": "Walter Olmos",
    "hint": "Walter Olmos, cuarteto cordobés: un joven cantante que murió en 2002 dejando este hit romántico."
