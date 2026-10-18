@@ -6,6 +6,7 @@
   const ROUNDS_KEY = 'ronda3:tv-rounds';
   const SELECTION_KEY = 'ronda3:tv-selection';
   const DIFFICULTY_KEY = 'ronda3:tv-difficulty';
+  const SECONDS_KEY = 'ronda3:tv-seconds';
   const CUSTOM_MODE = 'custom';
   const LETTERS = ['A', 'B', 'C', 'D'];
   const ROULETTE_LABELS = [
@@ -19,6 +20,7 @@
     joinUrl: '',
     rounds: session.get(ROUNDS_KEY) || 10,
     difficulty: session.get(DIFFICULTY_KEY) || 'escalera',
+    seconds: session.get(SECONDS_KEY) || 20,
     selection: session.get(SELECTION_KEY) || { mode: 'todo', topics: [] },
     catalog: null,
     modeName: '',
@@ -374,6 +376,15 @@
     });
   }
 
+  for (const btn of document.querySelectorAll('#secondsPicker button')) {
+    btn.classList.toggle('on', Number(btn.dataset.seconds) === state.seconds);
+    btn.addEventListener('click', () => {
+      state.seconds = Number(btn.dataset.seconds);
+      session.set(SECONDS_KEY, state.seconds);
+      for (const b of document.querySelectorAll('#secondsPicker button')) b.classList.toggle('on', b === btn);
+    });
+  }
+
   for (const btn of document.querySelectorAll('#levelPicker button')) {
     btn.classList.toggle('on', btn.dataset.difficulty === state.difficulty);
     btn.addEventListener('click', () => {
@@ -386,7 +397,7 @@
   $('#startBtn').addEventListener('click', () => {
     sfx.unlock();
     const { mode, topics } = state.selection;
-    const base = { rounds: state.rounds, difficulty: state.difficulty };
+    const base = { rounds: state.rounds, difficulty: state.difficulty, seconds: state.seconds };
     socket.send('tv:start', mode === CUSTOM_MODE ? { ...base, topics } : { ...base, mode });
   });
 

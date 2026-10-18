@@ -20,6 +20,8 @@ const MAX_PLAYERS = 16;
 const MAX_NAME = 16;
 const MAX_TEXT = 80;
 const DEFAULT_ROUNDS = 10;
+// Partida con extensión de tiempo: segundos por pregunta que puede elegir el tele.
+const ROUND_SECONDS_OPTIONS = [20, 30, 45, 60];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, Math.max(0, ms)));
 const withTimeout = (promise, ms, fallback) => Promise.race([promise, sleep(ms).then(() => fallback)]);
@@ -60,6 +62,7 @@ class Room {
     this.timer = null;
     this.audioEnabled = true;
     this.modeName = '';
+    this.roundMs = ROUND_MS;
     this.rouletteLabels = [];
     this.lastActivity = Date.now();
   }
@@ -224,8 +227,8 @@ class Room {
 
   // ---------- Partida ----------
 
-  // payload: { rounds, mode, difficulty } o { rounds, topics: [...], difficulty } para una combinación personalizada.
-  startGame(ws, { rounds, mode, topics, difficulty } = {}) {
+  // payload: { rounds, mode, difficulty, seconds } o { rounds, topics: [...], difficulty, seconds } para una combinación personalizada.
+  startGame(ws, { rounds, mode, topics, difficulty, seconds } = {}) {
     if (this.phase !== 'lobby' && this.phase !== 'over') return;
     if (!this.connectedPlayers().length) return sendError(ws, 'NO_PLAYERS', 'Esperá a que se sume al menos un jugador.');
 
@@ -249,6 +252,7 @@ class Room {
       if (spec.imageMovie) spec.imagePromise = resolveFrame(spec.imageMovie).catch(() => null);
     }
     this.modeName = `${result.modeEmoji || ''} ${result.modeName}`.trim();
+    this.roundMs = ROUND_SECONDS_OPTIONS.includes(Number(seconds)) ? Number(seconds) * 1000 : ROUND_MS;
     this.rouletteLabels = [...new Set(plan.map((s) => s.genreLabel))];
     this.plan = plan;
     this.round = null;
@@ -359,7 +363,7 @@ class Room {
     const spec = round.spec;
     const now = Date.now();
     round.startedAt = now;
-    round.endsAt = now + ROUND_MS;
+    round.endsAt = now + this.roundMs;
     const mode = round.image ? 'image' : round.audioUse === 'question' ? 'audio' : 'text';
     const prompts = { audio: spec.audioPrompt, image: spec.imagePrompt, text: spec.textPrompt };
 
@@ -373,7 +377,7 @@ class Room {
       unit: spec.numeric?.unit || null,
       mode,
       endsAt: round.endsAt,
-      durationMs: ROUND_MS,
+      durationMs: this.roundMs,
     };
     // El tele recibe además la pista de texto por si el audio falla o se silencia.
     this.questionTv = {
@@ -384,7 +388,7 @@ class Room {
     };
     this.broadcast('round:start', { ...this.question, serverNow: now }, { ...this.questionTv, serverNow: now });
     this.toTvs('round:progress', this.progress());
-    this.timer = setTimeout(() => this.closeRound(round), ROUND_MS);
+    this.timer = setTimeout(() => this.closeRound(round), this.roundMs);
   }
 
   submitAnswer(ws, { roundId, value }) {
@@ -447,7 +451,7 @@ class Room {
     const spec = round.spec;
 
     const entries = [...this.players.values()].map((p) => ({ key: p.key, answer: round.answers.get(p.key) || null }));
-    const scored = scoreAnswers(spec, entries, { endsAt: round.endsAt, durationMs: ROUND_MS });
+    const scored = scoreAnswers(spec, entries, { endsAt: round.endsAt, durationMs: this.roundMs });
     const results = scored.map((s) => {
       const player = this.players.get(s.key);
       const answer = round.answers.get(s.key);
