@@ -11,7 +11,7 @@
   const LETTERS = ['A', 'B', 'C', 'D'];
   const ROULETTE_LABELS = [
     '🎸 Rock nacional', '🤘 Rock internacional', '🪗 Tango', '🪕 Folklore', '💃 Cumbia', '🎹 Cuarteto', '📻 Hits y comerciales',
-    '🎬 Películas', '📺 Series', '🏆 Mundiales', '🏟️ Copa Libertadores', '⭐ Champions League', '🏀 NBA', '🏛️ Historia', '🌎 Geografía', '🎨 Arte y literatura', '🔬 Ciencia y naturaleza',
+    '🎬 Películas', '📺 Series', '🦸 Superhéroes', '🏆 Mundiales', '🏟️ Copa Libertadores', '⭐ Champions League', '🏀 NBA', '🏛️ Historia', '🌎 Geografía', '🎨 Arte y literatura', '🔬 Ciencia y naturaleza',
   ];
   const ROULETTE_SPIN_MS = 1700;
 
